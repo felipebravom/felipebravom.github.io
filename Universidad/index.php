@@ -1,1 +1,0 @@
-<? header( "Location: _plop.php" ); ?>
