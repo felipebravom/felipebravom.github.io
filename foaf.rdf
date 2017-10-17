@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.dcc.uchile.cl/~fbravo/foaf.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <foaf:maker rdf:resource="http://www.dcc.uchile.cl/~fbravo/foaf.rdf#me"/>
+    <foaf:primaryTopic rdf:resource="http://www.dcc.uchile.cl/~fbravo/foaf.rdf#me"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="fAtCKaWH2">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:mbox_sha1sum>79f1ce4dff069666fd4ac8b4324bb74d5aaf3981</foaf:mbox_sha1sum>
+    <foaf:name>Constanza Lledó</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.dcc.uchile.cl/~fbravo/foaf.rdf#me">
+    <foaf:depiction rdf:resource="http://www.dcc.uchile.cl/~fbravo/felipe.jpg"/>
+    <foaf:homepage rdf:resource="http://www.dcc.uchile.cl/~fbravo"/>
+    <owl:sameAs rdf:resource="http://dblp.l3s.de/d2r/page/authors/Felipe_Bravo-Marquez"/>
+    <foaf:knows rdf:nodeID="fAtCKaWH2"/>
+    <foaf:knows rdf:nodeID="fAtCKaWH3"/>
+    <foaf:knows rdf:nodeID="fAtCKaWH4"/>
+    <foaf:name>Felipe Bravo-Marquez</foaf:name>
+    <foaf:family_name>Bravo-Marquez</foaf:family_name>
+    <foaf:givenname>Felipe</foaf:givenname>
+    <foaf:title>Mr</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:mbox_sha1sum>e94c83df997ea28b517dfbc079b21bcc17811cb4</foaf:mbox_sha1sum>
+    <foaf:workplaceHomepage rdf:resource="http://labs.yahoo.com/Yahoo_Labs_Santiago"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="fAtCKaWH3">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:mbox_sha1sum>2ce753fb1dc1110422e9023a3e5fdd8c93741aa3</foaf:mbox_sha1sum>
+    <foaf:name>Ricardo Bravo</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="fAtCKaWH4">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:mbox_sha1sum>9e7b7d52aceeea51527fd25f8feed9f2077a2e12</foaf:mbox_sha1sum>
+    <foaf:name>Carmen Gloria Márquez</foaf:name>
+  </rdf:Description>
+</rdf:RDF>
