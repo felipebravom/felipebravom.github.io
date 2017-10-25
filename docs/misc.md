@@ -28,9 +28,9 @@
 
 ##  Academic Visits
 
-* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by [Manfred Klenner](http://www.cl.uzh.ch/de/people/team/Computerlinguistikteam/klenner.html) .
+* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by [Manfred Klenner](http://www.cl.uzh.ch/de/people/team/Computerlinguistikteam/klenner.html).
 
-* [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/) .
+* [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Invited Talks
 

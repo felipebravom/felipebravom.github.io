@@ -6,6 +6,6 @@ pages:
     - Home: index.md
     - Publications: publications.md
     - Misc: misc.md
-    - Teaching: 
+    - Slides: 
         - 'Data Analysis in R (in Spanish)': 'teaching/data_anal.md'
         - 'Web Information Retrieval (in Spanish)': 'teaching/webir.md'
