@@ -1,0 +1,11 @@
+site_name: Felipe Bravo-Marquez
+theme: mkdocs  
+repo_url: https://cs.waikato.ac.nz/~fbravoma
+site_description: Personal Webpage of Felipe Bravo-Marquez
+pages:
+    - Home: index.md
+    - Publications: publications.md
+    - Misc: misc.md
+    - Teaching: 
+        - 'Data Analysis in R (in Spanish)': 'teaching/data_anal.md'
+        - 'Web Information Retrieval (in Spanish)': 'teaching/webir.md'
