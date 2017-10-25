@@ -5,7 +5,9 @@
 
 I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) ([CV](documents/cvenglish.pdf)). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.auckland.ac.nz/people/b-pfahringer) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
 
+My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the overlapping fields of natural language processing ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing)), data mining ([DM](https://en.wikipedia.org/wiki/Natural_language_processing)), machine learning ([ML](https://en.wikipedia.org/wiki/Machine_learning)), information retrieval ([IR](https://en.wikipedia.org/wiki/Information_Retrieval)), and social media analysis ([SMA](https://en.wikipedia.org/wiki/Social_media_analytics)). 
 
+My main research goals are to study society by computationally analysing traces left by humans in the digital space.
 
 ## News
 
@@ -18,15 +20,6 @@ I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs
 * Check out the Twitter Lexicon expansion project [here](http://cs.waikato.ac.nz/ml/sa/lex.html). 
 
 
-## Main areas of interest
-
-* Natural Language Processing/Sentiment Analysis
-
-* Social Media Analysis/Computational Social Science
-
-* Machine Learning/Text Mining
-
-* Information Retrieval
 
 
 
