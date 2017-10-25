@@ -1,4 +1,25 @@
 
+## PDF Version
+
+A pdf version of my CV can be found [here](documents/cvenglish.pdf).
+
+## Qualifications
+
+* PhD. Computer Science, University of Waikato (Jul. 2017)
+
+* MSc. Computer Science, Universidad de Chile (Sep. 2013)
+
+* Computer Science Engineer, Universidad de Chile (Nov. 2010)
+
+* Industrial Engineer, Universidad de Chile (Nov. 2010)
+
+* BSc. in Industrial Engineering, Universidad de Chile (Oct. 2010)
+
+* BSc. Computer Engineering, Universidad de Chile (Jan. 2009)
+
+
+
+
 ##  Teaching
 
 * [COMP321] (Tutor) Practical Data Mining (spring 2017), Department of Computer Science, University of Waikato
