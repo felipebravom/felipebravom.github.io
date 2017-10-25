@@ -5,7 +5,15 @@
 
 I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.auckland.ac.nz/people/b-pfahringer) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
 
-My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the overlapping fields of natural language processing ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing)), data mining ([DM](https://en.wikipedia.org/wiki/Natural_language_processing)), machine learning ([ML](https://en.wikipedia.org/wiki/Machine_learning)), information retrieval ([IR](https://en.wikipedia.org/wiki/Information_Retrieval)), and social media analysis ([SMA](https://en.wikipedia.org/wiki/Social_media_analytics)). 
+My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
+
+* [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Data mining](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Data Science](https://en.wikipedia.org/wiki/Data_science)
+* [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval)
+* [Social media analytics](https://en.wikipedia.org/wiki/Social_media_analytics)
+* [Computational Social Socience](https://en.wikipedia.org/wiki/Computational_social_science)
 
 My main research goals are to study society by computationally analysing traces left by humans in the digital space.
 
