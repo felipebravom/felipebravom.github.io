@@ -21,7 +21,7 @@ My main research goals are to study society by computationally analysing traces 
 
 * I'm co-organising the SemEval-2018 Task 1: Affect in Tweets.
 
-* Check out the [AffectiveTweets](https://felipebravom.github.io/AffectiveTweets) Weka package.
+* Check out the [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/) Weka package.
 
 * I'm co-organising the WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
