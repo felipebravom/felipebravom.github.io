@@ -17,6 +17,14 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * BSc. Computer Engineering, Universidad de Chile (Jan. 2009)
 
+## Work Experience
+
+* [2017-present] Research Fellow, Machine Learning Group, University of Waikato.
+* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
+* [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
+* [2009] Internship, Simple, Software Developer. 
+* [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area. 
+* [2005-2006] Internship, [Vitanet](http://www.vitanet.cl), Software Developer.  
 
 
 
@@ -49,7 +57,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ##  Academic Visits
 
-* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by [Manfred Klenner](http://www.cl.uzh.ch/de/people/team/Computerlinguistikteam/klenner.html).
+* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Manfred Klenner.
 
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
