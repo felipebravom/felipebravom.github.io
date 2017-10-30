@@ -8,7 +8,7 @@ I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs
 My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
 
 * [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-* [Data mining](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Data mining](https://en.wikipedia.org/wiki/Data_mining)
 * [Data Science](https://en.wikipedia.org/wiki/Data_science)
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval)
