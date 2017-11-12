@@ -41,7 +41,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * Program committes: IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
-* Reviewing: IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
+* Reviewing: Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 
 ## Thesis Guidance
 
