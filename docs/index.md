@@ -9,11 +9,11 @@ My research interests and expertise lie in the acquisition of knowledge and info
 
 * [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * [Data mining](https://en.wikipedia.org/wiki/Data_mining)
-* [Data Science](https://en.wikipedia.org/wiki/Data_science)
+* [Data science](https://en.wikipedia.org/wiki/Data_science)
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval)
 * [Social media analytics](https://en.wikipedia.org/wiki/Social_media_analytics)
-* [Computational Social Socience](https://en.wikipedia.org/wiki/Computational_social_science)
+* [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science)
 
 My main research goals are to study society by computationally analysing traces left by humans in the digital space.
 
