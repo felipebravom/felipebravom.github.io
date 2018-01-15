@@ -16,7 +16,7 @@
 
 1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500), In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-annotated Tweets](http://ijcai.org/Abstract/15/177), In *IJCAI '15: Proceedings of the 24th International Joint Conference on Artificial Intelligence*. Buenos Aires, Argentina 2015.([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-annotated Tweets](http://ijcai.org/Abstract/15/177), In *IJCAI '15: Proceedings of the 24th International Joint Conference on Artificial Intelligence*. Buenos Aires, Argentina 2015.([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/ijcai15.pdf))|([poster](publications/ijcai_poster.pdf))
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From Unlabelled Tweets to Twitter-specific Opinion Words](http://dl.acm.org/citation.cfm?id=2767770), In *SIGIR '15: Proceedings of the 38th International ACM SIGIR Conference on Research & Development in Information Retrieval*. Santiago, Chile 2015. DOI:10.1145/2766462.2767770 ([pdf](papers/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
 
