@@ -1,6 +1,19 @@
+## Journal Papers
 
 
-## Conference and Journal Papers
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://www.iospress.nl/journal/web-intelligence-and-agent-systems/), In *Web Intelligence*, to appear ([pdf](publications/wij2018.pdf))
+
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X), In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
+
+1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500), In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
+
+
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315), In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
+
+1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068), In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
+
+## Conference and Workshop Papers 
 
 1. S. M. Mohammad and F. Bravo-Marquez [WASSA-2017 Shared Task on Emotion Intensity](http://aclweb.org/anthology/W17-5205), In *Proceedings of the EMNLP 2017 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA)*, September 2017, Copenhagen, Denmark. ([pdf](publications/wassa2017.pdf))
 
@@ -12,17 +25,11 @@
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Annotate-Sample-Average (ASA): A New Distant Supervision Approach for Twitter Sentiment Analysis](http://ebooks.iospress.nl/volumearticle/44793), In *ECAI '16: Proceedings of the 22nd Biennial European Conference on Artificial Intelligence*. The Hague, Holland 2016. IOS press. DOI:10.3233/978-1-61499-672-9-498 ([pdf](publications/ecai2016.pdf))
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X), In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
-
-1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500), In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-annotated Tweets](http://ijcai.org/Abstract/15/177), In *IJCAI '15: Proceedings of the 24th International Joint Conference on Artificial Intelligence*. Buenos Aires, Argentina 2015.([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/ijcai15.pdf))|([poster](publications/ijcai_poster.pdf))
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From Unlabelled Tweets to Twitter-specific Opinion Words](http://dl.acm.org/citation.cfm?id=2767770), In *SIGIR '15: Proceedings of the 38th International ACM SIGIR Conference on Research & Development in Information Retrieval*. Santiago, Chile 2015. DOI:10.1145/2766462.2767770 ([pdf](papers/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
 
-1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315), In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
-
-1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068), In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
 
 1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [OpinionZoom, a modular tool to explore tourism opinions on the Web](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6690738), In *WI '2013: IEEE/WIC/ACM International Conference on Web Intelligence*. Industry Track. Atlanta, USA. DOI:10.1109/WI-IAT.2013.19 ([pdf](publications/wi2013.pdf))
 

@@ -63,6 +63,10 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Invited Talks
 
+* [July 2016] [Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+
+* [January 2019] Pontifica Universidad Catolica de Chile. Invited talk at CIWS Workshop - Future of Data: Emotion Intensties of Tweets.
+
 * [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html).
 
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html).
