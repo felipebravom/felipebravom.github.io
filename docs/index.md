@@ -49,4 +49,4 @@ My main research goals are to study society by computationally analysing traces 
 * [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 
-Last Updated October 25th, 2017 
+Last Updated February 16th, 2018 

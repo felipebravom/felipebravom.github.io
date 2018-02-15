@@ -64,7 +64,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Seminars
 
 
-* [January 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
 * [January 2018] [Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
