@@ -3,7 +3,7 @@
 ## About Me
 
 
-I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.auckland.ac.nz/people/b-pfahringer) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
+I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
 
 My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
 
