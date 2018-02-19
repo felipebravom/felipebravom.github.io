@@ -63,7 +63,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Seminars
 
-* [March 2018][Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
 * [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
