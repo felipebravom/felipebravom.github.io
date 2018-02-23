@@ -15,6 +15,9 @@
 
 ## Conference and Workshop Papers 
 
+
+1.  S. M. Mohammad, F. Bravo-Marquez, M. Salameh, and S. Kiritchenko  [Semeval-2018 Task 1: Affect in tweets](http://alt.qcri.org/semeval2018/). In Proceedings of International Workshop on Semantic Evaluation (SemEval-2018), New Orleans, LA, USA, June 2018. 
+
 1. S. M. Mohammad and F. Bravo-Marquez [WASSA-2017 Shared Task on Emotion Intensity](http://aclweb.org/anthology/W17-5205), In *Proceedings of the EMNLP 2017 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA)*, September 2017, Copenhagen, Denmark. ([pdf](publications/wassa2017.pdf))
 
 1. S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](http://anthology.aclweb.org/S/S17/S17-1007.pdf), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
