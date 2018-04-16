@@ -43,7 +43,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * Journal Reviewing: Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 
-## Thesis Guidance
+## Students
 
 * (2013) Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
 
@@ -61,7 +61,9 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
-## Seminars
+## Seminars and Talks
+
+* [June 2018] [IfI Summer School 2018 on Machine Learning](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). Deep Learning for Natural Language Processing 
 
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
