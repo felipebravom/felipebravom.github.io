@@ -1,4 +1,4 @@
-<img src="img/me.png" alt="alt text" width="30%" height="30%"> 
+<img src="img/meOfficial.jpg" alt="alt text" width="30%" height="40%"> 
 
 ## About Me
 
