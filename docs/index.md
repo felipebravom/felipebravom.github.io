@@ -3,7 +3,7 @@
 ## About Me
 
 
-I'm a postdoctoral research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
+I'm a research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
 
 My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
 
@@ -16,18 +16,6 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science)
 
 My main research goals are to study society by computationally analysing traces left by humans in the digital space.
-
-## News
-
-* I'm co-organising the SemEval-2018 Task 1: Affect in Tweets.
-
-* Check out the [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/) Weka package.
-
-* I'm co-organising the WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
-
-* Check out the Twitter Lexicon expansion project [here](http://cs.waikato.ac.nz/ml/sa/lex.html). 
-
-
 
 
 
@@ -48,5 +36,6 @@ My main research goals are to study society by computationally analysing traces 
 * [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bravo=Marquez:Felipe.html)
 * [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
 
-Last Updated February 19th, 2018 
+Last Updated May 18th, 2018 

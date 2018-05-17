@@ -63,7 +63,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Seminars and Talks
 
-* [June 2018] [IfI Summer School 2018 on Machine Learning](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). Deep Learning for Natural Language Processing 
+* [June 2018] [IfI Summer School 2018 on Machine Learning, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). Deep Learning for Natural Language Processing 
 
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
@@ -85,3 +85,15 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * [June 2016] [Universidad Tecnica Federico Santa Maria](https://www.inf.utfsm.cl/eventos/evento/18-coloquio-acquiring-and-exploiting-lexical-knowledge-fortwitter-sentiment-analysis): Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
 
+
+## Software
+
+
+* I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package package for analysing emotion and sentiment of tweets.
+* I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
+* Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
+
+## Shared Task Organistation
+
+* Co-organiser of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
+* Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
