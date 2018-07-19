@@ -31,6 +31,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ##  Teaching
 
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
+* (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
 * [COMP321] (Tutor) Practical Data Mining (spring 2017), Department of Computer Science, University of Waikato
 * (Lecturer) Databases Management Diploma (spring 2013), Informatic Engineering Department (postgraduate), Universidad Técnica Federico Santa María
 * [CC5206/CC71Q] (Lecturer) Data Mining (spring 2012), Computer Science Department (undergraduate and postgraduate), Universidad de Chile
@@ -60,13 +61,11 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ##  Academic Visits
 
-* [July 2018][Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Martin Volk.
-* [September 2017][Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Manfred Klenner.
+* [July 2018] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Martin Volk.
+* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Manfred Klenner.
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-
-* [June 2018][IfI Summer School 2018 on Machine Learning, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). Deep Learning for Natural Language Processing 
 
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 
