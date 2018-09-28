@@ -33,7 +33,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
 * [COMP321] (Tutor) Practical Data Mining (spring 2017), Department of Computer Science, University of Waikato
-* (Lecturer) Databases Management Diploma (spring 2013), Informatic Engineering Department (postgraduate), Universidad Técnica Federico Santa María
+* (Lecturer) Databases Management Diploma (spring 2013), Department  of Informatics Engineering (postgraduate), Universidad Técnica Federico Santa María
 * [CC5206/CC71Q] (Lecturer) Data Mining (spring 2012), Computer Science Department (undergraduate and postgraduate), Universidad de Chile
 * [IN72K] (Lecturer) Information Technologies and Business Process Redesign (fall 2011), Master in Operations Management, Universidad de Chile
 * [IN4522] (TA) Web Mining (spring 2010), Industrial Engineering, Universidad de Chile
@@ -51,7 +51,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * (2018)  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
 * (2018) Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
 * (2013) Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
-* (2012) Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatic Engineering, U. of Santiago.
+* (2012) Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatics Engineering, U. of Santiago.
 
 ## Short Courses
 
