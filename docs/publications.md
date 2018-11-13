@@ -1,7 +1,7 @@
 ## Journal Papers
 
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://www.iospress.nl/journal/web-intelligence-and-agent-systems/), In *Web Intelligence*, to appear ([pdf](publications/wij2018.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389), In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages. 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
 
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X), In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
@@ -31,7 +31,7 @@
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-annotated Tweets](http://ijcai.org/Abstract/15/177), In *IJCAI '15: Proceedings of the 24th International Joint Conference on Artificial Intelligence*. Buenos Aires, Argentina 2015.([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/ijcai15.pdf))|([poster](publications/ijcai_poster.pdf))
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From Unlabelled Tweets to Twitter-specific Opinion Words](http://dl.acm.org/citation.cfm?id=2767770), In *SIGIR '15: Proceedings of the 38th International ACM SIGIR Conference on Research & Development in Information Retrieval*. Santiago, Chile 2015. DOI:10.1145/2766462.2767770 ([pdf](papers/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From Unlabelled Tweets to Twitter-specific Opinion Words](http://dl.acm.org/citation.cfm?id=2767770), In *SIGIR '15: Proceedings of the 38th International ACM SIGIR Conference on Research & Development in Information Retrieval*. Santiago, Chile 2015. DOI:10.1145/2766462.2767770 ([pdf](publications/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
 
 
 1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [OpinionZoom, a modular tool to explore tourism opinions on the Web](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6690738), In *WI '2013: IEEE/WIC/ACM International Conference on Web Intelligence*. Industry Track. Atlanta, USA. DOI:10.1109/WI-IAT.2013.19 ([pdf](publications/wi2013.pdf))
