@@ -67,24 +67,17 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Seminars and Talks
 
-* [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
-
+* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
+19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
+* [March 2018][Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 * [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
-
 * [January 2018][Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
-
 * [January 2018] Pontifica Universidad Catolica de Chile. Invited talk at CIWS Workshop - Future of Data: Emotion Intensties of Tweets.
-
 * [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
-
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
-
 * [September 2016] [University of Melbourne](http://www.cis.unimelb.edu.au/), hosted by [Timothy Baldwin](http://people.eng.unimelb.edu.au/tbaldwin/): Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
-
 * [July 2016] [Pontifica Universidad Catolica de Chile](http://www.ing.uc.cl/ciencia-de-la-computacion/charla-1-de-julio-socvis-dcc-uc/):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
-
 * [July 2016] [Universidad de Chile](http://www.dcc.uchile.cl/charla_acquiring_and_exploiting_lexical_knowledge_for_twitter_sentiment_analysis):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
-
 * [June 2016] [Universidad Tecnica Federico Santa Maria](https://www.inf.utfsm.cl/eventos/evento/18-coloquio-acquiring-and-exploiting-lexical-knowledge-fortwitter-sentiment-analysis): Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
 
 
