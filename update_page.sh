@@ -1,5 +1,5 @@
 mkdocs build
-rsync -av site/ fbravoma@ml64-21.cms.waikato.ac.nz:public_html
+mv site/* .
 git add .
 git commit -m "update"
 git push
