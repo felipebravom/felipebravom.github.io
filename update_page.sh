@@ -1,5 +1,5 @@
 mkdocs build
-cp -R site/* .
+mv site/* .
 git add .
 git commit -m "update"
 git push

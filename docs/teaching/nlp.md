@@ -3,7 +3,7 @@
 
 This slides comprise a course on natural language processing with a focus on modern techniques based on neural networks. 
 
-The material is based on the book from Yoav Goldberg:
+The material is based on the book from Yoav Goldberg: dfsdf
 
 ## Slides
 
