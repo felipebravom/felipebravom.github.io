@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem[Conneau et~al., 2017]{conneau2017very}
+Conneau, A., Schwenk, H., Barrault, L., and Lecun, Y. (2017).
+\newblock Very deep convolutional networks for text classification.
+\newblock In {\em Proceedings of the 15th Conference of the European Chapter of
+  the Association for Computational Linguistics: Volume 1, Long Papers},
+  volume~1, pages 1107--1116.
+
+\bibitem[Goldberg, 2016]{goldberg2016primer}
+Goldberg, Y. (2016).
+\newblock A primer on neural network models for natural language processing.
+\newblock {\em J. Artif. Intell. Res.(JAIR)}, 57:345--420.
+
+\bibitem[LeCun et~al., 1998]{lecun1998gradient}
+LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324.
+
+\bibitem[Severyn and Moschitti, 2015]{Severyn2015}
+Severyn, A. and Moschitti, A. (2015).
+\newblock Twitter sentiment analysis with deep convolutional neural networks.
+\newblock In {\em Proceedings of the 38th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval}, pages 959--962, New York,
+  NY, USA. ACM.
+
+\end{thebibliography}

@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[Lau and Baldwin, 2016]{lau2016empirical}
+Lau, J.~H. and Baldwin, T. (2016).
+\newblock An empirical evaluation of doc2vec with practical insights into
+  document embedding generation.
+\newblock {\em arXiv preprint arXiv:1607.05368}.
+
+\bibitem[Le and Mikolov, 2014]{LeM14}
+Le, Q.~V. and Mikolov, T. (2014).
+\newblock Distributed representations of sentences and documents.
+\newblock In {\em Proceedings of the 31th International Conference on Machine
+  Learning}, pages 1188--1196.
+
+\bibitem[Pang et~al., 2002]{Pang2002}
+Pang, B., Lee, L., and Vaithyanathan, S. (2002).
+\newblock Thumbs up? {Sentiment} classification using machine learning
+  techniques.
+\newblock In {\em Proceedings of the 2002 Conference on Empirical Methods in
+  Natural Language Processing}, pages 79--86. Association for Computational
+  Linguistics.
+
+\bibitem[Socher et~al., 2013]{socher2013recursive}
+Socher, R., Perelygin, A., Wu, J.~Y., Chuang, J., Manning, C.~D., Ng, A.~Y.,
+  and Potts, C. (2013).
+\newblock Recursive deep models for semantic compositionality over a sentiment
+  treebank.
+\newblock In {\em Proceedings of the 2013 Conference on Empirical Methods in
+  Natural Language Processing}, pages 1631--1642. Association for Computational
+  Linguistics.
+
+\end{thebibliography}

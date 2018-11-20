@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[Brown et~al., 1992]{brown1992class}
+Brown, P.~F., Desouza, P.~V., Mercer, R.~L., Pietra, V. J.~D., and Lai, J.~C.
+  (1992).
+\newblock Class-based n-gram models of natural language.
+\newblock {\em Computational linguistics}, 18(4):467--479.
+
+\bibitem[Mohammad et~al., 2013]{Mohammad2013}
+Mohammad, S.~M., Kiritchenko, S., and Zhu, X. (2013).
+\newblock Nrc-canada: Building the state-of-the-art in sentiment analysis of
+  tweets.
+\newblock {\em Proceedings of the seventh international workshop on Semantic
+  Evaluation Exercises (SemEval-2013)}.
+
+\bibitem[Nakov et~al., 2013]{Semeval2013}
+Nakov, P., Rosenthal, S., Kozareva, Z., Stoyanov, V., Ritter, A., and Wilson,
+  T. (2013).
+\newblock Semeval-2013 task 2: Sentiment analysis in twitter.
+\newblock In {\em Proceedings of the seventh international workshop on Semantic
+  Evaluation Exercises}, pages 312--320, Atlanta, Georgia, USA. Association for
+  Computational Linguistics.
+
+\bibitem[Read, 2005]{Read2005}
+Read, J. (2005).
+\newblock Using emoticons to reduce dependency in machine learning techniques
+  for sentiment classification.
+\newblock In {\em Proceedings of the ACL Student Research Workshop}, ACLstudent
+  '05, pages 43--48, Stroudsburg, PA, USA. Association for Computational
+  Linguistics.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+\frametitle{Training Dataset: CoNLL-2003 NER Data}
+Each line contains a token, a part-of-speech tag, a syntactic chunk tag, and a named-entity tag.
+\begin{center}
+\begin{semiverbatim}
+U.N.         NNP  I-NP  I-ORG
+official     NN   I-NP  O
+Ekeus        NNP  I-NP  I-PER
+heads        VBZ  I-VP  O
+for          IN   I-PP  O
+Baghdad      NNP  I-NP  I-LOC
+.            .    O     O
+\end{semiverbatim}
+\end{center}
+
+\footnotemark{Source: \url{https://www.clips.uantwerpen.be/conll2003/ner/}}
+
