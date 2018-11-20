@@ -1,0 +1,14 @@
+\begin{thebibliography}{}
+
+\bibitem[Cho, 2015]{cho2015natural}
+Cho, K. (2015).
+\newblock Natural language understanding with distributed representation.
+\newblock {\em arXiv preprint arXiv:1511.07916}.
+
+\bibitem[Cho et~al., 2015]{cho2015describing}
+Cho, K., Courville, A., and Bengio, Y. (2015).
+\newblock Describing multimedia content using attention-based encoder-decoder
+  networks.
+\newblock {\em IEEE Transactions on Multimedia}, 17(11):1875--1886.
+
+\end{thebibliography}

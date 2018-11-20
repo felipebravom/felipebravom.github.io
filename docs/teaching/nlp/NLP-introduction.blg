@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: NLP-introduction.aux
+The style file: apalike.bst
+Database file #1: bio.bib
+You've used 4 entries,
+            1935 wiz_defined-function locations,
+            502 strings with 4711 characters,
+and the built_in function-call counts, 1959 in all, are:
+= -- 197
+> -- 86
+< -- 3
++ -- 30
+- -- 30
+* -- 159
+:= -- 329
+add.period$ -- 14
+call.type$ -- 4
+change.case$ -- 35
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 79
+empty$ -- 132
+format.name$ -- 34
+if$ -- 398
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 62
+stack$ -- 0
+substring$ -- 129
+swap$ -- 20
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 16
+width$ -- 0
+write$ -- 58

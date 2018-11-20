@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: NLP-RNN.aux
+The style file: apalike.bst
+Database file #1: bio.bib
+A bad cross reference---entry "FelboMSRL17"
+refers to entry "DBLP:conf/emnlp/2017", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/emnlp/2017"
+You've used 2 entries,
+            1935 wiz_defined-function locations,
+            487 strings with 4228 characters,
+and the built_in function-call counts, 1026 in all, are:
+= -- 104
+> -- 35
+< -- 2
++ -- 14
+- -- 12
+* -- 77
+:= -- 165
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 16
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 43
+empty$ -- 75
+format.name$ -- 14
+if$ -- 211
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 6
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 91
+swap$ -- 13
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 28
+(There was 1 error message)
