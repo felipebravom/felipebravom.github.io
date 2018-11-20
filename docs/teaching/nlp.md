@@ -12,6 +12,7 @@ Most of the book material is freely available [here](https://u.cs.biu.ac.il/~yog
 
 1. [Introduction to Natural Language Processing](nlp/NLP-introduction.pdf) | ([tex source file](nlp/NLP-introduction.tex))
 2. [Neural Networks](nlp/NLP-neural.pdf) | ([tex source file](nlp/NLP-neural.tex))
+3. [Word Vectors](nlp/NLP-wordvectors.pdf) | ([tex source file](nlp/NLP-wordvectors.tex))
 3. [Convolutional Neural Networks](nlp/NLP-CNN.pdf) | ([tex source file](nlp/NLP-CNN.tex))
 4. [Recurrent Neural Networks](nlp/NLP-RNN.pdf) | ([tex source file](nlp/NLP-RNN.tex))
 5. [Sequence to Sequence Models](nlp/NLP-seq2seq.pdf) | ([tex source file](nlp/NLP-seq2seq.tex))
