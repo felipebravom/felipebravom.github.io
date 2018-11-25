@@ -1,7 +1,7 @@
 ## Journal Papers
 
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389), In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages. 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389), In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages: 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
 
 
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X), In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
