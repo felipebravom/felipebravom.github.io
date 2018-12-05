@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/publications/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/cv/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/teaching/nlp/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/teaching/data_anal/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2018-12-05</lastmod>
+     <loc>/teaching/webir/</loc>
+     <lastmod>2018-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
