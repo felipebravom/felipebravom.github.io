@@ -69,9 +69,9 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
 19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
-* [March 2018][Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 * [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
-* [January 2018][Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [January 2018] [Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 * [January 2018] Pontifica Universidad Catolica de Chile. Invited talk at CIWS Workshop - Future of Data: Emotion Intensties of Tweets.
 * [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
@@ -84,7 +84,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Software
 
 
-* I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package package for analysing emotion and sentiment of tweets.
+* I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
 * I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
 * Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
 
