@@ -1,7 +1,7 @@
 
 # Recuperación de Información, Web Mining y la Web
 
-En esta págia se encuentran un conjunto de charlas que he dictado asociadas a temas en recuperación de información, minería de la Web y estudio de la Web.
+En esta página se encuentran un conjunto de charlas que he dictado asociadas a temas en recuperación de información, minería de la Web y estudio de la Web.
 
 ## Charlas
 

@@ -88,7 +88,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
 * Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
 
-## Shared Task Organistation
+## Shared Task Organisation
 
 * Co-organiser of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
