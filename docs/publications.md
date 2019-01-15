@@ -16,16 +16,12 @@
 ## Conference and Workshop Papers 
 
 
-1.  S. M. Mohammad, F. Bravo-Marquez, M. Salameh, and S. Kiritchenko  [Semeval-2018 Task 1: Affect in tweets](http://alt.qcri.org/semeval2018/). In Proceedings of International Workshop on Semantic Evaluation (SemEval-2018), New Orleans, LA, USA, June 2018. ([pdf](publications/semeval2018.pdf))|[leaderboard](publications/semeval2018_sup.pdf))
-
-1. S. M. Mohammad and F. Bravo-Marquez [WASSA-2017 Shared Task on Emotion Intensity](http://aclweb.org/anthology/W17-5205), In *Proceedings of the EMNLP 2017 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA)*, September 2017, Copenhagen, Denmark. ([pdf](publications/wassa2017.pdf))
-
-1. S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](http://anthology.aclweb.org/S/S17/S17-1007.pdf), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
-
-1. F. Bravo-Marquez, E. Frank, S. M. Mohammad, and B. Pfahringer [Determining Word--Emotion Associations from Tweets by Multi-Label Classification](http://ieeexplore.ieee.org/document/7817108/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 536-539. DOI:10.1109/WI.2016.90 ([pdf](publications/wi2016a.pdf))
-
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From opinion lexicons to sentiment classification of tweets and vice versa: a transfer learning approach](http://ieeexplore.ieee.org/document/7817047/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 145-152. DOI:10.1109/WI.2016.29 ([pdf](publications/wi2016t.pdf))
-
+1.  F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://dappcon.net/). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. (to appear)
+1.  S. M. Mohammad, F. Bravo-Marquez, M. Salameh, and S. Kiritchenko  [Semeval-2018 Task 1: Affect in tweets](http://alt.qcri.org/semeval2018/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2018)*, New Orleans, LA, USA, June 2018. ([pdf](publications/semeval2018.pdf))|[leaderboard](publications/semeval2018_sup.pdf))
+1.  S. M. Mohammad and F. Bravo-Marquez [WASSA-2017 Shared Task on Emotion Intensity](http://aclweb.org/anthology/W17-5205), In *Proceedings of the EMNLP 2017 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA)*, September 2017, Copenhagen, Denmark. ([pdf](publications/wassa2017.pdf))
+1.  S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](http://anthology.aclweb.org/S/S17/S17-1007.pdf), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
+1.  F. Bravo-Marquez, E. Frank, S. M. Mohammad, and B. Pfahringer [Determining Word--Emotion Associations from Tweets by Multi-Label Classification](http://ieeexplore.ieee.org/document/7817108/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 536-539. DOI:10.1109/WI.2016.90 ([pdf](publications/wi2016a.pdf))
+1.  F. Bravo-Marquez, E. Frank, and B. Pfahringer [From opinion lexicons to sentiment classification of tweets and vice versa: a transfer learning approach](http://ieeexplore.ieee.org/document/7817047/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 145-152. DOI:10.1109/WI.2016.29 ([pdf](publications/wi2016t.pdf))
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Annotate-Sample-Average (ASA): A New Distant Supervision Approach for Twitter Sentiment Analysis](http://ebooks.iospress.nl/volumearticle/44793), In *ECAI '16: Proceedings of the 22nd Biennial European Conference on Artificial Intelligence*. The Hague, Holland 2016. IOS press. DOI:10.3233/978-1-61499-672-9-498 ([pdf](publications/ecai2016.pdf))
 
 
