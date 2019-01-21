@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  26 NOV 2018 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  22 JAN 2019 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -214,84 +214,90 @@ ylor, C. Rodr^^S^^Pguez,
  []
 
 [2]
-Overfull \hbox (16.15678pt too wide) in paragraph at lines 146--147
+Overfull \hbox (11.91602pt too wide) in paragraph at lines 144--145
+[]\OT1/cmr/m/n/10 F. Bravo-Marquez, S. Reeves, and M. Ugarte \OT1/cmr/m/it/10 P
+roof-of-Learning: a Blockchain
+ []
+
+
+Overfull \hbox (16.15678pt too wide) in paragraph at lines 148--149
 \OT1/cmr/m/it/10 pu-ta-tional Ap-proaches to Sub-jec-tiv-ity, Sen-ti-ment, and 
 So-cial Me-dia (WASSA)\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (18.81454pt too wide) in paragraph at lines 151--153
+Overfull \hbox (18.81454pt too wide) in paragraph at lines 153--155
 \OT1/cmr/m/it/10 y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 The bi-en-nial Eu-r
 o-pean Con-fer-ence on Ar-ti-fi-cial In-tel-li-gence (ECAI'16)\OT1/cmr/m/n/10 .
 
  []
 
-
-Overfull \hbox (2.60918pt too wide) in paragraph at lines 167--168
+[3]
+Overfull \hbox (2.60918pt too wide) in paragraph at lines 169--170
 \OT1/cmr/m/it/10 Emo-tions and Po-lar-i-ties for Boost-ing Twit-ter Sen-ti-ment
  Anal-y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 KDD-
  []
 
-[3]
-Overfull \hbox (5.77003pt too wide) in paragraph at lines 180--181
+
+Overfull \hbox (5.77003pt too wide) in paragraph at lines 182--183
 \OT1/cmr/m/it/10 Sim-i-lar-ity Meta-Search En-gine Based on Doc-u-ment Fin-ger-
 prints and Search
  []
 
 [4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 216.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 218.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 216.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 218.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-Overfull \hbox (2.11179pt too wide) in paragraph at lines 220--221
+Overfull \hbox (2.11179pt too wide) in paragraph at lines 222--223
 []\OT1/cmr/m/n/10 (2018) Tris-tan An-der-son, Co-supervised with Bern-hard Pfah
 ringer, ``Build-
  []
 
 
-Overfull \hbox (15.22298pt too wide) in paragraph at lines 220--221
+Overfull \hbox (15.22298pt too wide) in paragraph at lines 222--223
 \OT1/cmr/m/n/10 ing Time-Evolving Opin-ion Lex-i-con'', Hon-ours Project, Uni-v
 er-sity of Waikato. 
  []
 
 
-Overfull \hbox (1.88947pt too wide) in paragraph at lines 222--223
+Overfull \hbox (1.88947pt too wide) in paragraph at lines 224--225
 []\OT1/cmr/m/n/10 (2013) Edi-son Mar-rese Tay-lor, Co-supervisor with Juan Vel^
 ^Sasquez, ``Dise~no
  []
 
 [5]
-Overfull \hbox (8.77843pt too wide) in paragraph at lines 232--233
+Overfull \hbox (8.77843pt too wide) in paragraph at lines 234--235
 []\OT1/cmr/m/n/10 Co-organiser of the WASSA-2017 shared task on emo-tion in-ten
 -sity (EmoInt). 
  []
 
-[6] [7] (./cvenglish.aux) ) 
+[6] [7] [8] (./cvenglish.aux) ) 
 Here is how much of TeX's memory you used:
  3314 strings out of 493029
  43105 string characters out of 6136233
- 100253 words of memory out of 5000000
+ 101253 words of memory out of 5000000
  6821 multiletter control sequences out of 15000+600000
  6260 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,23p,394b,738s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cvenglish.pdf (7 pages, 115466 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cvenglish.pdf (8 pages, 116181 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
