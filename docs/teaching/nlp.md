@@ -20,7 +20,7 @@ Most of the book material is freely available [here](https://u.cs.biu.ac.il/~yog
 
 
 
-# ## Videos
+## Videos
 
 Find below links to popular videos on NLP:
 
