@@ -6,7 +6,7 @@ This is a short course on natural language processing using neural networks.
 The material is based on the book from Yoav Goldberg: 
 [Neural Network Methods for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 
-Most of the book material is freely available [here](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
+
 
 ## Slides
 
@@ -20,9 +20,20 @@ Most of the book material is freely available [here](https://u.cs.biu.ac.il/~yog
 
 
 
-## Videos
+## Other Resources
 
-Find below links to popular videos on NLP:
+
+
+1. [Speech and Language Processing (3rd ed. draft) by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/).
+2. [Michael Collins' NLP notes](http://www.cs.columbia.edu/~mcollins/).
+3. [A Primer on Neural Network Models for Natural Language Processing by Joav Goldberg](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
+4. [Natural Language Understanding with Distributed Representation by Kyunghyun Cho](https://arxiv.org/abs/1511.07916)
+5. [CS224n: Natural Language Processing with Deep Learning, Stanford course](http://web.stanford.edu/class/cs224n/)
+6. [NLP-progress: Repository to track the progress in Natural Language Processing (NLP)](http://nlpprogress.com/)
+
+
+
+### Videos 
 
 1. [Natural Language Processing MOOC videos by Dan Jurafsky and Chris Manning, 2012](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true)
 2. [Natural Language Processing MOOC videos by Michael Collins, 2013](https://www.youtube.com/channel/UCB_JX4jH3QQmp69rmkWpl1A/playlists?shelf_id=3&view=50&sort=dd)
