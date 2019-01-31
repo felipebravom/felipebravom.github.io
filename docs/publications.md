@@ -16,7 +16,7 @@
 ## Conference and Workshop Papers 
 
 
-1.  F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://dappcon.net/). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. (to appear)
+1.  F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://dappcon.net/). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. (to appear) ([pdf](publications/dappcon2019.pdf))
 
 1.  S. M. Mohammad, F. Bravo-Marquez, M. Salameh, and S. Kiritchenko  [Semeval-2018 Task 1: Affect in tweets](https://aclweb.org/anthology/S18-1001). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2018)*, New Orleans, LA, USA, June 2018. ([pdf](publications/semeval2018.pdf))|[leaderboard](publications/semeval2018_sup.pdf))
 

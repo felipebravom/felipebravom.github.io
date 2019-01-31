@@ -2,7 +2,7 @@ site_name: Felipe Bravo-Marquez
 theme: mkdocs  
 repo_url: https://cs.waikato.ac.nz/~fbravoma
 site_description: Personal Webpage of Felipe Bravo-Marquez
-pages:
+nav:
     - Home: index.md
     - Publications: publications.md
     - CV: cv.md
