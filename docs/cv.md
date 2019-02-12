@@ -47,6 +47,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Students
 
+* (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
 * (2018) Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
 * (2018)  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
 * (2018) Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
@@ -66,7 +67,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-
+* [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
 * [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
 19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
@@ -92,3 +93,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * Co-organiser of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
+
+## Media Outreach
+
+* [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
+* [RadioNZ - NZ's unique te reo tweets](https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets)
