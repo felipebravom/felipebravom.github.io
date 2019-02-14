@@ -3,7 +3,11 @@
 ## About Me
 
 
-I'm a research fellow in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
+I'm an *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
+
+I also hold an *Honorary Research Associate* position 
+in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). I conducted my PhD in the same lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/).
+be/).
 
 My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
 
@@ -23,9 +27,11 @@ My main research goals are to study society by computationally analysing traces 
 
 ## Contact
 
-*  Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. Office G.105.
+*  Chile Address: Avenida Beauchef 851, edificio norte, tercer piso, Santiago, Chile / C.P. 837-0456
 
-* Email : fbravoma at waikato.ac.nz
+* New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. Office G.105.
+
+* Email : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
 
 
 ## Other Profiles
