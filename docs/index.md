@@ -27,11 +27,11 @@ My main research goals are to study society by computationally analysing traces 
 
 ## Contact
 
-*  Chile Address: Avenida Beauchef 851, edificio norte, tercer piso, Santiago, Chile / C.P. 837-0456
+*  Chile Address: Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
+*  Phone number: +56 2 2978 4974
 
-* New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. Office G.105.
-
-* Email : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
+*  New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
+*  Email : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
 
 
 ## Other Profiles
@@ -44,4 +44,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
 
-Last Updated February 13th, 2019 
+Last Updated March 5th, 2019 

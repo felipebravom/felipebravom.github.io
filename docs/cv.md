@@ -19,7 +19,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Work Experience
 
-* [2017-present] Research Fellow, Machine Learning Group, University of Waikato.
+* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
 * [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
 * [2009] Internship, Simple, Software Developer. 
