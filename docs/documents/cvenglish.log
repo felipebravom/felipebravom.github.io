@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  22 JAN 2019 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.29)  6 MAR 2019 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cvenglish.tex
 (./cvenglish.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -43,42 +43,34 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@temptokena=\toks18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen105
 \extrarowheight=\dimen106
 \NC@list=\toks20
@@ -90,7 +82,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@old@col=\dimen109
 \TX@target=\dimen110
 \TX@delta=\dimen111
-\TX@cols=\count89
+\TX@cols=\count88
 \TX@ftn=\toks21
 ) (./CV.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -98,7 +90,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
-Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen112
 \epsfysize=\dimen113
 ) (./cvenglish.aux)
@@ -119,62 +111,70 @@ LaTeX Font Info:    ... okay on input line 13.
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count90
+\scratchcounter=\count89
 \scratchdimen=\dimen114
 \scratchbox=\box26
-\nofMPsegments=\count91
-\nofMParguments=\count92
+\nofMPsegments=\count90
+\nofMParguments=\count91
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count93
+\MPscratchCnt=\count92
 \MPscratchDim=\dimen115
-\MPnumerator=\count94
-\makeMPintoPDFobject=\count95
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
 \everyMPtoPDFconversion=\toks23
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -188,19 +188,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (11.05495pt too wide) in paragraph at lines 98--100
+Overfull \hbox (11.05495pt too wide) in paragraph at lines 100--102
 []\OT1/cmr/m/n/10 IEEE stu-dent travel grant to at-tend the 2016 IEEE/WIC/ACM
  []
 
 
-Overfull \hbox (8.55489pt too wide) in paragraph at lines 103--104
+Overfull \hbox (8.55489pt too wide) in paragraph at lines 105--106
 \OT1/cmr/m/n/10 (CON-I-CYT) Schol-ar-ship for mas-ter's de-gree stud-ies at Chi
 lean
  []
@@ -208,93 +213,93 @@ lean
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (4.02834pt too wide) in paragraph at lines 127--128
+Overfull \hbox (4.02834pt too wide) in paragraph at lines 129--130
 []\OT1/cmr/m/n/10 J.D. Vel^^Sasquez, Y. Co-v-ace-vich, F. Molina, E. Marrese-Ta
 ylor, C. Rodr^^S^^Pguez,
  []
 
 [2]
-Overfull \hbox (11.91602pt too wide) in paragraph at lines 144--145
+Overfull \hbox (11.91602pt too wide) in paragraph at lines 146--147
 []\OT1/cmr/m/n/10 F. Bravo-Marquez, S. Reeves, and M. Ugarte \OT1/cmr/m/it/10 P
 roof-of-Learning: a Blockchain
  []
 
 
-Overfull \hbox (16.15678pt too wide) in paragraph at lines 148--149
+Overfull \hbox (16.15678pt too wide) in paragraph at lines 150--151
 \OT1/cmr/m/it/10 pu-ta-tional Ap-proaches to Sub-jec-tiv-ity, Sen-ti-ment, and 
 So-cial Me-dia (WASSA)\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (18.81454pt too wide) in paragraph at lines 153--155
+Overfull \hbox (18.81454pt too wide) in paragraph at lines 155--157
 \OT1/cmr/m/it/10 y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 The bi-en-nial Eu-r
 o-pean Con-fer-ence on Ar-ti-fi-cial In-tel-li-gence (ECAI'16)\OT1/cmr/m/n/10 .
 
  []
 
 [3]
-Overfull \hbox (2.60918pt too wide) in paragraph at lines 169--170
+Overfull \hbox (2.60918pt too wide) in paragraph at lines 171--172
 \OT1/cmr/m/it/10 Emo-tions and Po-lar-i-ties for Boost-ing Twit-ter Sen-ti-ment
  Anal-y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 KDD-
  []
 
 
-Overfull \hbox (5.77003pt too wide) in paragraph at lines 182--183
+Overfull \hbox (5.77003pt too wide) in paragraph at lines 184--185
 \OT1/cmr/m/it/10 Sim-i-lar-ity Meta-Search En-gine Based on Doc-u-ment Fin-ger-
 prints and Search
  []
 
 [4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 218.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 220.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 218.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-)
-Overfull \hbox (2.11179pt too wide) in paragraph at lines 222--223
+) [5]
+Overfull \hbox (2.11179pt too wide) in paragraph at lines 224--225
 []\OT1/cmr/m/n/10 (2018) Tris-tan An-der-son, Co-supervised with Bern-hard Pfah
 ringer, ``Build-
  []
 
 
-Overfull \hbox (15.22298pt too wide) in paragraph at lines 222--223
+Overfull \hbox (15.22298pt too wide) in paragraph at lines 224--225
 \OT1/cmr/m/n/10 ing Time-Evolving Opin-ion Lex-i-con'', Hon-ours Project, Uni-v
 er-sity of Waikato. 
  []
 
 
-Overfull \hbox (1.88947pt too wide) in paragraph at lines 224--225
+Overfull \hbox (1.88947pt too wide) in paragraph at lines 226--227
 []\OT1/cmr/m/n/10 (2013) Edi-son Mar-rese Tay-lor, Co-supervisor with Juan Vel^
 ^Sasquez, ``Dise~no
  []
 
-[5]
-Overfull \hbox (8.77843pt too wide) in paragraph at lines 234--235
+
+Overfull \hbox (8.77843pt too wide) in paragraph at lines 236--237
 []\OT1/cmr/m/n/10 Co-organiser of the WASSA-2017 shared task on emo-tion in-ten
 -sity (EmoInt). 
  []
 
 [6] [7] [8] (./cvenglish.aux) ) 
 Here is how much of TeX's memory you used:
- 3314 strings out of 493029
- 43105 string characters out of 6136233
- 101253 words of memory out of 5000000
- 6821 multiletter control sequences out of 15000+600000
+ 3266 strings out of 492982
+ 42511 string characters out of 6134895
+ 98183 words of memory out of 5000000
+ 6802 multiletter control sequences out of 15000+600000
  6260 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,23p,394b,738s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,25p,394b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cvenglish.pdf (8 pages, 116181 bytes).
+Output written on cvenglish.pdf (8 pages, 116335 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
