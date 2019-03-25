@@ -31,6 +31,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ##  Teaching
 
+* [CC5206] (Lecturer) Introduction to Data Mining (spring 2019), Computer Science Department, Universidad de Chile
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
 * [COMP321] (Tutor) Practical Data Mining (spring 2017), Department of Computer Science, University of Waikato
