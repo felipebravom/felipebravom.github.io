@@ -36,6 +36,7 @@ My main research goals are to study society by computationally analysing traces 
 
 ## Other Profiles
 
+* [DCC Uchile](https://www.dcc.uchile.cl/felipe_bravo)
 * [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121)
 * [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom)
 * [University of Waikato](https://www.cms.waikato.ac.nz/people/fbravoma) 
