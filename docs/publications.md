@@ -1,6 +1,11 @@
 ## Journal Papers
 
 
+
+1. S. Lang, F. Bravo-Marquez, C, Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.journals.elsevier.com/knowledge-based-systems), In *Knowledge-Based Systems*. Accepted ([pdf](publications/WDL4J_KBS2019.pdf))
+
+1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for analyzing Affect in Tweets](http://jmlr.org/mloss/), In *Journal of Machine Learning Research (JMLR) - Machine Learning Open Source Software (MLOSS)*. Accepted.
+
 1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389), In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
 
 
