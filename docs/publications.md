@@ -2,7 +2,7 @@
 
 
 
-1. S. Lang, F. Bravo-Marquez, C, Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.journals.elsevier.com/knowledge-based-systems), In *Knowledge-Based Systems*. Accepted ([pdf](publications/WDL4J_KBS2019.pdf))
+1. S. Lang, F. Bravo-Marquez, C, Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789), In *Knowledge-Based Systems*. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
 
 1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for analyzing Affect in Tweets](http://jmlr.org/mloss/), In *Journal of Machine Learning Research (JMLR) - Machine Learning Open Source Software (MLOSS)*. Accepted.
 
