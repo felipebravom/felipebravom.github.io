@@ -30,7 +30,8 @@ The material is based on the book from Yoav Goldberg:
 4. [Natural Language Understanding with Distributed Representation by Kyunghyun Cho](https://arxiv.org/abs/1511.07916)
 5. [CS224n: Natural Language Processing with Deep Learning, Stanford course](http://web.stanford.edu/class/cs224n/)
 6. [NLP-progress: Repository to track the progress in Natural Language Processing (NLP)](http://nlpprogress.com/)
-7. [AllenNLP: Open source project for designing deep leaning-based NLP models](https://allennlp.org/)
+7. [NLTK book](http://www.nltk.org/book/)
+8. [AllenNLP: Open source project for designing deep leaning-based NLP models](https://allennlp.org/)
 
 
 
