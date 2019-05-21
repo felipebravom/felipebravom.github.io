@@ -32,9 +32,10 @@ The material is based on the book from Yoav Goldberg:
 6. [NLP-progress: Repository to track the progress in Natural Language Processing (NLP)](http://nlpprogress.com/)
 7. [NLTK book](http://www.nltk.org/book/)
 8. [AllenNLP: Open source project for designing deep leaning-based NLP models](https://allennlp.org/)
-9. [Attention is all you need explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
-10. [ELMO explained](http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/)
-11. [BERT exaplained](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
+9. [Real World NLP Book: AllenNLP tutorials](http://www.realworldnlpbook.com/)
+10. [Attention is all you need explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
+11. [ELMO explained](http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/)
+12. [BERT exaplained](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
 
 ##  
 
