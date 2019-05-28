@@ -37,6 +37,8 @@ The material is based on the book from Yoav Goldberg:
 10. [Attention is all you need explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
 11. [ELMO explained](http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/)
 12. [BERT exaplained](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
+13. [Better Language Models
+and Their Implications OpenAI Blog](https://openai.com/blog/better-language-models/)
 
 ##  
 
