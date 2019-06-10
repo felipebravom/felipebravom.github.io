@@ -39,6 +39,7 @@ The material is based on the book from Yoav Goldberg:
 12. [BERT exaplained](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
 13. [Better Language Models
 and Their Implications OpenAI Blog](https://openai.com/blog/better-language-models/)
+15. [David Bamman NLP Slides @Berkley](http://people.ischool.berkeley.edu/~dbamman/nlp18.html)
 
 ##  
 

@@ -6,7 +6,7 @@
 
    
 
-1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789), In *Knowledge-Based Systems*, 2019. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
+1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789), In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
 
    
 
