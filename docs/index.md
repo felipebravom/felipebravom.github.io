@@ -1,13 +1,14 @@
 <img src="img/meOfficial.jpg" alt="alt text" width="30%" height="40%"> 
 
-## About Me
+## Academic Positions
+
+* *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
+* *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, Chile). 
+* *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
 
 
-I'm an *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 
-I also hold an *Honorary Research Associate* position 
-in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). I conducted my PhD in that lab under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
-
+## Research Areas
 
 My research interests and expertise lie in the acquisition of knowledge and information from unstructured data, particularly natural language text, spanning the following overlapping fields:
 
@@ -47,4 +48,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
 
-Last Updated March 25th, 2019 
+Last Updated June 19th, 2019 
