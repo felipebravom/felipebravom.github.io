@@ -52,3 +52,5 @@ and Their Implications OpenAI Blog](https://openai.com/blog/better-language-mode
 1. [Natural Language Processing MOOC videos by Dan Jurafsky and Chris Manning, 2012](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true)
 2. [Natural Language Processing MOOC videos by Michael Collins, 2013](https://www.youtube.com/channel/UCB_JX4jH3QQmp69rmkWpl1A/playlists?shelf_id=3&view=50&sort=dd)
 3. [Natural Language Processing with Deep Learning by Chris Manning and Richard Socher, 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+4. [CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
