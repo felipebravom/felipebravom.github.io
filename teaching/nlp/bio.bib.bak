@@ -1008,15 +1008,4 @@
   year         = {2014},
 }
 
-@Article{goldberg2017neural,
-  author    = {Goldberg, Yoav},
-  title     = {Neural network methods for natural language processing},
-  journal   = {Synthesis Lectures on Human Language Technologies},
-  year      = {2017},
-  volume    = {10},
-  number    = {1},
-  pages     = {1--309},
-  publisher = {Morgan \& Claypool Publishers},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

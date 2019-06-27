@@ -1,30 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.29)  6 MAR 2019 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.6.19)  27 JUN 2019 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cvenglish.tex
 (./cvenglish.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
@@ -37,7 +36,7 @@ Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
-\uc@secondtry=\count87
+\uc@secondtry=\count88
 \uc@combtoks=\toks16
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
@@ -67,22 +66,24 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@width=\dimen104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen105
+\ar@mcellbox=\box27
 \extrarowheight=\dimen106
 \NC@list=\toks20
 \extratabsurround=\skip43
 \backup@length=\skip44
+\ar@cellbox=\box28
 )
 \TX@col@width=\dimen107
 \TX@old@table=\dimen108
 \TX@old@col=\dimen109
 \TX@target=\dimen110
 \TX@delta=\dimen111
-\TX@cols=\count88
+\TX@cols=\count89
 \TX@ftn=\toks21
 ) (./CV.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
@@ -113,16 +114,16 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
+\scratchcounter=\count90
 \scratchdimen=\dimen114
-\scratchbox=\box26
-\nofMPsegments=\count90
-\nofMParguments=\count91
+\scratchbox=\box29
+\nofMPsegments=\count91
+\nofMParguments=\count92
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count92
+\MPscratchCnt=\count93
 \MPscratchDim=\dimen115
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -151,18 +152,13 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+))))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -188,118 +184,141 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
+ []
+
+
+Overfull \hbox (1.04208pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 Honorary Re-search As-so-ciate in the Ma-chine Learn-ing Grou
+p
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (11.05495pt too wide) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Overfull \hbox (11.05495pt too wide) in paragraph at lines 112--114
 []\OT1/cmr/m/n/10 IEEE stu-dent travel grant to at-tend the 2016 IEEE/WIC/ACM
  []
 
 
-Overfull \hbox (8.55489pt too wide) in paragraph at lines 105--106
+Overfull \hbox (8.55489pt too wide) in paragraph at lines 117--118
 \OT1/cmr/m/n/10 (CON-I-CYT) Schol-ar-ship for mas-ter's de-gree stud-ies at Chi
 lean
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+) [2]
+Overfull \hbox (24.57227pt too wide) in paragraph at lines 140--141
+[]\OT1/cmr/m/n/10 S. Lang, F. Bravo-Marquez, C. Beck-ham, M. Hall, and E. Frank
+ \OT1/cmr/m/it/10 WekaDeeplearn-
  []
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (4.02834pt too wide) in paragraph at lines 129--130
+Overfull \hbox (4.02834pt too wide) in paragraph at lines 148--149
 []\OT1/cmr/m/n/10 J.D. Vel^^Sasquez, Y. Co-v-ace-vich, F. Molina, E. Marrese-Ta
 ylor, C. Rodr^^S^^Pguez,
  []
 
-[2]
-Overfull \hbox (11.91602pt too wide) in paragraph at lines 146--147
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+Overfull \hbox (11.91602pt too wide) in paragraph at lines 171--172
 []\OT1/cmr/m/n/10 F. Bravo-Marquez, S. Reeves, and M. Ugarte \OT1/cmr/m/it/10 P
 roof-of-Learning: a Blockchain
  []
 
-
-Overfull \hbox (16.15678pt too wide) in paragraph at lines 150--151
+[3]
+Overfull \hbox (16.15678pt too wide) in paragraph at lines 175--176
 \OT1/cmr/m/it/10 pu-ta-tional Ap-proaches to Sub-jec-tiv-ity, Sen-ti-ment, and 
 So-cial Me-dia (WASSA)\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (18.81454pt too wide) in paragraph at lines 155--157
+Overfull \hbox (18.81454pt too wide) in paragraph at lines 180--182
 \OT1/cmr/m/it/10 y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 The bi-en-nial Eu-r
 o-pean Con-fer-ence on Ar-ti-fi-cial In-tel-li-gence (ECAI'16)\OT1/cmr/m/n/10 .
 
  []
 
-[3]
-Overfull \hbox (2.60918pt too wide) in paragraph at lines 171--172
+
+Overfull \hbox (2.60918pt too wide) in paragraph at lines 196--197
 \OT1/cmr/m/it/10 Emo-tions and Po-lar-i-ties for Boost-ing Twit-ter Sen-ti-ment
  Anal-y-sis\OT1/cmr/m/n/10 , In \OT1/cmr/m/it/10 KDD-
  []
 
-
-Overfull \hbox (5.77003pt too wide) in paragraph at lines 184--185
+[4]
+Overfull \hbox (5.77003pt too wide) in paragraph at lines 209--210
 \OT1/cmr/m/it/10 Sim-i-lar-ity Meta-Search En-gine Based on Doc-u-ment Fin-ger-
 prints and Search
  []
 
-[4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 220.
+[5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 248.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 248.
 
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-1.def
-File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-) [5]
-Overfull \hbox (2.11179pt too wide) in paragraph at lines 224--225
+Overfull \hbox (2.11179pt too wide) in paragraph at lines 252--253
 []\OT1/cmr/m/n/10 (2018) Tris-tan An-der-son, Co-supervised with Bern-hard Pfah
 ringer, ``Build-
  []
 
 
-Overfull \hbox (15.22298pt too wide) in paragraph at lines 224--225
+Overfull \hbox (15.22298pt too wide) in paragraph at lines 252--253
 \OT1/cmr/m/n/10 ing Time-Evolving Opin-ion Lex-i-con'', Hon-ours Project, Uni-v
 er-sity of Waikato. 
  []
 
 
-Overfull \hbox (1.88947pt too wide) in paragraph at lines 226--227
+Overfull \hbox (1.88947pt too wide) in paragraph at lines 254--255
 []\OT1/cmr/m/n/10 (2013) Edi-son Mar-rese Tay-lor, Co-supervisor with Juan Vel^
 ^Sasquez, ``Dise~no
  []
 
-
-Overfull \hbox (8.77843pt too wide) in paragraph at lines 236--237
+[6]
+Overfull \hbox (8.77843pt too wide) in paragraph at lines 264--265
 []\OT1/cmr/m/n/10 Co-organiser of the WASSA-2017 shared task on emo-tion in-ten
 -sity (EmoInt). 
  []
 
-[6] [7] [8] (./cvenglish.aux) ) 
+[7] [8] (./cvenglish.aux) ) 
 Here is how much of TeX's memory you used:
- 3266 strings out of 492982
- 42511 string characters out of 6134895
- 98183 words of memory out of 5000000
- 6802 multiletter control sequences out of 15000+600000
+ 3908 strings out of 492615
+ 49372 string characters out of 6131390
+ 107049 words of memory out of 5000000
+ 7788 multiletter control sequences out of 15000+600000
  6260 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,25p,394b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cvenglish.pdf (8 pages, 116335 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cvenglish.pdf (8 pages, 117112 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
