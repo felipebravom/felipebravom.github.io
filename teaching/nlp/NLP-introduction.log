@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.6.19)  27 JUN 2019 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.3)  1 JUL 2019 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,6 +1043,11 @@ Package pdftex.def Info: pics/goldbergNLP.jpg  used on input line 73.
  <./pics/goldbergNLP.jpg>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 97.
+
+
+LaTeX Warning: Citation `goldberg2017neural' on page 3 undefined on input line 
+97.
+
 <pics/NER.png, id=29, 720.6925pt x 130.4875pt>
 File: pics/NER.png Graphic file (type png)
 <use pics/NER.png>
@@ -1055,9 +1060,44 @@ Overfull \hbox (2.88208pt too wide) in paragraph at lines 97--97
 
 [3
 
- <./pics/NER.png>] [4
+ <./pics/NER.png>]
 
-] [5
+LaTeX Warning: Citation `JohnsonMLSS' on page 4 undefined on input line 120.
+
+[4
+
+]
+
+LaTeX Warning: Citation `bender2013linguistic' on page 5 undefined on input lin
+e 139.
+
+[5
+
+]
+
+LaTeX Warning: Citation `JohnsonMLSS' on page 6 undefined on input line 152.
+
+[6
+
+]
+
+LaTeX Warning: Citation `fromkin2018introduction' on page 7 undefined on input 
+line 164.
+
+[7
+
+]
+
+LaTeX Warning: Citation `JohnsonMLSS' on page 8 undefined on input line 188.
+
+<pics/morphology.png, id=60, 588.1975pt x 487.8225pt>
+File: pics/morphology.png Graphic file (type png)
+<use pics/morphology.png>
+Package pdftex.def Info: pics/morphology.png  used on input line 188.
+(pdftex.def)             Requested size: 117.6374pt x 97.56276pt.
+[8
+
+ <./pics/morphology.png>] [9
 
 ]
 \openout4 = `NLP-introduction.vrb'.
@@ -1070,56 +1110,56 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 15.
-) [6
+) [10
 
-] [7
+] [11
 
-] [8
+] [12
 
 ]
-<pics/sent.png, id=67, 803.0pt x 403.5075pt>
+<pics/sent.png, id=89, 803.0pt x 403.5075pt>
 File: pics/sent.png Graphic file (type png)
 <use pics/sent.png>
-Package pdftex.def Info: pics/sent.png  used on input line 205.
+Package pdftex.def Info: pics/sent.png  used on input line 280.
 (pdftex.def)             Requested size: 120.4448pt x 60.52351pt.
 
-[9
+[13
 
  <./pics/sent.png>]
-<pics/bagOfwordsClassification.pdf, id=76, 317.185pt x 416.55624pt>
+<pics/bagOfwordsClassification.pdf, id=99, 317.185pt x 416.55624pt>
 File: pics/bagOfwordsClassification.pdf Graphic file (type pdf)
 <use pics/bagOfwordsClassification.pdf>
 Package pdftex.def Info: pics/bagOfwordsClassification.pdf  used on input line 
-214.
+289.
 (pdftex.def)             Requested size: 158.5921pt x 208.2776pt.
- [10
+ [14
 
  <./pics/bagOfwordsClassification.pdf>]
-<pics/SVM.png, id=98, 1188.44pt x 1027.84pt>
+<pics/SVM.png, id=121, 1188.44pt x 1027.84pt>
 File: pics/SVM.png Graphic file (type png)
 <use pics/SVM.png>
-Package pdftex.def Info: pics/SVM.png  used on input line 240.
+Package pdftex.def Info: pics/SVM.png  used on input line 315.
 (pdftex.def)             Requested size: 178.2583pt x 154.16934pt.
- [11
+ [15
 
- <./pics/SVM.png>] [12
+ <./pics/SVM.png>] [16
 
-] [13
-
-] [14
-
-] [15
-
-] [16
-
-]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 376.
- [17
+] [17
 
 ] [18
 
-] (./NLP-introduction.bbl) [19
+] [19
+
+] [20
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 451.
+ [21
+
+] [22
+
+] (./NLP-introduction.bbl) [23
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1131,21 +1171,25 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
 \tf@snm=\write8
 \openout8 = `NLP-introduction.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 476.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 476.
 
 (./NLP-introduction.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 401.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 476.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 476.
 Package rerunfilecheck Info: File `NLP-introduction.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 19966 strings out of 492615
- 372933 string characters out of 6131390
- 480774 words of memory out of 5000000
- 23339 multiletter control sequences out of 15000+600000
- 32504 words of font info for 66 fonts, out of 8000000 for 9000
+ 19988 strings out of 492615
+ 373189 string characters out of 6131391
+ 480776 words of memory out of 5000000
+ 23351 multiletter control sequences out of 15000+600000
+ 33721 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,803b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1154,10 +1198,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
 ype1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
 vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
 a.pfb>
-Output written on NLP-introduction.pdf (19 pages, 424723 bytes).
+Output written on NLP-introduction.pdf (23 pages, 446818 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
