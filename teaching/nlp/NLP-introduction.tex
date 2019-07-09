@@ -112,7 +112,7 @@ Computational linguistics (CL) studies the computational processes underlying (h
 \begin{itemize}
  \item How do we understand language?
  \item How do we produce language?
- \item H`ow do we learn language?
+ \item How do we learn language?
 \end{itemize}
 
 Similiar methods and models are used in NLP and CL
@@ -210,15 +210,30 @@ understanding a sentence.
 \end{frame}
 
 
-\begin{frame}{Semantics and Pragmatics}
+\begin{frame}{Semantics}
 \scriptsize{
 \begin{itemize}
-\item Semantics studies the meaning of words, phrases and sentences \cite{JohnsonMLSS}
+\item Semantics studies the meaning of words, phrases and sentences \cite{JohnsonMLSS}.
+\item Semantic roles: indicate the role played by each entity in a sentence.
+\item Examples of semantic roles: \textcolor[rgb]{0.00,0.00,1.00}{\textbf{agent}} (the entity that performs the action), \textcolor[rgb]{1.00,0.00,0.00}{\textbf{theme}} (the entity involved in the action), or \textcolor[rgb]{0.00,1.00,0.00}{\textbf{instrument}} (another entity used by the agent in order to perform the action).  
+\item Annotated sentence: \textcolor[rgb]{0.00,0.00,1.00}{\textbf{The boy}}  cut \textcolor[rgb]{1.00,0.00,0.00}{\textbf{the rope}} with \textcolor[rgb]{0.00,1.00,0.00}{\textbf{a razor}}.
+\item Lexical relations: relationship between different words \cite{yule2016study}.
+\item Examples of lexical relations: synonymy (conceal/hide), antonymy (shallow/deep) and hyponymy (dog/animal).
+\end{itemize}
+
+}
 
 
+\end{frame}
+
+
+
+\begin{frame}{Pragmatics}
+\scriptsize{
+\begin{itemize}
 \item \textbf{Pragmatics}: the study of how context affects meaning in certain situations \cite{fromkin2018introduction}.
 \item Example: how the sentence ``It’s cold in here'' comes to be interpreted as ``close the windows''.
-
+\item Example 2: Can you pass the salt?
 \end{itemize}
 
 }
@@ -352,6 +367,23 @@ $H_3$ separates the classes with the maximum margin.
 
 \end{frame}
 
+\begin{frame}{Linguistics and NLP}
+\begin{scriptsize}
+  \begin{itemize}
+   \item Knowing about linguistic structure is important for feature design
+and error analysis in NLP \cite{bender2013linguistic}.
+
+\item Machine learning approaches to NLP require features which can describe and generalize across particular instances of language use.
+\item Goal: guide the machine learning algorithm to find correlations between language use and its target set of labels.
+\item Knowledge about linguistic structures can inform the design of
+features for machine learning approaches to NLP.
+  \end{itemize}
+\end{scriptsize}
+
+ 
+\end{frame}
+
+
 
 
 \begin{frame}{Challenges in NLP}
@@ -470,24 +502,66 @@ classifier with the following hand-crafted features for representing tweets:
 \item Deep Learning systems on the other hand rely on representation learning to automatically learn good representations.
 \item Large amounts of training data and faster multicore CPU/GPU machines are key in the success of deep learning. 
 \item \textbf{Neural networks} and \textbf{word embeddings} play a key role in modern  architectures for NLP.
+
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+
+\begin{frame}{Deep Learning and Linguistic Concepts}
+\begin{scriptsize}
+\begin{itemize}
+\item If deep learning models can learn representations automatically, are linguistic concepts still useful (e.g., syntax, morphology)?
+\item Some proponents of deep-learning argue that such inferred, manually designed, linguistic properties are not needed, and that the neural network will learn
+these intermediate representations (or equivalent, or better ones) on its own \cite{goldberg2016primer}. 
+\item The jury is still out on this.
+\item Goldberg believes many of these linguistic concepts can indeed be inferred by the network on its own if given enough data.
+\item However, for many other cases we do not have enough training data available for the task we care about, and in these cases providing the network with the more explicit general concepts can be very valuable.
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+
+\begin{frame}{History}
+\begin{scriptsize}
+\begin{itemize}
+\item NLP progress can be divided into three main waves: 1) rationalism, 2) empiricism, and 3) deep learning \cite{deng2018deep}.
 \end{itemize}
 \end{scriptsize}
 \end{frame}
 
 
 
-
 \begin{frame}{Roadmap}
-In this course we will introduce modern concepts in natural language processing based on \textbf{neural networks}. The main concepts to be convered are listed below:
+In this course we will introduce modern concepts in natural language processing based on \textbf{statistical models} (second wave) and \textbf{neural networks} (third wave). The main concepts to be convered are listed below:
 \begin{scriptsize}
 \begin{enumerate}
-\item  \textbf{Word embeddings}
-\item  \textbf{Convolutional Neural Networks} (CNNs) 
-\item \textbf{Recurrent Neural Networks}: Elman, LSTMs, GRUs. 
+\item Text classification.
+\item Linear Models.
+\item Naive Bayes.
+\item Hidden Markov Models.
+\item Neural Networks.
+\item Word embeddings.
+\item Convolutional Neural Networks (CNNs) 
+\item Recurrent Neural Networks: Elman, LSTMs, GRUs. 
+\item Attention.
+\item Sequence-to-Sequence Models.
+\item Parse Trees.
 \end{enumerate} 
 \end{scriptsize}
 \end{frame}
 
+
+
+\begin{frame}{Important Websites}
+
+\begin{scriptsize}
+\begin{enumerate}
+\item \url{http://nlpprogress.com/}
+\item \url{https://allennlp.org/}
+\end{enumerate} 
+\end{scriptsize}
+\end{frame}
 
 
 

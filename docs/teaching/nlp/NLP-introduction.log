@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.3)  1 JUL 2019 12:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.3)  9 JUL 2019 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,12 +1043,7 @@ Package pdftex.def Info: pics/goldbergNLP.jpg  used on input line 73.
  <./pics/goldbergNLP.jpg>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 97.
-
-
-LaTeX Warning: Citation `goldberg2017neural' on page 3 undefined on input line 
-97.
-
-<pics/NER.png, id=29, 720.6925pt x 130.4875pt>
+<pics/NER.png, id=30, 720.6925pt x 130.4875pt>
 File: pics/NER.png Graphic file (type png)
 <use pics/NER.png>
 Package pdftex.def Info: pics/NER.png  used on input line 97.
@@ -1060,44 +1055,35 @@ Overfull \hbox (2.88208pt too wide) in paragraph at lines 97--97
 
 [3
 
- <./pics/NER.png>]
+ <./pics/NER.png>] [4
 
-LaTeX Warning: Citation `JohnsonMLSS' on page 4 undefined on input line 120.
+] [5
 
-[4
+] [6
 
-]
-
-LaTeX Warning: Citation `bender2013linguistic' on page 5 undefined on input lin
-e 139.
-
-[5
+] [7
 
 ]
-
-LaTeX Warning: Citation `JohnsonMLSS' on page 6 undefined on input line 152.
-
-[6
-
-]
-
-LaTeX Warning: Citation `fromkin2018introduction' on page 7 undefined on input 
-line 164.
-
-[7
-
-]
-
-LaTeX Warning: Citation `JohnsonMLSS' on page 8 undefined on input line 188.
-
-<pics/morphology.png, id=60, 588.1975pt x 487.8225pt>
+<pics/morphology.png, id=73, 588.1975pt x 487.8225pt>
 File: pics/morphology.png Graphic file (type png)
 <use pics/morphology.png>
-Package pdftex.def Info: pics/morphology.png  used on input line 188.
+Package pdftex.def Info: pics/morphology.png  used on input line 192.
 (pdftex.def)             Requested size: 117.6374pt x 97.56276pt.
-[8
+ [8
 
- <./pics/morphology.png>] [9
+ <./pics/morphology.png>]
+<pics/parseTree1.png, id=81, 869.2475pt x 442.65375pt>
+File: pics/parseTree1.png Graphic file (type png)
+<use pics/parseTree1.png>
+Package pdftex.def Info: pics/parseTree1.png  used on input line 210.
+(pdftex.def)             Requested size: 260.77626pt x 132.79713pt.
+ [9
+
+ <./pics/parseTree1.png>] [10
+
+] [11
+
+] [12
 
 ]
 \openout4 = `NLP-introduction.vrb'.
@@ -1110,58 +1096,76 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 15.
-) [10
+) [13
 
-] [11
+] [14
 
-] [12
+] [15
 
 ]
-<pics/sent.png, id=89, 803.0pt x 403.5075pt>
+<pics/sent.png, id=125, 803.0pt x 403.5075pt>
 File: pics/sent.png Graphic file (type png)
 <use pics/sent.png>
-Package pdftex.def Info: pics/sent.png  used on input line 280.
+Package pdftex.def Info: pics/sent.png  used on input line 333.
 (pdftex.def)             Requested size: 120.4448pt x 60.52351pt.
 
-[13
+[16
 
  <./pics/sent.png>]
-<pics/bagOfwordsClassification.pdf, id=99, 317.185pt x 416.55624pt>
+<pics/bagOfwordsClassification.pdf, id=134, 317.185pt x 416.55624pt>
 File: pics/bagOfwordsClassification.pdf Graphic file (type pdf)
 <use pics/bagOfwordsClassification.pdf>
 Package pdftex.def Info: pics/bagOfwordsClassification.pdf  used on input line 
-289.
+342.
 (pdftex.def)             Requested size: 158.5921pt x 208.2776pt.
- [14
+ [17
 
  <./pics/bagOfwordsClassification.pdf>]
-<pics/SVM.png, id=121, 1188.44pt x 1027.84pt>
+<pics/SVM.png, id=156, 1188.44pt x 1027.84pt>
 File: pics/SVM.png Graphic file (type png)
 <use pics/SVM.png>
-Package pdftex.def Info: pics/SVM.png  used on input line 315.
+Package pdftex.def Info: pics/SVM.png  used on input line 368.
 (pdftex.def)             Requested size: 178.2583pt x 154.16934pt.
- [15
+ [18
 
- <./pics/SVM.png>] [16
-
-] [17
-
-] [18
-
-] [19
+ <./pics/SVM.png>] [19
 
 ] [20
 
-]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 451.
- [21
+] [21
 
 ] [22
 
-] (./NLP-introduction.bbl) [23
+] [23
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+] [24
+
+] [25
+
+]
+
+LaTeX Warning: Citation `deng2018deep' on page 26 undefined on input line 531.
+
+[26
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 552.
+ [27
+
+] [28
+
+] [29
+
+] (./NLP-introduction.bbl) [30
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [31
+
+
+] [32
+
+
+]
 \tf@nav=\write6
 \openout6 = `NLP-introduction.nav'.
 
@@ -1171,25 +1175,27 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
 \tf@snm=\write8
 \openout8 = `NLP-introduction.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 476.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 476.
-
-(./NLP-introduction.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 476.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 476.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 588.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 588.
+ (./NLP-introduction.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 588.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 588.
 Package rerunfilecheck Info: File `NLP-introduction.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 19988 strings out of 492615
- 373189 string characters out of 6131391
- 480776 words of memory out of 5000000
- 23351 multiletter control sequences out of 15000+600000
- 33721 words of font info for 67 fonts, out of 8000000 for 9000
+ 20049 strings out of 492615
+ 374122 string characters out of 6131391
+ 483064 words of memory out of 5000000
+ 23386 multiletter control sequences out of 15000+600000
+ 33019 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,803b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1198,10 +1204,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
 ype1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
 vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
 a.pfb>
-Output written on NLP-introduction.pdf (23 pages, 446818 bytes).
+Output written on NLP-introduction.pdf (32 pages, 477051 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1019,4 +1019,11 @@
   publisher = {Morgan \& Claypool Publishers},
 }
 
+@Book{fromkin2018introduction,
+  title     = {An introduction to language},
+  publisher = {Cengage Learning},
+  year      = {2018},
+  author    = {Fromkin, Victoria and Rodman, Robert and Hyams, Nina},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
