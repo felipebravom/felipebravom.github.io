@@ -1,4 +1,4 @@
-<img src="img/meOfficial.jpg" alt="alt text" width="30%" height="40%"> 
+<img src="img/meOfficial.jpg" alt="alt text" width="10%" height="20%"> 
 
 ## Academic Positions
 

@@ -29,7 +29,7 @@
 
    
 
-1. D. Trye, A. S. Calude, F. Bravo-Marquez,  and T. T Keegan [Māori Loanwords: A Corpus of New Zealand English Tweets](https://sites.google.com/view/acl19studentresearchworkshop). In *Proceedings of the 2019 ACL Student Research Workshop* (SRW), Florence, Italy. ([pdf](publications/loanwords2019.pdf))
+1. D. Trye, A. S. Calude, F. Bravo-Marquez,  and T. T Keegan [Māori Loanwords: A Corpus of New Zealand English Tweets](https://www.aclweb.org/anthology/papers/P/P19/P19-2018/). In *Proceedings of the 2019 ACL Student Research Workshop* (SRW), Florence, Italy. ([pdf](publications/loanwords2019.pdf))
 
 1. F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://dappcon.net/). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. Pages 119-124. DOI:10.1109/DAPPCON.2019.00023. ([pdf](publications/dappcon2019.pdf))
 
