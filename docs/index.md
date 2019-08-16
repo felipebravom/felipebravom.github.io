@@ -5,7 +5,7 @@
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, Chile). 
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
-* *Member* of the [REpresentation LEarning and Natural LAnguage Processing (ReLeLa)](https://dccuchile.github.io/relela/) research group att [DCC](http://www.dcc.uchile.cl) 
+* *Member* of the [REpresentation LEarning and Natural LAnguage Processing (ReLeLa)](https://dccuchile.github.io/relela/) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
 
 
 ## Research Areas
