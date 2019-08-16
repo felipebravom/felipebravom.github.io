@@ -1,11 +1,11 @@
 <img src="img/meOfficial.jpg" alt="alt text" width="10%" height="20%"> 
 
-## Academic Positions
+## Affiliations
 
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, Chile). 
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
-
+* *Member* of the [REpresentation LEarning and Natural LAnguage Processing (ReLeLa)](https://dccuchile.github.io/relela/) research group att [DCC](http://www.dcc.uchile.cl) 
 
 
 ## Research Areas
@@ -40,7 +40,6 @@ My main research goals are to study society by computationally analysing traces 
 * [DCC Uchile](https://www.dcc.uchile.cl/felipe_bravo)
 * [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121)
 * [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom)
-* [University of Waikato](https://www.cms.waikato.ac.nz/people/fbravoma) 
 * [Google Scholar](https://scholar.google.com/citations?user=q--XWcQAAAAJ&hl)
 * [GitHub](https://github.com/felipebravom)
 * [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bravo=Marquez:Felipe.html)
@@ -48,4 +47,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
 
-Last Updated June 19th, 2019 
+Last Updated August 16th, 2019 
