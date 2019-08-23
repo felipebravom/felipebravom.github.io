@@ -25,7 +25,7 @@
 ## Conference and Workshop Papers 
 
 
-1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](http://www.dfki.de/~declerck/semdeep-5/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](publications/semdeep2019.pdf))
+1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](https://www.aclweb.org/anthology/W19-5804/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](publications/semdeep2019.pdf))
 
    
 
