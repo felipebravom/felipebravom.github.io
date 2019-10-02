@@ -39,6 +39,7 @@ My main research goals are to study society by computationally analysing traces 
 
 * [DCC Uchile](https://www.dcc.uchile.cl/felipe_bravo)
 * [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121)
+* [IMFD](https://imfd.cl/en/investigador/felipe-bravo-marquez/)
 * [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom)
 * [Google Scholar](https://scholar.google.com/citations?user=q--XWcQAAAAJ&hl)
 * [GitHub](https://github.com/felipebravom)
