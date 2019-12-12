@@ -8,6 +8,5 @@ nav:
     - CV: cv.md
     - Teaching: 
         - 'Natural Language Processing': 'https://github.com/dccuchile/CC6205/'
-        - 'Data Analysis in R (in Spanish)': 'teaching/data_anal.md'
-        - 'Web Information Retrieval (in Spanish)': 'teaching/webir.md'
+        - 'Data Mining/Data Science/Machine Learning (in Spanish)': 'teaching/data.md'
 
