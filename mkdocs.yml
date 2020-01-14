@@ -5,6 +5,7 @@ site_description: Personal Webpage of Felipe Bravo-Marquez
 nav:
     - Home: index.md
     - Publications: publications.md
+    - Bio: bio.md      
     - CV: cv.md
     - Teaching: 
         - 'Natural Language Processing': 'https://github.com/dccuchile/CC6205/'
