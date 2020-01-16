@@ -79,6 +79,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [January 2020] [Universidad Adolfo Ibañez](https://mkg.uai.cl/mails/gobierno/seminarios/2019/seminario_participacion/index.html). SEMINARIO: SISTEMATIZANDO LA
+PARTICIPACIÓN CIUDADANA ¿Cómo incorporamos la inteligencia colectiva para hacer mejores políticas públicas?
 * [July 2019] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Sentiment Analysis and NLP. Hosted by Álvaro Soto.
 * [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
 * [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
