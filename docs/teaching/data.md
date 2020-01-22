@@ -37,3 +37,4 @@ Acá se encuentra material de estudio en temas de Data Science, Estadística, Mi
 
 * [Para bajar e instalar Rstudio](http://www.rstudio.com/)
 
+* [Libro: Statistical Thinking for the 21st Century](https://statsthinking21.org)
