@@ -1,6 +1,8 @@
 ## Journal Papers
 
 
+1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.journals.elsevier.com/information-processing-and-management/), In *Information Processing & Management* (in press). ([pdf](publications/ipm2020.pdf))
+
 
 1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html), In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](publications/jmlr2019.pdf))
 
