@@ -9,88 +9,75 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>CV - Felipe Bravo-Marquez</title>
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="..">Felipe Bravo-Marquez</a>
-                </div>
+                <a class="navbar-brand" href="..">Felipe Bravo-Marquez</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="..">Home</a>
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="../publications/">Publications</a>
+                            <li class="navitem">
+                                <a href="../publications/" class="nav-link">Publications</a>
                             </li>
-                            <li >
-                                <a href="../bio/">Bio</a>
+                            <li class="navitem">
+                                <a href="../bio/" class="nav-link">Bio</a>
                             </li>
-                            <li class="active">
-                                <a href="./">CV</a>
+                            <li class="navitem active">
+                                <a href="./" class="nav-link">CV</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li >
-    <a href="https://github.com/dccuchile/CC6205/">Natural Language Processing</a>
+<li>
+    <a href="https://github.com/dccuchile/CC6205/" class="dropdown-item">Natural Language Processing</a>
 </li>
                                     
-<li >
-    <a href="../teaching/data/">Data Mining/Data Science/Machine Learning (in Spanish)</a>
+<li>
+    <a href="../teaching/data/" class="dropdown-item">Data Mining/Data Science/Machine Learning (in Spanish)</a>
 </li>
                                 </ul>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../bio/">
+                            <li class="nav-item">
+                                <a rel="prev" href="../bio/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../teaching/data/">
+                            <li class="nav-item">
+                                <a rel="next" href="../teaching/data/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://felipebravom.com">Felipebravom</a>
+                            <li class="nav-item">
+                                <a href="https://felipebravom.com" class="nav-link">Felipebravom</a>
                             </li>
                     </ul>
                 </div>
@@ -98,25 +85,81 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#pdf-version">PDF Version</a></li>
-        <li class="main "><a href="#qualifications">Qualifications</a></li>
-        <li class="main "><a href="#work-experience">Work Experience</a></li>
-        <li class="main "><a href="#teaching">Teaching</a></li>
-        <li class="main "><a href="#refereeing">Refereeing</a></li>
-        <li class="main "><a href="#students">Students</a></li>
-            <li><a href="#postgraduate">Postgraduate</a></li>
-            <li><a href="#undergraduate">Undergraduate</a></li>
-        <li class="main "><a href="#short-courses">Short Courses</a></li>
-        <li class="main "><a href="#academic-visits">Academic Visits</a></li>
-        <li class="main "><a href="#seminars-and-talks">Seminars and Talks</a></li>
-        <li class="main "><a href="#software">Software</a></li>
-        <li class="main "><a href="#shared-task-organisation">Shared Task Organisation</a></li>
-        <li class="main "><a href="#media-outreach">Media Outreach</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="2"><a href="#pdf-version" class="nav-link">PDF Version</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#qualifications" class="nav-link">Qualifications</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#work-experience" class="nav-link">Work Experience</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#teaching" class="nav-link">Teaching</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#refereeing" class="nav-link">Refereeing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#students" class="nav-link">Students</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#short-courses" class="nav-link">Short Courses</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#academic-visits" class="nav-link">Academic Visits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#seminars-and-talks" class="nav-link">Seminars and Talks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#software" class="nav-link">Software</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#shared-task-organisation" class="nav-link">Shared Task Organisation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="2"><a href="#media-outreach" class="nav-link">Media Outreach</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h2 id="pdf-version">PDF Version</h2>
 <p>A pdf version of my CV can be found <a href="../documents/cvenglish.pdf">here</a>.</p>
@@ -153,8 +196,8 @@
 </ul>
 <h2 id="teaching">Teaching</h2>
 <ul>
-<li>[CC6205] (Lecturer) Natural Language Processing (Spring 2019), Computer Science Department, Universidad de Chile</li>
-<li>[CC5206] (Lecturer) Introduction to Data Mining (fall 2019, Spring 2019), Computer Science Department, Universidad de Chile</li>
+<li>[CC6205] (Lecturer) Natural Language Processing (fall 2020, spring 2019), Computer Science Department, Universidad de Chile</li>
+<li>[CC5206] (Lecturer) Introduction to Data Mining (fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile</li>
 <li>[CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)</li>
 <li>[COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato</li>
 <li>(Lecturer) Deep Learning for Natural Language Processing  (June 2018) <a href="http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html">IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich</a>. </li>
@@ -168,7 +211,7 @@
 <h2 id="refereeing">Refereeing</h2>
 <ul>
 <li>
-<p>Conference Program Committes: NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017</p>
+<p>Conference Program Committes: ACL 2019,NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017</p>
 </li>
 <li>
 <p>Journal Reviewing: The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.</p>
@@ -179,9 +222,9 @@
 <ul>
 <li>(2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.</li>
 <li>(2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.</li>
-<li>(2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel and Romain Robbes, PhD, University of Chile.</li>
-<li>(2019-ongoing) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.</li>
-<li>(2019-ongoing) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.</li>
+<li>(2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.</li>
+<li>(2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.</li>
+<li>(2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.</li>
 </ul>
 <h3 id="undergraduate">Undergraduate</h3>
 <ul>
@@ -241,6 +284,7 @@
 <li><a href="https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge">University of Waikato - When machine learning, Twitter and te reo Māori merge</a></li>
 <li><a href="https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets">RadioNZ - NZ's unique te reo tweets</a></li>
 </ul></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -254,19 +298,19 @@
         <script src="../js/base.js" defer></script>
         <script src="../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
@@ -277,12 +321,12 @@
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

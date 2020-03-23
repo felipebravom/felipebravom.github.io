@@ -31,8 +31,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ##  Teaching
 
-* [CC6205] (Lecturer) Natural Language Processing (Spring 2019), Computer Science Department, Universidad de Chile
-* [CC5206] (Lecturer) Introduction to Data Mining (fall 2019, Spring 2019), Computer Science Department, Universidad de Chile
+* [CC6205] (Lecturer) Natural Language Processing (fall 2020, spring 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
 * [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
@@ -45,7 +45,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Refereeing
 
-* Conference Program Committes: NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: ACL 2019,NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
 * Journal Reviewing: The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 ## Students
@@ -54,9 +54,9 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * (2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
-* (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel and Romain Robbes, PhD, University of Chile.
-* (2019-ongoing) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
-* (2019-ongoing) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
+* (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 
 ### Undergraduate
 * (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
