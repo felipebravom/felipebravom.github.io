@@ -17,15 +17,12 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * BSc. Computer Engineering, Universidad de Chile (Jan. 2009)
 
-## Work Experience
+## Positions
 
 * [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
 * [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
-* [2009] Internship, Simple, Software Developer. 
-* [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area. 
-* [2005-2006] Internship, Vitanet, Software Developer.  
 
 
 
@@ -111,6 +108,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-
+* [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
+* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
 * [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
 * [RadioNZ - NZ's unique te reo tweets](https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets)
