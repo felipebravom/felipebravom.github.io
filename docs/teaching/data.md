@@ -10,8 +10,6 @@ Acá se encuentra material de estudio en temas de Data Science, Estadística, Mi
 * [Exploración de datos en R](explora.pdf)
 * [Probabilidades](probabilidades.pdf)
 * [Inferencia Estadística](inferencia.pdf)
-* [Regresiones Lineales](regresion.pdf)
-
 
 
 #### Data Mining y Machine Learning
@@ -20,8 +18,9 @@ Acá se encuentra material de estudio en temas de Data Science, Estadística, Mi
 * [Algoritmos de Clasificación: árboles, knn, naive Bayes](alg_class.pdf)
 * [Support Vector Machines](svm.pdf)
 * [Reglas de Asociación](reglas.pdf)
+* [Clustering](clustering.pdf)
 * [Selección y Reducción de Atributos](atributos.pdf)
-
+* [Modelos Lineales y Redes Neuronales](regresion.pdf)
 
 ####  Web Mining
 
