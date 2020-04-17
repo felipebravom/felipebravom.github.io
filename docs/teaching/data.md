@@ -14,8 +14,11 @@ Acá se encuentra material de estudio en temas de Data Science, Estadística, Mi
 
 
 
-#### Data Mining
+#### Data Mining y Machine Learning
 
+* [Clasificación-Evaluación](clasifi.pdf)
+* [Algoritmos de Clasificación: árboles, knn, naive Bayes](alg_class.pdf)
+* [Support Vector Machines](svm.pdf)
 * [Reglas de Asociación](reglas.pdf)
 * [Selección y Reducción de Atributos](atributos.pdf)
 
