@@ -108,6 +108,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [FCFM Uchile - Investigadores DCC publican trabajo que aborda problema de sesgo algorítmico](http://ingenieria.uchile.cl/noticias/163436/investigadores-dcc-abordan-problema-de-sesgo-algoritmico)
 * [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
 * [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
 * [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
