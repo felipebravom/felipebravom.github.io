@@ -1,7 +1,7 @@
 ## Journal Papers
 
 
-1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738), In *Information Processing & Management*, (2020) (in press). DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
+1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738), In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
 
 
 1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract), In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](publications/frontiers2020.pdf)|[supplementary Material](publications/frontiers2020_sup.pdf))
