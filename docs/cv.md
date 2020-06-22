@@ -50,6 +50,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Students
 
 ### Postgraduate 
+* (2019 - ongoing) Frank Zamora, PhD, University of Chile.
 * (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
