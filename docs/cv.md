@@ -44,13 +44,13 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
-* Conference Program Committes: ACL 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
 * Journal Reviewing: The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 ## Students
 
 ### Postgraduate 
-
+* (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
@@ -58,6 +58,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 
 ### Undergraduate
+* (2019-2020) Cristián Tamblay, Computer Science Engineering, University of Chile.
 * (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
 * (2018) Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
 * (2018)  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
@@ -97,7 +98,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 ## Software
 
-
+* [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io)
 * I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
 * I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
 * Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
