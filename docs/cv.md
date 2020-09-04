@@ -110,6 +110,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Sesgo Algorítmico: a video about our research on bias in word embeddings](https://youtu.be/onJs6DXczu0)
+* [Word Embedding Fairness Evaluation - an invited blog post about WEFE published in KDnuggets](https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html)
 * [FCFM Uchile - Investigadores DCC publican trabajo que aborda problema de sesgo algorítmico](http://ingenieria.uchile.cl/noticias/163436/investigadores-dcc-abordan-problema-de-sesgo-algoritmico)
 * [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
 * [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
