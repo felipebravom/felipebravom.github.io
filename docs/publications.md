@@ -31,7 +31,7 @@
 
 1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60) In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
 
-1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing WordEmbeddings](http://alt.qcri.org/semeval2020/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. ([pdf](publications/semeval2020.pdf))
+1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](http://alt.qcri.org/semeval2020/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. ([pdf](publications/semeval2020.pdf))
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](https://www.aclweb.org/anthology/W19-5804/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](publications/semdeep2019.pdf))
 
