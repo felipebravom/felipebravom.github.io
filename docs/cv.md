@@ -27,9 +27,9 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 
 ##  Teaching
-
+* [CC66S] (Lecturer) Machine Learning (spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
 * [CC6205] (Lecturer) Natural Language Processing (fall 2020, spring 2019), Computer Science Department, Universidad de Chile
-* [CC5206] (Lecturer) Introduction to Data Mining (fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
 * [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
