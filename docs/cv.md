@@ -40,6 +40,17 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * [IN4522] (TA) Web Mining (spring 2010), Industrial Engineering, Universidad de Chile
 * [IN7B0] (TA) ICT for globalization (spring 2010), Master in Management for Globalization, Universidad de Chile
 
+## Grants
+
+### As Principal Investigator
+* (2020 - ) FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach
+* (2020 - ) U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
+NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter
+
+### As Investigator
+
+* (2019-2020) False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
+
 ## Refereeing
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
@@ -50,6 +61,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Students
 
 ### Postgraduate 
+* (2020 - ongoing) Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * (2019 - ongoing) Frank Zamora, PhD, University of Chile.
 * (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
@@ -57,6 +69,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 * (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
 * (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 * (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+
+
 
 ### Undergraduate
 * (2019-2020) Cristián Tamblay, Computer Science Engineering, University of Chile.
