@@ -117,7 +117,7 @@
 
 ## Theses
 
-* PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](publications/phd_thesis.pdf)).
+* PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](publications/phd_thesis.pdf)), ([examiner's report](documents/bravo REPORTS FOR CS.pdf)).
 
 * Master's Thesis (first four pages in Spanish): [Static and Dynamic Analysis of Opinions in Twitter](http://repositorio.uchile.cl/handle/2250/114470) ([pdf](publications/master_thesis.pdf)).
 
