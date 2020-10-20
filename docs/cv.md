@@ -43,9 +43,9 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Grants
 
 ### As Principal Investigator
-* (2020 - ) FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach
+* (2020 - ) FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach.
 * (2020 - ) U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
-NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter
+NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter.
 
 ### As Investigator
 
@@ -88,12 +88,12 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [MLSS 2015](http://rp-www.cs.usyd.edu.au/~mlss/), Machine Learning Summer School, February 16-25, 2015, Sydney, Australia.
 
 ##  Academic Visits
-
 * [July 2018] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Martin Volk.
 * [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Manfred Klenner.
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [October 2020] [WOPATEC 2020 - CILCC-2020, Invited talk: Sesgo en Word Embeddings](http://wopatec.cl/)
 * [January 2020] [Universidad Adolfo Ibañez, Seminario: Sistematizando la participación ciudadana](https://mkg.uai.cl/mails/gobierno/seminarios/2019/seminario_participacion/index.html). Análisis de emociones y sentimientos en medios de comunicación social. 
 * [July 2019] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Sentiment Analysis and NLP. Hosted by Álvaro Soto.
 * [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
@@ -124,6 +124,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Ocho investigaciones patrocinadas por la FCFM son beneficiadas con Fondecyt de Iniciación](http://ingenieria.uchile.cl/noticias/169721/nueve-investigaciones-fcfm-son-beneficiadas-con-fondecyt)
 * [Sesgo Algorítmico: a video about our research on bias in word embeddings](https://youtu.be/onJs6DXczu0)
 * [Word Embedding Fairness Evaluation - an invited blog post about WEFE published in KDnuggets](https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html)
 * [FCFM Uchile - Investigadores DCC publican trabajo que aborda problema de sesgo algorítmico](http://ingenieria.uchile.cl/noticias/163436/investigadores-dcc-abordan-problema-de-sesgo-algoritmico)
