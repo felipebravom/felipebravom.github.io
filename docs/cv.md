@@ -93,7 +93,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-* [October 2020] [WOPATEC 2020 - CILCC-2020, Invited talk: Sesgo en Word Embeddings](http://wopatec.cl/)
+* [October 2020] [WOPATEC 2020 - CILCC-2020, Invited talk: Sesgo en Word Embeddings](http://wopatec.cl/)([acta congreso](https://cilcc20.files.wordpress.com/2020/10/libro-de-resumenes-iii-cilcc-2020-y-v-wopatec-2020.pdf))
 * [January 2020] [Universidad Adolfo Ibañez, Seminario: Sistematizando la participación ciudadana](https://mkg.uai.cl/mails/gobierno/seminarios/2019/seminario_participacion/index.html). Análisis de emociones y sentimientos en medios de comunicación social. 
 * [July 2019] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Sentiment Analysis and NLP. Hosted by Álvaro Soto.
 * [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
