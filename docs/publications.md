@@ -1,5 +1,7 @@
 ## Journal Papers
 
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://www.springer.com/journal/12559), In *Cognitive Computation* (to appear). ([pdf](publications/COGN2021.pdf))
+
 
 1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738), In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
 
