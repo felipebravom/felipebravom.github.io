@@ -1,37 +1,44 @@
 ## Journal Papers
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://www.springer.com/journal/12559), In *Cognitive Computation* (to appear). ([pdf](publications/COGN2021.pdf))
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://www.springer.com/journal/12559). In *Cognitive Computation* (to appear). ([pdf](publications/COGN2021.pdf))
 
 
-1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738), In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
+1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79). In *IEEE Signal Processing Magazine* (to appear). ([pdf](publications/SPM2021.pdf))
 
 
-1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract), In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](publications/frontiers2020.pdf)|[supplementary Material](publications/frontiers2020_sup.pdf))
+
+1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738). In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
 
 
-1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html), In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](publications/jmlr2019.pdf))
+1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract). In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](publications/frontiers2020.pdf)|[supplementary Material](publications/frontiers2020_sup.pdf))
+
+
+1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html). In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](publications/jmlr2019.pdf))
 
    
 
-1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789), In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
+1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789). In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
 
    
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389), In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389). In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
 
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X), In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X). In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
 
-1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500), In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
+1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500). In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
 
 
-1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315), In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315). In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
 
-1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068), In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
+1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
 
 ## Conference and Workshop Papers 
 
-1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60) In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
+1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://2021.eacl.org/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. (to appear)
+
+
+1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
 
 1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](publications/semeval2020.pdf))
 
