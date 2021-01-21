@@ -1,6 +1,6 @@
 ## Journal Papers
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2020. DOI: 10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI: 10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
 
 
 1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79). In *IEEE Signal Processing Magazine* (to appear). ([pdf](publications/SPM2021.pdf))
