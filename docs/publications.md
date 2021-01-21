@@ -1,6 +1,6 @@
 ## Journal Papers
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://www.springer.com/journal/12559). In *Cognitive Computation* (to appear). ([pdf](publications/COGN2021.pdf))
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2020. DOI: 10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
 
 
 1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79). In *IEEE Signal Processing Magazine* (to appear). ([pdf](publications/SPM2021.pdf))
@@ -43,7 +43,7 @@
 1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](publications/semeval2020.pdf))
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](https://www.aclweb.org/anthology/W19-5804/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](publications/semdeep2019.pdf))
- 
+
 1. D. Trye, A. S. Calude, F. Bravo-Marquez,  and T. T Keegan [Māori Loanwords: A Corpus of New Zealand English Tweets](https://www.aclweb.org/anthology/papers/P/P19/P19-2018/). In *Proceedings of the 2019 ACL Student Research Workshop* (SRW), Florence, Italy. ([pdf](publications/loanwords2019.pdf))
 
 1. F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://ieeexplore.ieee.org/document/8783030). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. Pages 119-124. DOI:10.1109/DAPPCON.2019.00023. ([pdf](publications/dappcon2019.pdf))
