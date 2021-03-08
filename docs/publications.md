@@ -1,6 +1,6 @@
 ## Journal Papers
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI: 10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
 
 
 1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79). In *IEEE Signal Processing Magazine* (to appear). ([pdf](publications/SPM2021.pdf))
@@ -36,6 +36,9 @@
 ## Conference and Workshop Papers 
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://2021.eacl.org/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. (to appear) ([pdf](publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
+
+
+2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://sig-edu.org/bea/current). In *16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. (to appear) ([pdf](publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
 
 
 1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 

@@ -49,4 +49,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
 * [Youtube](https://www.youtube.com/user/felipebravom)
 
-Last Updated October 16th, 2020 
+Last Updated March 8th, 2021 
