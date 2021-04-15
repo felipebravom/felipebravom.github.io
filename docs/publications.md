@@ -61,7 +61,7 @@
 
    
 
-1. S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](http://anthology.aclweb.org/S/S17/S17-1007.pdf), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
+1. S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](https://www.aclweb.org/anthology/S17-1007/), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
 
    
 
