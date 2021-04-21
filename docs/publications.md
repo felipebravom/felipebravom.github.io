@@ -35,10 +35,10 @@
 
 ## Conference and Workshop Papers 
 
-1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://2021.eacl.org/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. (to appear) ([pdf](publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
+1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
 
-2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://sig-edu.org/bea/current). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. (to appear) ([pdf](publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
+2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
 
 
 1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
