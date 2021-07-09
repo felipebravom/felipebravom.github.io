@@ -126,6 +126,11 @@
 
 1. F. Bravo-Marquez, G. L'Huillier, S. Rios, J.D. Velasquez, and L. Guerrero [DOCODE-lite: A Meta-Search Engine for Document Similarity Retrieval](http://link.springer.com/chapter/10.1007/978-3-642-15390-7_10), In *KES '10: 14th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*. Cardiff, Wales, 2010. Springer-Verlag. DOI:10.1007/978-3-642-15390-7_10 ([pdf](publications/kes.pdf))
 
+
+## Non-peer reviewed articles
+
+1. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](publications/bits2021.pdf))
+
 ## Theses
 
 * PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](publications/phd_thesis.pdf)), ([examiner's report](documents/bravo REPORTS FOR CS.pdf)).
