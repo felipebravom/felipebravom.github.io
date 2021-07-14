@@ -124,6 +124,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/?utm_source=sendicate&utm_medium=email&utm_campaign=2021-07-13+Noticias+IMFD+-+Julio+2021%3A+Avanza+proyecto+con+el+Poder+Judicial+)
 * [IMFD - Modelos de análisis de lenguaje que evolucionen en el tiempo: el proyecto de Felipe Bravo que se adjudicó un Fondecyt de Iniciación](https://imfd.cl/en/modelos-de-analisis-de-lenguaje-que-evolucionen-en-el-tiempo-el-proyecto-de-felipe-bravo-que-se-adjudico-un-fondecyt-de-iniciacion/)
 * [FCFM Uchile - Ocho investigaciones patrocinadas por la FCFM son beneficiadas con Fondecyt de Iniciación](http://ingenieria.uchile.cl/noticias/169721/nueve-investigaciones-fcfm-son-beneficiadas-con-fondecyt)
 * [Sesgo Algorítmico: a video about our research on bias in word embeddings](https://youtu.be/onJs6DXczu0)
