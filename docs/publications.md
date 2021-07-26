@@ -1,5 +1,7 @@
 ## Journal Papers
 
+1. F. Bravo-Marquez, and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge between Multiple Domains](https://www.springer.com/journal/12559). In *Cognitive Computation*. (to appear)
+
 1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
 
 
