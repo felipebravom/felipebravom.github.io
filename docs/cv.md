@@ -15,7 +15,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * BSc. in Industrial Engineering, Universidad de Chile (Oct. 2010)
 
-* BSc. Computer Engineering, Universidad de Chile (Jan. 2009)
+* BSc. Computer Science, Universidad de Chile (Jan. 2009)
 
 ## Positions
 
@@ -55,16 +55,16 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
-* Conference Program Committes: TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
-* Journal Reviewing: The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
+* Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 ## Students
 
 ### Postgraduate 
 * (2020 - ongoing) Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * (2019 - ongoing) Frank Zamora, PhD, University of Chile.
 * (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
-* (2019-ongoing) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
+* (2019-2020) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
 * (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
