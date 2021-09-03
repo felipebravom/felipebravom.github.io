@@ -1,6 +1,6 @@
 ## Journal Papers
 
-1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://www.springer.com/journal/12559). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 (to appear) ([pdf](publications/COGN2021b.pdf))
+1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](publications/COGN2021b.pdf))
 
    
 
