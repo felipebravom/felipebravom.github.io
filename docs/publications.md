@@ -47,7 +47,7 @@ International Joint Conference on Natural Language Processing: Student Research 
 2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
 
 
-1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
+1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
 
 1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](publications/semeval2020.pdf))
 
