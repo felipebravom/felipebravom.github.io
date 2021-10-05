@@ -5,7 +5,9 @@
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, Chile). 
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
-* *Member* of the [Representations for Learning and Language (ReLeLa)](https://relela.com) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
+* *Founding Member* of the [Representations for Learning and Language (ReLeLa)](https://relela.com) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
+* *Associate Member* in the [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home)
+
 
 
 ## Research Areas
@@ -19,6 +21,8 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval)
 * [Social media analytics](https://en.wikipedia.org/wiki/Social_media_analytics)
 * [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science)
+* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+* [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
 My main research goals are to study society by computationally analysing traces left by humans in the digital space.
 
@@ -37,7 +41,7 @@ My main research goals are to study society by computationally analysing traces 
 
 ## Other Profiles
 
-* [DCC Uchile](https://www.dcc.uchile.cl/felipe_bravo)
+* [DCC Uchile](https://www.dcc.uchile.cl/nosotros/academico/121)
 * [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121)
 * [IMFD](https://imfd.cl/en/investigador/felipe-bravo-marquez/)
 * [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom)
@@ -50,4 +54,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated July 26th, 2021 
+Last Updated October 5th, 2021 
