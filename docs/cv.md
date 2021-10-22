@@ -20,6 +20,8 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 ## Positions
 
 * [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
+* [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
 * [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
@@ -27,9 +29,10 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 
 ##  Teaching
+* [CC6104] (Lecturer) Statistical Thinking (spring 2021), Computer Science Department, Universidad de Chile
 * [CC66S] (Lecturer) Machine Learning (spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
-* [CC6205] (Lecturer) Natural Language Processing (fall 2020, spring 2019), Computer Science Department, Universidad de Chile
-* [CC5206] (Lecturer) Introduction to Data Mining (spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC6205] (Lecturer) Natural Language Processing (fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
 * [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
@@ -55,12 +58,21 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
-* Conference Program Committes: ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 ## Students
 
-### Postgraduate 
+### Postgraduate
+
+* (2021 - ongoing) David Rojas, Co-supervised with Pablo Badilla, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Humberto Rodrigues, Co-supervised with Pablo Badilla, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) José Cañete, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Gabriel Iturra, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Jorge Ortiz,  Masters in Computer Science, University of Chile.
+* (2020 - ongoing) Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * (2020 - ongoing) Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * (2019 - ongoing) Frank Zamora, PhD, University of Chile.
 * (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
@@ -73,6 +85,8 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 
 ### Undergraduate
+* (2021 - ongoing) María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
+* (2021 - ongoing) Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
 * (2019-2020) Cristián Tamblay, Computer Science Engineering, University of Chile.
 * (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
 * (2018) Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
