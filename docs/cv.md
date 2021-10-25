@@ -65,8 +65,8 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 ### Postgraduate
 
-* (2021 - ongoing) David Rojas, Co-supervised with Pablo Badilla, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Humberto Rodrigues, Co-supervised with Pablo Badilla, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) David Rojas, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Humberto Rodrigues, Masters in Computer Science, University of Chile.
 * (2021 - ongoing) José Cañete, Masters in Computer Science, University of Chile.
 * (2021 - ongoing) Gabriel Iturra, Masters in Computer Science, University of Chile.
 * (2021 - ongoing) Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
