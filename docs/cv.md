@@ -1,6 +1,10 @@
+# Curriculum Vitae
+
+
 
 ## Personal Information
 
+* Full name: Felipe José Bravo Márquez
 * Nationality: Chile.
 * Date of Birth: 3rd of January 1984.
 * Chile Address: Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
@@ -16,11 +20,11 @@
 * [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
 * [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
-* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
+* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America. 
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
 * [2009] Internship, Simple, Software Developer.
-* [2009] Internship, Previred, Business Process Management Area, http://www.previred.com.
-* [2005-2006] Internship, Vitanet, Software Developer, http://www.vitanet.cl.
+* [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area.
+* [2005-2006] Internship, Vitanet, Software Developer..
 
 ## Qualifications
 
@@ -54,13 +58,13 @@
 ## Grants
 
 ### As Principal Investigator
-* (2020 - ) FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach.
-* (2020 - ) U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
+* [2020 - ongoing] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach.
+* [2020 - ongoing] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
 NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter.
 
 ### As Investigator
 
-* (2019-2020) False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
+* [2019-2020] False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
 
 ## Refereeing
 
@@ -88,33 +92,33 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 ### Postgraduate
 
-* (2021 - ongoing) David Rojas, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Humberto Rodrigues, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) José Cañete, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Gabriel Iturra, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
-* (2021 - ongoing) Jorge Ortiz,  Masters in Computer Science, University of Chile.
-* (2020 - ongoing) Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
-* (2020 - ongoing) Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] David Rojas, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] Humberto Rodrigues, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] José Cañete, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] Gabriel Iturra, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
+* [2021 - ongoing] Jorge Ortiz,  Masters in Computer Science, University of Chile.
+* [2020 - ongoing]Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
+* [2020 - ongoing]Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * (2019 - ongoing) Frank Zamora, PhD, University of Chile.
-* (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
-* (2019-2020) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
-* (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
-* (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
-* (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
-* (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* [2020 - ongoing]Javier Muñoz, Masters in Computer Science, University of Chile.
+* [2019-2020] Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
+* [2019-ongoing] Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
+* [2019-ongoing] Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
+* [2019]  Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 
 ### Undergraduate
-* (2021 - ongoing) María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
-* (2021 - ongoing) Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
-* (2019-2020) Cristián Tamblay, Computer Science Engineering, University of Chile.
-* (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
-* (2018) Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
-* (2018)  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
-* (2018) Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
-* (2013) Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
-* (2012) Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatics Engineering, U. of Santiago.
+* [2021 - ongoing] María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
+* [2021 - ongoing] Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
+* [2019-2020] Cristián Tamblay, Computer Science Engineering, University of Chile.
+*  [2019] David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
+*  [2018] Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
+*  [2018]  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
+*  [2018] Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
+*  [2012-2013] Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
+*  [2012] Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatics Engineering, U. of Santiago.
 
 ## Short Courses
 
