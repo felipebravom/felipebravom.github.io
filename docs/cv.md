@@ -87,7 +87,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 
 
-# Publications
+## Publications
 
 https://felipebravom.com/publications/
 
