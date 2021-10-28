@@ -231,13 +231,6 @@ International Joint Conference on Natural Language Processing: Student Research 
 
 * Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](https://felipebravom.com/publications/memoria.pdf)).
 
-### Theses
-
-* PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](https://felipebravom.com/publications/phd_thesis.pdf)), ([examiner's report](https://felipebravom.com/documents/bravo REPORTS FOR CS.pdf)).
-
-* Master's Thesis (first four pages in Spanish): [Static and Dynamic Analysis of Opinions in Twitter](http://repositorio.uchile.cl/handle/2250/114470) ([pdf](https://felipebravom.com/publications/master_thesis.pdf)).
-
-* Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](https://felipebravom.com/publications/memoria.pdf)).
 
 ## Students
 
