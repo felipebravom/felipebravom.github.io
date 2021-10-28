@@ -316,6 +316,8 @@ International Joint Conference on Natural Language Processing: Student Research 
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Nano Break - Capítulo 5 - Sesgo algorítmico en IA: qué es y cómo combatirlo](https://youtu.be/uaVOlZG0jwE).
+* [Les Doctores Salvajes - Entrevista a Felipe Bravo](https://soundcloud.com/doctores-salvajes/lds-entrevista-a-felipe-bravo)
 * [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/)
 * [IMFD - Modelos de análisis de lenguaje que evolucionen en el tiempo: el proyecto de Felipe Bravo que se adjudicó un Fondecyt de Iniciación](https://imfd.cl/en/modelos-de-analisis-de-lenguaje-que-evolucionen-en-el-tiempo-el-proyecto-de-felipe-bravo-que-se-adjudico-un-fondecyt-de-iniciacion/)
 * [FCFM Uchile - Ocho investigaciones patrocinadas por la FCFM son beneficiadas con Fondecyt de Iniciación](http://ingenieria.uchile.cl/noticias/169721/nueve-investigaciones-fcfm-son-beneficiadas-con-fondecyt)
