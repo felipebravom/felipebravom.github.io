@@ -191,6 +191,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 
 
-Felipe José Bravo Márquqez
+Felipe José Bravo Márquez
 
 Santiago, Chile October 28, 2021

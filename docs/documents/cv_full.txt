@@ -3,11 +3,12 @@
 
 * Nationality: Chile.
 * Date of Birth: 3rd of January 1984.
-* E-mail: fbravo at dcc.uchile.cl 
+* Chile Address: Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
+* Phone number: +56 2 2978 4974
+* New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
+* E-mail : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
 * Web Page: https://felipebravom.com.
 * Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
-
-
 
 ## Academic Positions and Work Experience
 
@@ -20,8 +21,6 @@
 * [2009] Internship, Simple, Software Developer.
 * [2009] Internship, Previred, Business Process Management Area, http://www.previred.com.
 * [2005-2006] Internship, Vitanet, Software Developer, http://www.vitanet.cl.
-
-
 
 ## Qualifications
 
@@ -36,10 +35,6 @@
 * BSc. in Industrial Engineering, Universidad de Chile (Oct. 2010)
 
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
-
-
-
-
 
 ##  Teaching
 * [CC6104] (Lecturer) Statistical Thinking (spring 2021), Computer Science Department, Universidad de Chile
@@ -75,8 +70,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 
-
-
 ## Scholarships and Awards
 
 * [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
@@ -84,7 +77,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [2016] IEEE student travel grant to attend the 2016 IEEE/WIC/ACM International Conference on Web Intelligence in Omaha, Nebraska, USA.
 * [2014-2017] University of Waikato Doctoral Scholarship.
 * [2011-2012] National Scientific and Technological Research Commission (CONICYT) Scholarship for master’s degree studies at Chilean Universities.
-
 
 
 ## Publications
@@ -235,8 +227,6 @@ International Joint Conference on Natural Language Processing: Student Research 
 
 * Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](publications/memoria.pdf)).
 
-
-
 ## Students
 
 ### Postgraduate
@@ -257,8 +247,6 @@ International Joint Conference on Natural Language Processing: Student Research 
 * (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
 * (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 * (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
-
-
 
 ### Undergraduate
 * (2021 - ongoing) María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
