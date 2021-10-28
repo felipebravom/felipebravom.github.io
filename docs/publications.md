@@ -2,40 +2,40 @@
 
 ### Journal Papers
 
-1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](publications/COGN2021b.pdf))
+1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](https://felipebravom.com/publications/COGN2021b.pdf))
 
    
 
-1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](https://felipebravom.com/publications/COGN2021.pdf))
 
 
-1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/document/9418568). In *IEEE Signal Processing Magazine*, Volume 38, Issue 3, May 2021. Pages 144-153. DOI:10.1109/MSP.2021.3053551  ([pdf](publications/SPM2021.pdf))
+1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/document/9418568). In *IEEE Signal Processing Magazine*, Volume 38, Issue 3, May 2021. Pages 144-153. DOI:10.1109/MSP.2021.3053551  ([pdf](https://felipebravom.com/publications/SPM2021.pdf))
 
 
 
-1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738). In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
+1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738). In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](https://felipebravom.com/publications/ipm2020.pdf))
 
 
-1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract). In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](publications/frontiers2020.pdf)|[supplementary Material](publications/frontiers2020_sup.pdf))
+1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract). In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](https://felipebravom.com/publications/frontiers2020.pdf)|[supplementary Material](https://felipebravom.com/publications/frontiers2020_sup.pdf))
 
 
-1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html). In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](publications/jmlr2019.pdf))
-
-   
-
-1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789). In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
+1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html). In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](https://felipebravom.com/publications/jmlr2019.pdf))
 
    
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389). In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
+1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789). In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](https://felipebravom.com/publications/WDL4J_KBS2019.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389). In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](https://felipebravom.com/publications/wij2018.pdf))
 
 
-1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X). In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X). In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](https://felipebravom.com/publications/kbs2016.pdf))
 
-1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500). In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
+1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500). In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](https://felipebravom.com/publications/inffus15.pdf))
 
 
-1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315). In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315). In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](https://felipebravom.com/publications/ESWA2014.pdf))
 
 1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](https://felipebravom.com/publications/KBS2014.pdf))
 

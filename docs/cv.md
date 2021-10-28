@@ -12,7 +12,7 @@
 * New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
 * E-mail : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
 * Web Page: https://felipebravom.com.
-* Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
+* Areas of Interest: [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Data mining](https://en.wikipedia.org/wiki/Data_mining), [Data science](https://en.wikipedia.org/wiki/Data_science), [Machine learning](https://en.wikipedia.org/wiki/Machine_learning), [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval), [Social media analytics](https://en.wikipedia.org/wiki/Social_media_analytics), [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Statistics](https://en.wikipedia.org/wiki/Statistics).
 
 ## Academic Positions and Work Experience
 
@@ -192,6 +192,16 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Spanish: Native. 
 * English: Fluent, TOEFL IBT 103/120.
 * German: Average, Sprachdiplom Zweite Stufe.
+
+
+
+## References
+
+* [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/): Full Professor, University of Waikato.
+* [Eibe Frank](https://www.cs.waikato.ac.nz/~eibe/): Full Professor, University of Waikato.
+* [Saif M. Mohammad](https://www.saifmohammad.com/): Senior Research Scientist, National Research Council Canada (NRC).
+
+
 
 
 
