@@ -1,4 +1,4 @@
-## Journal Papers
+### Journal Papers
 
 1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](publications/COGN2021b.pdf))
 
@@ -37,7 +37,7 @@
 
 1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
 
-## Conference and Workshop Papers 
+### Conference and Workshop Papers 
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
@@ -132,11 +132,11 @@ International Joint Conference on Natural Language Processing: Student Research 
 1. F. Bravo-Marquez, G. L'Huillier, S. Rios, J.D. Velasquez, and L. Guerrero [DOCODE-lite: A Meta-Search Engine for Document Similarity Retrieval](http://link.springer.com/chapter/10.1007/978-3-642-15390-7_10), In *KES '10: 14th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*. Cardiff, Wales, 2010. Springer-Verlag. DOI:10.1007/978-3-642-15390-7_10 ([pdf](publications/kes.pdf))
 
 
-## Non-peer reviewed articles
+### Non-peer reviewed articles
 
 1. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](publications/bits2021.pdf))
 
-## Theses
+### Theses
 
 * PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](publications/phd_thesis.pdf)), ([examiner's report](documents/bravo REPORTS FOR CS.pdf)).
 
