@@ -1,7 +1,27 @@
 
-## PDF Version
+## Personal Information
 
-A pdf version of my CV can be found [here](documents/cvenglish.pdf).
+* Nationality: Chile.
+* Date of Birth: 3rd of January 1984.
+* E-mail: fbravo at dcc.uchile.cl 
+* Web Page: https://felipebravom.com.
+* Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
+
+
+
+## Academic Positions and Work Experience
+
+* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
+* [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+* [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
+* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
+* [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
+* [2009] Internship, Simple, Software Developer.
+* [2009] Internship, Previred, Business Process Management Area, http://www.previred.com.
+* [2005-2006] Internship, Vitanet, Software Developer, http://www.vitanet.cl.
+
+
 
 ## Qualifications
 
@@ -17,14 +37,7 @@ A pdf version of my CV can be found [here](documents/cvenglish.pdf).
 
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
 
-## Positions
 
-* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
-* [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
-* [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
-* [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
-* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
-* [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
 
 
 
@@ -61,6 +74,25 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
+
+
+
+## Scholarships and Awards
+
+* [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
+* [2017] University of Waikato Doctoral Publications Scholarship.
+* [2016] IEEE student travel grant to attend the 2016 IEEE/WIC/ACM International Conference on Web Intelligence in Omaha, Nebraska, USA.
+* [2014-2017] University of Waikato Doctoral Scholarship.
+* [2011-2012] National Scientific and Technological Research Commission (CONICYT) Scholarship for master’s degree studies at Chilean Universities.
+
+
+
+# Publications
+
+https://felipebravom.com/publications/
+
+
+
 ## Students
 
 ### Postgraduate
@@ -150,3 +182,24 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
 * [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
 * [RadioNZ - NZ's unique te reo tweets](https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets)
+
+
+
+## Technical Skills
+
+* Programming Languages: Java, R, Python, C,C++.
+* Database Systems: PostgreSQL, MySQL, MongoDB.
+
+
+
+## Languages
+
+* Spanish: Native. 
+* English: Fluent, TOEFL IBT 103/120.
+* German: Average, Sprachdiplom Zweite Stufe.
+
+
+
+Felipe José Bravo Máruqez
+
+Santiago, Chile October 28, 2021
