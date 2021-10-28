@@ -1,0 +1,349 @@
+
+## Personal Information
+
+* Nationality: Chile.
+* Date of Birth: 3rd of January 1984.
+* E-mail: fbravo at dcc.uchile.cl 
+* Web Page: https://felipebravom.com.
+* Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
+
+
+
+## Academic Positions and Work Experience
+
+* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
+* [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+* [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
+* [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America.  
+* [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
+* [2009] Internship, Simple, Software Developer.
+* [2009] Internship, Previred, Business Process Management Area, http://www.previred.com.
+* [2005-2006] Internship, Vitanet, Software Developer, http://www.vitanet.cl.
+
+
+
+## Qualifications
+
+* PhD. Computer Science, University of Waikato (Jul. 2017)
+
+* MSc. Computer Science, Universidad de Chile (Sep. 2013)
+
+* Computer Science Engineer, Universidad de Chile (Nov. 2010)
+
+* Industrial Engineer, Universidad de Chile (Nov. 2010)
+
+* BSc. in Industrial Engineering, Universidad de Chile (Oct. 2010)
+
+* BSc. Computer Science, Universidad de Chile (Jan. 2009)
+
+
+
+
+
+##  Teaching
+* [CC6104] (Lecturer) Statistical Thinking (spring 2021), Computer Science Department, Universidad de Chile
+* [CC66S] (Lecturer) Machine Learning (spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
+* [CC6205] (Lecturer) Natural Language Processing (fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
+* [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
+* (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Deparment of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
+* [COMP321] (Tutor) Practical Data Mining (spring 2017), Department of Computer Science, University of Waikato
+* (Lecturer) Databases Management Diploma (spring 2013), Department  of Informatics Engineering (postgraduate), Universidad Técnica Federico Santa María
+* [CC5206/CC71Q] (Lecturer) Data Mining (spring 2012), Computer Science Department (undergraduate and postgraduate), Universidad de Chile
+* [IN72K] (Lecturer) Information Technologies and Business Process Redesign (fall 2011), Master in Operations Management, Universidad de Chile
+* [IN4522] (TA) Web Mining (spring 2010), Industrial Engineering, Universidad de Chile
+* [IN7B0] (TA) ICT for globalization (spring 2010), Master in Management for Globalization, Universidad de Chile
+
+## Grants
+
+### As Principal Investigator
+* (2020 - ) FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach.
+* (2020 - ) U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
+NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter.
+
+### As Investigator
+
+* (2019-2020) False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
+
+## Refereeing
+
+* Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
+
+* Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+
+* Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
+
+
+
+## Scholarships and Awards
+
+* [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
+* [2017] University of Waikato Doctoral Publications Scholarship.
+* [2016] IEEE student travel grant to attend the 2016 IEEE/WIC/ACM International Conference on Web Intelligence in Omaha, Nebraska, USA.
+* [2014-2017] University of Waikato Doctoral Scholarship.
+* [2011-2012] National Scientific and Technological Research Commission (CONICYT) Scholarship for master’s degree studies at Chilean Universities.
+
+
+
+## Publications
+
+### Journal Papers
+
+1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](publications/COGN2021b.pdf))
+
+   
+
+1. F. Bravo-Marquez, A. Khanchandani, and  B. Pfahringer [Incremental word-vectors for time-evolving sentiment lexicon induction](https://link.springer.com/article/10.1007/s12559-021-09831-y). In *Cognitive Computation*, 2021. DOI:10.1007/s12559-021-09831-y ([pdf](publications/COGN2021.pdf))
+
+
+1.  F. Tobar, F. Bravo-Marquez, J. Dunstan, J. Fontbona, A. Maass, and D. Remenik, and J.F. Silva [Data Science for Engineers: A Teaching Ecosystem](https://ieeexplore.ieee.org/document/9418568). In *IEEE Signal Processing Magazine*, Volume 38, Issue 3, May 2021. Pages 144-153. DOI:10.1109/MSP.2021.3053551  ([pdf](publications/SPM2021.pdf))
+
+
+
+1. J. Diaz, B. Poblete, and F. Bravo-Marquez [An Integrated Model for Textual Social Media Data with Spatio-Temporal Dimensions](https://www.sciencedirect.com/science/article/pii/S0306457319308738). In *Information Processing & Management*, Volume 57, Issue 5, 2020. DOI:10.1016/j.ipm.2020.102219 ([pdf](publications/ipm2020.pdf))
+
+
+1. D.G. Trye, A.S. Calude, F. Bravo-Marquez, and T.T. Keegan [Hybrid Hashtags: #YouKnowYoureAKiwiWhen your Tweet contains Māori and English](https://www.frontiersin.org/articles/10.3389/frai.2020.00015/abstract). In *Frontiers in Artificial Intelligence, section Language and Computation* Volume 3, Article 15, April 2020. DOI: 10.3389/frai.2020.00015.   ([pdf](publications/frontiers2020.pdf)|[supplementary Material](publications/frontiers2020_sup.pdf))
+
+
+1. F. Bravo-Marquez, E. Frank, B. Pfahringer, and S. M. Mohammad [AffectiveTweets: a WEKA Package for Analyzing Affect in Tweets](http://jmlr.org/papers/v20/18-450.html). In *Journal of Machine Learning Research* 20(92): Pages 1−6, 2019. ([pdf](publications/jmlr2019.pdf))
+
+   
+
+1. S. Lang, F. Bravo-Marquez, C. Beckham, M. Hall, and E. Frank [WekaDeeplearning4j: a Deep Learning Package for Weka based on DeepLearning4j](https://www.sciencedirect.com/science/article/pii/S0950705119301789). In *Knowledge-Based Systems*, Volume 178, 15 August 2019, Pages 48-50. DOI: 10.1016/j.knosys.2019.04.013 ([pdf](publications/WDL4J_KBS2019.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Transferring Sentiment Knowledge between Words and Tweets](https://content.iospress.com/articles/web-intelligence/web389). In *Web Intelligence* Volume 16, no. 4, 31 October 2018, Pages 203-220. DOI: 10.3233/WEB-180389 ([pdf](publications/wij2018.pdf))
+
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Building a Twitter Opinion Lexicon from Automatically-annotated Tweets](http://www.sciencedirect.com/science/article/pii/S095070511630106X). In *Knowledge-Based Systems* Volume 108, 15 September 2016, Pages 65–78. DOI:10.1016/j.knosys.2016.05.018 ([pdf](publications/kbs2016.pdf))
+
+1. J.D. Velásquez, Y. Covacevich, F. Molina, E. Marrese-Taylor, C. Rodríguez, and F. Bravo-Marquez [DOCODE 3.0 (DOcument COpy DEtector): A system for plagiarism detection by applying an information fusion process from multiple documental data sources](http://www.sciencedirect.com/science/article/pii/S1566253515000500). In *Information Fusion* Volume 27, January 2016, Pages 64–75. DOI:10.1016/j.inffus.2015.05.006 ([pdf](publications/inffus15.pdf))
+
+
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [A Novel Deterministic Approach for Aspect-Based Opinion Mining in Tourism Products Reviews](http://www.sciencedirect.com/science/article/pii/S0957417414003315). In *Expert Systems with Applications* Volume 41, Issue 17, 1 December 2014, Pages 7764–7775. DOI:10.1016/j.eswa.2014.05.045 ([pdf](publications/ESWA2014.pdf))
+
+1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](publications/KBS2014.pdf))
+
+### Conference and Workshop Papers 
+
+1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
+
+1. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th
+International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](publications/ACLSRW2021.pdf))
+
+2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
+
+
+1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
+
+1. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](publications/semeval2020.pdf))
+
+1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](https://www.aclweb.org/anthology/W19-5804/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](publications/semdeep2019.pdf))
+
+1. D. Trye, A. S. Calude, F. Bravo-Marquez,  and T. T Keegan [Māori Loanwords: A Corpus of New Zealand English Tweets](https://www.aclweb.org/anthology/papers/P/P19/P19-2018/). In *Proceedings of the 2019 ACL Student Research Workshop* (SRW), Florence, Italy. ([pdf](publications/loanwords2019.pdf))
+
+1. F. Bravo-Marquez, S. Reeves, and M. Ugarte [Proof-of-Learning: a Blockchain Consensus Mechanism based on Machine Learning Competitions](https://ieeexplore.ieee.org/document/8783030). In *Proceedings of the 2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)*, April  2019, East Bay, San Francisco, California, USA. Pages 119-124. DOI:10.1109/DAPPCON.2019.00023. ([pdf](publications/dappcon2019.pdf))
+
+   
+
+1. S. M. Mohammad, F. Bravo-Marquez, M. Salameh, and S. Kiritchenko  [Semeval-2018 Task 1: Affect in tweets](https://aclweb.org/anthology/S18-1001). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2018)*, New Orleans, LA, USA, June 2018. ([pdf](publications/semeval2018.pdf))|([leaderboard](publications/semeval2018_sup.pdf))
+
+   
+
+1. S. M. Mohammad and F. Bravo-Marquez [WASSA-2017 Shared Task on Emotion Intensity](http://aclweb.org/anthology/W17-5205), In *Proceedings of the EMNLP 2017 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA)*, September 2017, Copenhagen, Denmark. ([pdf](publications/wassa2017.pdf))
+
+   
+
+1. S. M. Mohammad and F. Bravo-Marquez [Emotion Intensities in Tweets](https://www.aclweb.org/anthology/S17-1007/), In *\*Sem '17: Proceedings of the sixth joint conference on lexical and computational semantics (\*Sem)*, August 2017, Vancouver, Canada. ([pdf](publications/starsem2017.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, S. M. Mohammad, and B. Pfahringer [Determining Word--Emotion Associations from Tweets by Multi-Label Classification](http://ieeexplore.ieee.org/document/7817108/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 536-539. DOI:10.1109/WI.2016.90 ([pdf](publications/wi2016a.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From opinion lexicons to sentiment classification of tweets and vice versa: a transfer learning approach](http://ieeexplore.ieee.org/document/7817047/), In *WI '16: Proceedings of the 2016 IEEE/WIC/ACM International Conference on Web Intelligence*, Omaha, Nebraska, USA 2016. Pages 145-152. DOI:10.1109/WI.2016.29 ([pdf](publications/wi2016t.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Annotate-Sample-Average (ASA): A New Distant Supervision Approach for Twitter Sentiment Analysis](http://ebooks.iospress.nl/volumearticle/44793), In *ECAI '16: Proceedings of the 22nd Biennial European Conference on Artificial Intelligence*. The Hague, Holland 2016. IOS press. DOI:10.3233/978-1-61499-672-9-498 ([pdf](publications/ecai2016.pdf))
+
+   
+
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [Positive, Negative, or Neutral: Learning an Expanded Opinion Lexicon from Emoticon-annotated Tweets](http://ijcai.org/Abstract/15/177), In *IJCAI '15: Proceedings of the 24th International Joint Conference on Artificial Intelligence*. Buenos Aires, Argentina 2015.([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/ijcai15.pdf))|([poster](publications/ijcai_poster.pdf))
+
+   
+
+1. F. Bravo-Marquez, E. Frank, and B. Pfahringer [From Unlabelled Tweets to Twitter-specific Opinion Words](http://dl.acm.org/citation.cfm?id=2767770), In *SIGIR '15: Proceedings of the 38th International ACM SIGIR Conference on Research & Development in Information Retrieval*. Santiago, Chile 2015. DOI:10.1145/2766462.2767770 ([pdf](publications/sigir15.pdf))|([poster](publications/sigir_poster.pdf))
+
+   
+
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez [OpinionZoom, a modular tool to explore tourism opinions on the Web](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6690738), In *WI '2013: IEEE/WIC/ACM International Conference on Web Intelligence*. Industry Track. Atlanta, USA. DOI:10.1109/WI-IAT.2013.19 ([pdf](publications/wi2013.pdf))
+
+   
+
+
+1. M. Mendoza, F. Bravo-Marquez, B. Poblete, and D. Gayo-Avello [Long-memory Time Series Ensembles for Concept Shift Detection](http://dl.acm.org/citation.cfm?id=2501225), In *KDD-BigMine '13 2nd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications*. Chicago, USA 2013. DOI:10.1145/2501221.2501225 ([pdf](publications/bigmine2013.pdf))
+
+   
+
+1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Combining Strengths, Emotions and Polarities for Boosting Twitter Sentiment Analysis](http://dl.acm.org/citation.cfm?id=2502071), In *KDD-WISDOM '13: 2nd Workshop on Issues of Sentiment Discovery and Opinion Mining*. Chicago, USA 2013. DOI:10.1145/2502069.2502071 ([pdf](publications/wisdom2013.pdf))
+
+   
+
+1. E. Marrese-Taylor, J.D. Velásquez, F. Bravo-Marquez, Y. Matsuo [Identifying Customer Preferences about Tourism Products using an Aspect-Based Opinion Mining Approach](http://www.sciencedirect.com/science/article/pii/S1877050913008879), In *KES '13: 17th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*. Kitakyushu, Japan, 2013. Procedia Computer Science. DOI:10.1016/j.procs.2013.09.094 ([pdf](publications/kes2013.pdf))
+
+   
+
+1. F. Bravo-Marquez, D. Gayo-Avello, M. Mendoza and B. Poblete [Opinion Dynamics of Elections in Twitter](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6392136), In *LA-WEB '12: 8th Latin American Web Congress*. Cartagena de Indias, Colombia, 2012. IEEE Computer Society's Conference Publishing Services (CPS). DOI:10.1109/LA-WEB.2012.11 ([pdf](https://www.cs.waikato.ac.nz/~fbravoma/publications/laweb2012.pdf))
+
+   
+
+1. F. Bravo-Marquez and M. Manriquez [A Zipf-Like Distant Supervision Approach for Multi-Document Summarization Using Wikinews Articles](http://link.springer.com/chapter/10.1007/978-3-642-34109-0_15), In *SPIRE '12: 19th International Symposium on String Processing and Information Retrieval*. Cartagena de Indias, Colombia, 2012. Springer-Verlag. DOI:10.1007/978-3-642-34109-0_15 ([pdf](publications/spire2012.pdf))| ([data](http://citiaps.cl/multisummarization/))
+
+   
+
+1. F. Bravo-Marquez, G. L'Huillier, P. Moya, S.A. Rios, and J.D. Velasquez [An Automatic Text Comprehension Classifier Based on Mental Models and Latent Semantic Features](http://dl.acm.org/citation.cfm?doid=2024288.2024317), In *I-KNOW '2011: 11th International Conference on Knowledge Management and Knowledge Technologies*. Grass, Austria. ACM ICPS. DOI:10.1145/2024288.2024317 ([pdf](publications/iknow2011.pdf))
+
+   
+
+1. F. Bravo-Marquez, G. L'Huillier, S.A. Rios, and J.D. Velasquez [A Text Similarity Meta-Search Engine Based on Document Fingerprints and Search Results Records](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6040511), In *WI '2011: IEEE/WIC/ACM International Conference on Web Intelligence*. Lyon, France. DOI:10.1109/WI-IAT.2011.27 ([pdf](publications/wi2011.pdf))
+
+   
+
+1. F. Bravo-Marquez, G. L'Huillier, S. Rios, and J.D. Velasquez [Hypergeometric Language Model and Zipf-like Scoring Function for Web Document Similarity Retrieval](http://link.springer.com/chapter/10.1007/978-3-642-16321-0_32), In *SPIRE '10: 17th International Symposium on String Processing and Information Retrieval*. Los Cabos, Mexico, 2010. Springer-Verlag. DOI:10.1007/978-3-642-16321-0_32 ([pdf](publications/spire.pdf))
+
+   
+
+1. F. Bravo-Marquez, G. L'Huillier, S. Rios, J.D. Velasquez, and L. Guerrero [DOCODE-lite: A Meta-Search Engine for Document Similarity Retrieval](http://link.springer.com/chapter/10.1007/978-3-642-15390-7_10), In *KES '10: 14th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems*. Cardiff, Wales, 2010. Springer-Verlag. DOI:10.1007/978-3-642-15390-7_10 ([pdf](publications/kes.pdf))
+
+
+### Non-peer reviewed articles
+
+1. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](publications/bits2021.pdf))
+
+### Theses
+
+* PhD Thesis: [Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis](http://researchcommons.waikato.ac.nz/handle/10289/11225) ([pdf](publications/phd_thesis.pdf)), ([examiner's report](documents/bravo REPORTS FOR CS.pdf)).
+
+* Master's Thesis (first four pages in Spanish): [Static and Dynamic Analysis of Opinions in Twitter](http://repositorio.uchile.cl/handle/2250/114470) ([pdf](publications/master_thesis.pdf)).
+
+* Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](publications/memoria.pdf)).
+
+
+
+## Students
+
+### Postgraduate
+
+* (2021 - ongoing) David Rojas, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Humberto Rodrigues, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) José Cañete, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Gabriel Iturra, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
+* (2021 - ongoing) Jorge Ortiz,  Masters in Computer Science, University of Chile.
+* (2020 - ongoing) Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
+* (2020 - ongoing) Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
+* (2019 - ongoing) Frank Zamora, PhD, University of Chile.
+* (2020 - ongoing) Javier Muñoz, Masters in Computer Science, University of Chile.
+* (2019-2020) Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
+* (2019-ongoing) Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
+* (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
+* (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+
+
+
+### Undergraduate
+* (2021 - ongoing) María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
+* (2021 - ongoing) Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
+* (2019-2020) Cristián Tamblay, Computer Science Engineering, University of Chile.
+* (2019) David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
+* (2018) Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
+* (2018)  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
+* (2018) Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
+* (2013) Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
+* (2012) Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatics Engineering, U. of Santiago.
+
+## Short Courses
+
+* [Forecasting](http://www.ssc.wisc.edu/~bhansen/cbc/), a short course taught by Bruce E. Hansen at Central Bank of Chile, October 29-31, 2013.
+
+* [MLSS 2015](http://rp-www.cs.usyd.edu.au/~mlss/), Machine Learning Summer School, February 16-25, 2015, Sydney, Australia.
+
+##  Academic Visits
+* [July 2018] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Martin Volk.
+* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Manfred Klenner.
+* [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
+
+## Seminars and Talks
+* [August 2021] [FCFM- Iniciativa de Datos e Inteligencia Artificial (D&IA), Análisis de emociones y sentimientos en medios de comunicación social.](https://www.u-cursos.cl/ingenieria/2/novedades_institucion/detalle?id=44678)
+* [August 2021] [Enaex Robotics, Introduction to Machine Learning](https://www.enaex.com)
+* [October 2020] [WOPATEC 2020 - CILCC-2020, Invited talk: Sesgo en Word Embeddings](http://wopatec.cl/) ([acta congreso](https://cilcc20.files.wordpress.com/2020/10/libro-de-resumenes-iii-cilcc-2020-y-v-wopatec-2020.pdf))
+* [January 2020] [Universidad Adolfo Ibañez, Seminario: Sistematizando la participación ciudadana](https://mkg.uai.cl/mails/gobierno/seminarios/2019/seminario_participacion/index.html). Análisis de emociones y sentimientos en medios de comunicación social. 
+* [July 2019] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Sentiment Analysis and NLP. Hosted by Álvaro Soto.
+* [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
+* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
+19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
+* [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [January 2018] [Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
+* [January 2018] Pontifica Universidad Catolica de Chile. Invited talk at CIWS Workshop - Future of Data: Emotion Intensties of Tweets.
+* [September 2017] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+* [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+* [September 2016] [University of Melbourne](http://www.cis.unimelb.edu.au/), hosted by [Timothy Baldwin](http://people.eng.unimelb.edu.au/tbaldwin/): Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+* [July 2016] [Pontifica Universidad Catolica de Chile](http://www.ing.uc.cl/ciencia-de-la-computacion/charla-1-de-julio-socvis-dcc-uc/):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+* [July 2016] [Universidad de Chile](http://www.dcc.uchile.cl/charla_acquiring_and_exploiting_lexical_knowledge_for_twitter_sentiment_analysis):  Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+* [June 2016] [Universidad Tecnica Federico Santa Maria](https://www.inf.utfsm.cl/eventos/evento/18-coloquio-acquiring-and-exploiting-lexical-knowledge-fortwitter-sentiment-analysis): Acquiring and Exploiting Lexical Knowledge for Twitter Sentiment Analysis.
+
+
+## Software
+
+* [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io)
+* I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
+* I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
+* Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
+
+## Shared Task Organisation
+
+* Co-organiser of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
+* Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
+
+## Media Outreach
+* [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/)
+* [IMFD - Modelos de análisis de lenguaje que evolucionen en el tiempo: el proyecto de Felipe Bravo que se adjudicó un Fondecyt de Iniciación](https://imfd.cl/en/modelos-de-analisis-de-lenguaje-que-evolucionen-en-el-tiempo-el-proyecto-de-felipe-bravo-que-se-adjudico-un-fondecyt-de-iniciacion/)
+* [FCFM Uchile - Ocho investigaciones patrocinadas por la FCFM son beneficiadas con Fondecyt de Iniciación](http://ingenieria.uchile.cl/noticias/169721/nueve-investigaciones-fcfm-son-beneficiadas-con-fondecyt)
+* [Sesgo Algorítmico: a video about our research on bias in word embeddings](https://youtu.be/onJs6DXczu0)
+* [Word Embedding Fairness Evaluation - an invited blog post about WEFE published in KDnuggets](https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html)
+* [FCFM Uchile - Investigadores DCC publican trabajo que aborda problema de sesgo algorítmico](http://ingenieria.uchile.cl/noticias/163436/investigadores-dcc-abordan-problema-de-sesgo-algoritmico)
+* [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
+* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
+* [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
+* [RadioNZ - NZ's unique te reo tweets](https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets)
+
+
+
+## Technical Skills
+
+* Programming Languages: Java, R, Python, C,C++.
+* Database Systems: PostgreSQL, MySQL, MongoDB.
+
+
+
+## Languages
+
+* Spanish: Native. 
+* English: Fluent, TOEFL IBT 103/120.
+* German: Average, Sprachdiplom Zweite Stufe.
+
+
+
+Felipe José Bravo Márquqez
+
+Santiago, Chile October 28, 2021

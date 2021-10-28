@@ -7,8 +7,6 @@
 * Web Page: https://felipebravom.com.
 * Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
 
-
-
 ## Academic Positions and Work Experience
 
 * [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
@@ -20,8 +18,6 @@
 * [2009] Internship, Simple, Software Developer.
 * [2009] Internship, Previred, Business Process Management Area, http://www.previred.com.
 * [2005-2006] Internship, Vitanet, Software Developer, http://www.vitanet.cl.
-
-
 
 ## Qualifications
 
@@ -36,10 +32,6 @@
 * BSc. in Industrial Engineering, Universidad de Chile (Oct. 2010)
 
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
-
-
-
-
 
 ##  Teaching
 * [CC6104] (Lecturer) Statistical Thinking (spring 2021), Computer Science Department, Universidad de Chile
@@ -75,8 +67,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 
-
-
 ## Scholarships and Awards
 
 * [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
@@ -84,8 +74,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [2016] IEEE student travel grant to attend the 2016 IEEE/WIC/ACM International Conference on Web Intelligence in Omaha, Nebraska, USA.
 * [2014-2017] University of Waikato Doctoral Scholarship.
 * [2011-2012] National Scientific and Technological Research Commission (CONICYT) Scholarship for master’s degree studies at Chilean Universities.
-
-
 
 ## Publications
 
@@ -113,8 +101,6 @@ https://felipebravom.com/publications/
 * (2019-ongoing) Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
 * (2019) Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 * (2019-2020) Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
-
-
 
 ### Undergraduate
 * (2021 - ongoing) María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
@@ -172,6 +158,8 @@ https://felipebravom.com/publications/
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Nano Break - Capítulo 5 - Sesgo algorítmico en IA: qué es y cómo combatirlo](https://youtu.be/uaVOlZG0jwE).
+* [Les Doctores Salvajes - Entrevista a Felipe Bravo](https://soundcloud.com/doctores-salvajes/lds-entrevista-a-felipe-bravo)
 * [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/)
 * [IMFD - Modelos de análisis de lenguaje que evolucionen en el tiempo: el proyecto de Felipe Bravo que se adjudicó un Fondecyt de Iniciación](https://imfd.cl/en/modelos-de-analisis-de-lenguaje-que-evolucionen-en-el-tiempo-el-proyecto-de-felipe-bravo-que-se-adjudico-un-fondecyt-de-iniciacion/)
 * [FCFM Uchile - Ocho investigaciones patrocinadas por la FCFM son beneficiadas con Fondecyt de Iniciación](http://ingenieria.uchile.cl/noticias/169721/nueve-investigaciones-fcfm-son-beneficiadas-con-fondecyt)
@@ -200,6 +188,6 @@ https://felipebravom.com/publications/
 
 
 
-Felipe José Bravo Máruqez
+Felipe José Bravo Márquqez
 
 Santiago, Chile October 28, 2021
