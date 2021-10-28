@@ -3,7 +3,10 @@
 
 * Nationality: Chile.
 * Date of Birth: 3rd of January 1984.
-* E-mail: fbravo at dcc.uchile.cl 
+* Chile Address: Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
+* Phone number: +56 2 2978 4974
+* New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
+* E-mail : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
 * Web Page: https://felipebravom.com.
 * Areas of Interest: Data Mining, Machine Learning, Information Retrieval,  Social Media Analysis.
 
