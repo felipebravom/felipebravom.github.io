@@ -24,7 +24,7 @@
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
 * [2009] Internship, Simple, Software Developer.
 * [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area.
-* [2005-2006] Internship, Vitanet, Software Developer..
+* [2005-2006] Internship, Vitanet, Software Developer.
 
 ## Qualifications
 

@@ -6,11 +6,13 @@ nav:
     - Home: index.md
     - Publications: publications.md
     - Bio: bio.md      
-    - CV: cv.md
+    - CV: 
+        - 'Web Format': cv.md
+        - 'PDF': 'documents/cv_full.pdf'
     - Teaching: 
         - 'Natural Language Processing': 'https://github.com/dccuchile/CC6205/'
         - 'Data Mining': 'https://github.com/dccuchile/CC5206/'
         - 'Statistical Thinking': 'https://github.com/dccuchile/CC6104'
-        - 'Misc': 'teaching/data.md'          
+        - 'Misc (in Spanish)': 'teaching/data.md'          
           
 

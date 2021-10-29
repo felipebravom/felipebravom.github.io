@@ -24,7 +24,7 @@
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
 * [2009] Internship, Simple, Software Developer.
 * [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area.
-* [2005-2006] Internship, Vitanet, Software Developer..
+* [2005-2006] Internship, Vitanet, Software Developer.
 
 ## Qualifications
 
@@ -82,7 +82,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [2014-2017] University of Waikato Doctoral Scholarship.
 * [2011-2012] National Scientific and Technological Research Commission (CONICYT) Scholarship for master’s degree studies at Chilean Universities.
 
-
 ## Publications
 
 ### Journal Papers
@@ -128,10 +127,10 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
-1. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th
-International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
+2. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th
+   International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
 
-2. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](https://felipebravom.com/publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
+3. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](https://felipebravom.com/publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
 
 
 1. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](https://felipebravom.com/publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
@@ -230,7 +229,6 @@ International Joint Conference on Natural Language Processing: Student Research 
 * Master's Thesis (first four pages in Spanish): [Static and Dynamic Analysis of Opinions in Twitter](http://repositorio.uchile.cl/handle/2250/114470) ([pdf](https://felipebravom.com/publications/master_thesis.pdf)).
 
 * Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](https://felipebravom.com/publications/memoria.pdf)).
-
 
 ## Students
 
@@ -337,11 +335,15 @@ International Joint Conference on Natural Language Processing: Student Research 
 * English: Fluent, TOEFL IBT 103/120.
 * German: Average, Sprachdiplom Zweite Stufe.
 
+
+
 ## References
 
 * [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/): Full Professor, University of Waikato.
 * [Eibe Frank](https://www.cs.waikato.ac.nz/~eibe/): Full Professor, University of Waikato.
 * [Saif M. Mohammad](https://www.saifmohammad.com/): Senior Research Scientist, National Research Council Canada (NRC).
+
+
 
 
 
