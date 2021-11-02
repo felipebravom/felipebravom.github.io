@@ -165,6 +165,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Investigadores del DCC participan en nuevo Centro de Inteligencia Artificial (CenIA)](https://comunicaciones.dcc.uchile.cl/news/520-investigadores-del-dcc-participan-en-nuevo-centro-de-inteligencia-artificial-cenia/)
 * [Nano Break - Capítulo 5 - Sesgo algorítmico en IA: qué es y cómo combatirlo](https://youtu.be/uaVOlZG0jwE).
 * [Les Doctores Salvajes - Entrevista a Felipe Bravo](https://soundcloud.com/doctores-salvajes/lds-entrevista-a-felipe-bravo)
 * [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/)
