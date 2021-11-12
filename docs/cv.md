@@ -86,8 +86,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 [Full list here](../publications/)
 
-
-
 ## Students
 
 ### Postgraduate
@@ -209,4 +207,4 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 Felipe José Bravo Márquez
 
-Santiago, Chile October 28, 2021
+Santiago, Chile November 12, 2021
