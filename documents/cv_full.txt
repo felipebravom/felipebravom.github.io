@@ -86,6 +86,10 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 ### Journal Papers
 
+
+
+1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/journal/health). In **ACM Transactions on Computing for Healthcare (HEALTH)* (to appear)
+
 1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](https://felipebravom.com/publications/COGN2021b.pdf))
 
    
@@ -230,8 +234,6 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * Undergraduate Thesis (in Spanish): [Diseño e Implementación de un Metabuscador de Párrafos para la Recuperación de Documentos Similares en la Web](http://repositorio.uchile.cl/handle/2250/103809) ([pdf](https://felipebravom.com/publications/memoria.pdf)).
 
-
-
 ## Students
 
 ### Postgraduate
@@ -309,6 +311,8 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Investigadores del DCC participan en nuevo Centro de Inteligencia Artificial (CenIA)](https://comunicaciones.dcc.uchile.cl/news/520-investigadores-del-dcc-participan-en-nuevo-centro-de-inteligencia-artificial-cenia/)
+* [DCC realizó tradicional ceremonia de reconocimiento a estudiantes y profesores destacados](https://comunicaciones.dcc.uchile.cl/news/505-dcc-realizo-tradicional-ceremonia-de-reconocimiento-a-estudiantes-y-profesores-destacados/)
 * [Nano Break - Capítulo 5 - Sesgo algorítmico en IA: qué es y cómo combatirlo](https://youtu.be/uaVOlZG0jwE).
 * [Les Doctores Salvajes - Entrevista a Felipe Bravo](https://soundcloud.com/doctores-salvajes/lds-entrevista-a-felipe-bravo)
 * [IMFD - IA y clasificación de contenidos: el desafío en el que trabajan el Poder Judicial y el IMFD](https://imfd.cl/en/ia-y-clasificacion-de-contenidos-el-desafio-en-el-que-trabajan-el-poder-judicial-y-el-imfd/)
