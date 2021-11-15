@@ -66,13 +66,14 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 * [2019-2020] False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
 
-## Refereeing
+## Service
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
-
 * Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
-
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
+* Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
+* University Administration: [2020-2022] member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. I also participated in the development of this program. 
+* Consulting: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 
 ## Scholarships and Awards
 
@@ -208,4 +209,4 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 Felipe José Bravo Márquez
 
-Santiago, Chile November 12, 2021
+Santiago, Chile November 15, 2021
