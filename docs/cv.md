@@ -163,6 +163,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Beauchef Magazine 2021: Inteligencia artificial para el apoyo de la educación diferencial](http://ingenieria.uchile.cl/noticias/181403/inteligencia-artificial-para-el-apoyo-de-la-educacion-diferencial)
 * [Investigadores del DCC participan en nuevo Centro de Inteligencia Artificial (CenIA)](https://comunicaciones.dcc.uchile.cl/news/520-investigadores-del-dcc-participan-en-nuevo-centro-de-inteligencia-artificial-cenia/)
 * [DCC realizó tradicional ceremonia de reconocimiento a estudiantes y profesores destacados](https://comunicaciones.dcc.uchile.cl/news/505-dcc-realizo-tradicional-ceremonia-de-reconocimiento-a-estudiantes-y-profesores-destacados/)
 * [Nano Break - Capítulo 5 - Sesgo algorítmico en IA: qué es y cómo combatirlo](https://youtu.be/uaVOlZG0jwE).

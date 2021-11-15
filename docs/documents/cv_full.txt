@@ -476,6 +476,8 @@ International Joint Conference on Natural Language Processing: Student Research 
 
 ## Media Outreach
 
+* [Beauchef Magazine 2021: Inteligencia artificial para el apoyo de la educación diferencial](http://ingenieria.uchile.cl/noticias/181403/inteligencia-artificial-para-el-apoyo-de-la-educacion-diferencial)
+
 * [Investigadores del DCC participan en nuevo Centro de Inteligencia Artificial (CenIA)](https://comunicaciones.dcc.uchile.cl/news/520-investigadores-del-dcc-participan-en-nuevo-centro-de-inteligencia-artificial-cenia/)
 
 * [DCC realizó tradicional ceremonia de reconocimiento a estudiantes y profesores destacados](https://comunicaciones.dcc.uchile.cl/news/505-dcc-realizo-tradicional-ceremonia-de-reconocimiento-a-estudiantes-y-profesores-destacados/)
