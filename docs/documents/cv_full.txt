@@ -424,9 +424,7 @@ International Joint Conference on Natural Language Processing: Student Research 
 
 * [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
 
-* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
-
-19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
+* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/) 19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
 
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 

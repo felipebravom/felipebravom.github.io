@@ -137,8 +137,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [January 2020] [Universidad Adolfo Ibañez, Seminario: Sistematizando la participación ciudadana](https://mkg.uai.cl/mails/gobierno/seminarios/2019/seminario_participacion/index.html). Análisis de emociones y sentimientos en medios de comunicación social. 
 * [July 2019] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Sentiment Analysis and NLP. Hosted by Álvaro Soto.
 * [June 2019] [AMW Data Science School 2019](http://amw2019.uc.edu.py/school). Tutorial: Deep Learning for Natural Language Processing.
-* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/)
-19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
+* [November 2018] [Asia-Pacific iSchools Regional Meeting 2018](https://icadl2018.org/co-located/ischool-meeting/) 19 November 2018, Hamilton, New Zealand: Emotion Intensties of Tweets.
 * [March 2018] [Natural Language Processing in NZ Meetup](https://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 * [February 2018] [University of Waikato](https://events.waikato.ac.nz/events/tutorial-using-sentiment-analysis-as-a-case-study-for-introducing-modern-nlp-concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
 * [January 2018] [Universidad de Chile](https://www.dcc.uchile.cl/tutorial__using_sentiment_analysis_as_a_case_study_for_introducing_modern_nlp__concepts). Tutorial: Using Sentiment Analysis as a Case Study for Introducing Modern NLP Concepts.
