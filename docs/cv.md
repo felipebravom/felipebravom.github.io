@@ -72,8 +72,8 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 * Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 * Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
-* University Administration: [2020-2022] member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. I also participated in the development of this program. 
-* Consulting: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
+* University Administration: [2020-ongoing] member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile, [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
+* Technology transfer: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 
 ## Scholarships and Awards
 
@@ -98,14 +98,14 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 * [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Jorge Ortiz,  Masters in Computer Science, University of Chile.
-* [2020 - ongoing]Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
-* [2020 - ongoing]Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
-* (2019 - ongoing) Frank Zamora, PhD, University of Chile.
-* [2020 - ongoing]Javier Muñoz, Masters in Computer Science, University of Chile.
+* [2020 - ongoing] Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
+* [2020 - ongoing] Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
+* [2019 - ongoing] Frank Zamora, PhD, University of Chile.
+* [2020 - ongoing] Javier Muñoz, Masters in Computer Science, University of Chile.
 * [2019-2020] Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * [2019-ongoing] Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * [2019-ongoing] Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
-* [2019]  Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* [2019] Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 
 ### Undergraduate
@@ -116,7 +116,7 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 *  [2018] Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
 *  [2018]  Joshua Lovelock, Co-supervised with Eibe Frank, "Automatic Detection of Hate Speech", Honours Project, University of Waikato.
 *  [2018] Tristan Anderson, Co-supervised with Bernhard Pfahringer, "Building Time-Evolving Opinion Lexicons", Honours Project, University of Waikato.
-*  [2012-2013] Edison Marrese Taylor, Co-advisor with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
+*  [2012-2013] Edison Marrese Taylor, Co-supervised with Juan Velásquez, "Diseño e Implementación de una Aplicación de Web Opinion Mining para Identificar Preferencias de Usuarios sobre Productos Turísticos de la X Región de los Lagos", Industrial Engineering, U. of Chile.
 *  [2012] Luis Maldonado, Co-advisor with Mauricio Marín, "Análisis de Sentimiento en el Sistema de Red Social Twitter", Execution Informatics Engineering, U. of Santiago.
 
 ## Short Courses
