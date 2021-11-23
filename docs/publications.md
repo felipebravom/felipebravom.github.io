@@ -4,7 +4,7 @@
 
 
 
-1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/journal/health). In *ACM Transactions on Computing for Healthcare (HEALTH)* (to appear)
+1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/journal/health). In *ACM Transactions on Computing for Healthcare (HEALTH)* (to appear) ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
 
 1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*. DOI: 10.1007/s12559-021-09923-9 ([pdf](https://felipebravom.com/publications/COGN2021b.pdf))
 
