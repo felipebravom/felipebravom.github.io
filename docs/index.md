@@ -1,9 +1,10 @@
-<img src="img/meOfficial.jpg" alt="alt text" width="10%" height="20%"> 
+<img src="img/me.png" alt="alt text" width="30%" height="30%"> 
 
 ## Affiliations
 
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
-* *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, Chile). 
+* *Researcher* at National Center for Artificial Intelligence Research (Funded by Programa Centros Basales, ANID, Chile). 
+* *Young Researcher* at [Millennium Institute for Foundational Research on Data](http://www.imfd.cl) (Funded by Programa Milenio, ANID, Chile). 
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
 * *Founding Member* of the [Representations for Learning and Language (ReLeLa)](https://relela.com) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
 * *Associate Member* in the [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home)
@@ -51,7 +52,9 @@ My main research goals are to study society by computationally analysing traces 
 * [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
+* [Publons](https://publons.com/researcher/AAG-6488-2019/)
+* [ACL Anthology](https://aclanthology.org/people/f/felipe-bravo-marquez/)
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated October 5th, 2021 
+Last Updated November 24th, 2021 

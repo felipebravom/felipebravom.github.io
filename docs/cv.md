@@ -11,14 +11,16 @@
 * Phone number: +56 2 2978 4974
 * New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
 * E-mail : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
-* Public profiles: [personal website](https://felipebravom.com), [DCC Uchile](https://www.dcc.uchile.cl/nosotros/academico/121), [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121), [IMFD](https://imfd.cl/en/investigador/felipe-bravo-marquez/), [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom), [Google Scholar](https://scholar.google.com/citations?user=q--XWcQAAAAJ&hl), [GitHub](https://github.com/felipebravom), [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bravo=Marquez:Felipe.html), [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/), [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200), [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375), [Youtube](https://www.youtube.com/user/felipebravom), [Twitter](https://twitter.com/felipebravom).
+* Public profiles: [personal website](https://felipebravom.com), [DCC Uchile](https://www.dcc.uchile.cl/nosotros/academico/121), [FCFM Uchile](http://ingenieria.uchile.cl/facultad/cuerpo-academico/92399/ciencias-de-la-computacion?qui_id=121), [IMFD](https://imfd.cl/en/investigador/felipe-bravo-marquez/), [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom), [Google Scholar](https://scholar.google.com/citations?user=q--XWcQAAAAJ&hl), [GitHub](https://github.com/felipebravom), [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bravo=Marquez:Felipe.html), [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/), [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200), [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375), [Publons](https://publons.com/researcher/AAG-6488-2019/), [ACL Anthology](https://aclanthology.org/people/f/felipe-bravo-marquez/), [Youtube](https://www.youtube.com/user/felipebravom), [Twitter](https://twitter.com/felipebravom).
 * Areas of Interest: [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Data mining](https://en.wikipedia.org/wiki/Data_mining), [Data science](https://en.wikipedia.org/wiki/Data_science), [Machine learning](https://en.wikipedia.org/wiki/Machine_learning), [Information retrieval](https://en.wikipedia.org/wiki/Information_Retrieval), [Social media analytics](https://en.wikipedia.org/wiki/Social_media_analytics), [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Statistics](https://en.wikipedia.org/wiki/Statistics).
 
 ## Academic Positions and Work Experience
 
 * [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2021 - present] Researcher, National Center for Artificial Intelligence Research.
 * [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data](http://www.imfd.cl).
-* [2018 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+* [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
+* [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
 * [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America. 
 * [2009- 2011] Researcher and Software Developer, [Web Intelligence Consortium Chile Research Centre](http://wi.dii.uchile.cl).
@@ -208,4 +210,4 @@ NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Increment
 
 Felipe José Bravo Márquez
 
-Santiago, Chile November 15, 2021
+Santiago, Chile November 24, 2021
