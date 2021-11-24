@@ -61,8 +61,7 @@
 
 ### As Principal Investigator
 * [2020 - ongoing] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach.
-* [2020 - ongoing] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE
-NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter.
+* [2020 - ongoing] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter.
 
 ### As Investigator
 
