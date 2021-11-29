@@ -153,15 +153,16 @@
 
 ## Software
 
-* [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io)
-* I'm the main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
-* I've contributed to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
+* Contributor to the [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io).
+* Main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
+* Contributor to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
 * Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
 
 ## Shared Task Organisation
 
-* Co-organiser of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
-* Co-organiser of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
+* Co-organizer of the LChange'22 [Semantic Change Detection in Spanish](https://languagechange.org/events/2022-acl-lchange/) Task.
+* Co-organizer of the SemEval-2018 Task 1: [Affect in Tweets](https://competitions.codalab.org/competitions/17751).
+* Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
 * [Beauchef Magazine 2021: Inteligencia artificial para el apoyo de la educación diferencial](http://ingenieria.uchile.cl/noticias/181403/inteligencia-artificial-para-el-apoyo-de-la-educacion-diferencial)
