@@ -132,6 +132,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [December 2021] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [August 2021] [FCFM- Iniciativa de Datos e Inteligencia Artificial (D&IA), Análisis de emociones y sentimientos en medios de comunicación social.](https://www.u-cursos.cl/ingenieria/2/novedades_institucion/detalle?id=44678)
 * [August 2021] [Enaex Robotics, Introduction to Machine Learning](https://www.enaex.com)
 * [October 2020] [WOPATEC 2020 - CILCC-2020, Invited talk: Sesgo en Word Embeddings](http://wopatec.cl/) ([acta congreso](https://cilcc20.files.wordpress.com/2020/10/libro-de-resumenes-iii-cilcc-2020-y-v-wopatec-2020.pdf))
