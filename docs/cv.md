@@ -17,7 +17,7 @@
 ## Academic Positions and Work Experience
 
 * [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
-* [2021 - present] Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
+* [2021 - present] Associate Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 * [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl).
 * [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
 * [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
@@ -132,6 +132,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [January 2022] First Friday Meeting at Meta (Facebook). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
 * [December 2021] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [August 2021] [FCFM- Iniciativa de Datos e Inteligencia Artificial (D&IA), Análisis de emociones y sentimientos en medios de comunicación social.](https://www.u-cursos.cl/ingenieria/2/novedades_institucion/detalle?id=44678)
 * [August 2021] [Enaex Robotics, Introduction to Machine Learning](https://www.enaex.com)

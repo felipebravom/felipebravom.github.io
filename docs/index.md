@@ -3,7 +3,7 @@
 ## Affiliations
 
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
-* *Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
+* *Associate Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl) (Funded by Programa Milenio, ANID, Chile). 
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
 * *Founding Member* of the [Representations for Learning and Language (ReLeLa)](https://relela.com) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
