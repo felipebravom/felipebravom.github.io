@@ -132,7 +132,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-* [January 2022] First Friday Meeting at Meta (Facebook). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
+* [January 2022] First Friday Meeting at [Facebook (Meta) Research](https://research.facebook.com). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
 * [December 2021] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [August 2021] [FCFM- Iniciativa de Datos e Inteligencia Artificial (D&IA), Análisis de emociones y sentimientos en medios de comunicación social.](https://www.u-cursos.cl/ingenieria/2/novedades_institucion/detalle?id=44678)
 * [August 2021] [Enaex Robotics, Introduction to Machine Learning](https://www.enaex.com)

@@ -410,7 +410,7 @@ International Joint Conference on Natural Language Processing: Student Research 
 
 ## Seminars and Talks
 
-* [January 2022] First Friday Meeting at Meta (Facebook). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
+* [January 2022] First Friday Meeting at [Facebook (Meta) Research](https://research.facebook.com). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
 
 * [December 2021] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 
