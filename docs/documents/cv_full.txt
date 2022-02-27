@@ -174,11 +174,11 @@
 
 ### Journal Papers
 
-1. J. Diaz, F. Bravo-Marquez and B. Poblete, [Language Modeling on Location-Based Social Networks](https://www.mdpi.com/journal/ijgi/special_issues/socil_comp_GIS). In *ISPRS International Journal of Geo-Information* (to appear)  ([pdf](https://felipebravom.com/publications/IJGI2022.pdf)) 
+
 
 1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/journal/health). In *ACM Transactions on Computing for Healthcare (HEALTH)* (to appear) ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
 
-   
+1. J. Diaz, F. Bravo-Marquez and B. Poblete, [Language Modeling on Location-Based Social Networks](https://www.mdpi.com/2220-9964/11/2/147). In *ISPRS International Journal of Geo-Information* , Volume 11, Number 2, Article Number 147. DOI: 10.3390/ijgi11020147 ([pdf](https://felipebravom.com/publications/IJGI2022.pdf)) 
 
 1. F. Bravo-Marquez and C. Tamblay [Words, Tweets and Reviews: Leveraging Affective Knowledge Between Multiple Domains](https://link.springer.com/article/10.1007/s12559-021-09923-9). In *Cognitive Computation*, Volume 14, January 2022. Pages 388-406.  DOI: 10.1007/s12559-021-09923-9 ([pdf](https://felipebravom.com/publications/COGN2021b.pdf))
 
