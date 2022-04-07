@@ -4,7 +4,7 @@
 
 
 
-1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/journal/health). In *ACM Transactions on Computing for Healthcare (HEALTH)* (to appear) ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
+1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/doi/10.1145/3498324). In *ACM Transactions on Computing for Healthcare (HEALTH)*, Volume 3, Issue 3, July 2022. Pages 1–22. DOI:10.1145/3498324 ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
 
 1. J. Diaz, F. Bravo-Marquez and B. Poblete, [Language Modeling on Location-Based Social Networks](https://www.mdpi.com/2220-9964/11/2/147). In *ISPRS International Journal of Geo-Information* , Volume 11, Number 2, Article Number 147. DOI: 10.3390/ijgi11020147 ([pdf](https://felipebravom.com/publications/IJGI2022.pdf)) 
 
@@ -57,7 +57,7 @@
 
 4. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
-       
+   ​    
 
 5. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th
      International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
