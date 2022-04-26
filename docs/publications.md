@@ -47,20 +47,19 @@
 
 ### Conference and Workshop Papers 
 
-1. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing new Expressions of Community Framing during Polarization](https://www.icwsm.org/2022/index.html/). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM)*, Atlanta, Georgia, USA.  (to appear) ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
+1. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing new Expressions of Community Framing during Polarization](https://www.icwsm.org/2022/index.html/). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA.  (to appear) ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
 
-2.  V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
+2.  V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
 
      
 
-3. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC)* , Marseille, France.  (to appear)
+3. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022b.pdf ))
 
 4. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
    
 
-5. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th
-   International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
+5. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th  International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
 
    
 
