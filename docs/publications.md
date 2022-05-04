@@ -47,31 +47,35 @@
 
 ### Conference and Workshop Papers 
 
-1. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing new Expressions of Community Framing during Polarization](https://www.icwsm.org/2022/index.html/). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA.  (to appear) ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
-
-2.  V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
-
-     
-
-3. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022b.pdf ))
-
-4. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
+1. F. D. Zamora-Reina, F. Bravo-Marquez, and D. Schlechtweg   [LSCDiscovery: A shared task on semantic change discovery and detection in Spanish](https://fdzr.github.io/lscdiscovery/). In *Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change (LCHANGE 2022)*, Dublin, Ireland. (to appear) ([pdf](https://felipebravom.com/publications/LChange22.pdf)), ([codalab](https://codalab.lisn.upsaclay.fr/competitions/2243))
 
    
 
-5. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th  International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
+2. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing new Expressions of Community Framing during Polarization](https://www.icwsm.org/2022/index.html/). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA.  (to appear) ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
+
+3. V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
+
+    
+
+4. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022b.pdf ))
+
+5. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
    
 
-6. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](https://felipebravom.com/publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
+6. J. Cerezo, A. Bergel, and F. Bravo-Marquez  [Tools Impact on the Quality of Annotations for Chat Untangling](https://aclanthology.org/2021.acl-srw.22/). In *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th  International Joint Conference on Natural Language Processing: Student Research Workshop*, Bangkok, Thailand. Pages 215–220 ([pdf](https://felipebravom.com/publications/ACLSRW2021.pdf))
+
+   
+
+7. J. Muñoz and F. Bravo-Marquez  [Interventions Recommendation: Professionals’ Observations Analysis in Special Needs Education](https://www.aclweb.org/anthology/2021.bea-1.18/). In *Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications  (BEA 2021)*, Co-located with EACL 2021, Kyiv, Ukraine. Pages 171-179 ([pdf](https://felipebravom.com/publications/BEA2021.pdf)),([code](https://github.com/dccuchile/SNEC)).
 
      
 
-7. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](https://felipebravom.com/publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
+8. P. Badilla, F. Bravo-Marquez, and J. Pérez [WEFE: The Word Embeddings Fairness Evaluation Framework](https://www.ijcai.org/Proceedings/2020/60). In *Proceedings of the  29th International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan. Pages 430-436. DOI:10.24963/ijcai.2020/60.  Acceptance rate: 12.6%. ([pdf](https://felipebravom.com/publications/ijcai2020.pdf)),([code](https://wefe.readthedocs.io)). 
 
      
 
-8. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](https://felipebravom.com/publications/semeval2020.pdf))
+9. F. D. Zamora-Reina, F. Bravo-Marquez  [DCC-Uchile at SemEval-2020 Task 1: Temporal Referencing Word Embeddings](https://www.aclweb.org/anthology/2020.semeval-1.23/). In *Proceedings of International Workshop on Semantic Evaluation (SemEval-2020)*, Barcelona, Spain, 2020. Pages 194-200. ([pdf](https://felipebravom.com/publications/semeval2020.pdf))
 
 
 1. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [An ELMo-inspired approach to SemDeep-5's Word-in-Context task](https://www.aclweb.org/anthology/W19-5804/). In Proceedings of the 5th Workshop on Semantic Deep Learning (SemDeep-5) co-located with IJCAI 2019 in Macau, China. ([pdf](https://felipebravom.com/publications/semdeep2019.pdf))
