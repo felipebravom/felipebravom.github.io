@@ -9,106 +9,93 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Web Format - Felipe Bravo-Marquez</title>
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
 
         <script src="../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../js/bootstrap-3.0.3.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script src="../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="..">Felipe Bravo-Marquez</a>
-                </div>
+                <a class="navbar-brand" href="..">Felipe Bravo-Marquez</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="..">Home</a>
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="../publications/">Publications</a>
+                            <li class="navitem">
+                                <a href="../publications/" class="nav-link">Publications</a>
                             </li>
-                            <li >
-                                <a href="../bio/">Bio</a>
+                            <li class="navitem">
+                                <a href="../bio/" class="nav-link">Bio</a>
                             </li>
                             <li class="dropdown active">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">CV <b class="caret"></b></a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">CV <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li class="active">
-    <a href="./">Web Format</a>
+<li>
+    <a href="./" class="dropdown-item active">Web Format</a>
 </li>
                                     
-<li >
-    <a href="../documents/cv_full.pdf">PDF</a>
+<li>
+    <a href="../documents/cv_full.pdf" class="dropdown-item">PDF</a>
 </li>
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li >
-    <a href="https://github.com/dccuchile/CC6205/">Natural Language Processing</a>
+<li>
+    <a href="https://github.com/dccuchile/CC6205/" class="dropdown-item">Natural Language Processing</a>
 </li>
                                     
-<li >
-    <a href="https://github.com/dccuchile/CC5206/">Data Mining</a>
+<li>
+    <a href="https://github.com/dccuchile/CC5206/" class="dropdown-item">Data Mining</a>
 </li>
                                     
-<li >
-    <a href="https://github.com/dccuchile/CC6104">Statistical Thinking</a>
+<li>
+    <a href="https://github.com/dccuchile/CC6104" class="dropdown-item">Statistical Thinking</a>
 </li>
                                     
-<li >
-    <a href="../teaching/data/">Misc (in Spanish)</a>
+<li>
+    <a href="../teaching/data/" class="dropdown-item">Misc (in Spanish)</a>
 </li>
                                 </ul>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../bio/">
+                            <li class="nav-item">
+                                <a rel="prev" href="../bio/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../documents/cv_full.pdf">
+                            <li class="nav-item">
+                                <a rel="next" href="../documents/cv_full.pdf" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://felipebravom.com">Felipebravom</a>
+                            <li class="nav-item">
+                                <a href="https://felipebravom.com" class="nav-link">Felipebravom</a>
                             </li>
                     </ul>
                 </div>
@@ -116,30 +103,98 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#curriculum-vitae">Curriculum Vitae</a></li>
-            <li><a href="#personal-information">Personal Information</a></li>
-            <li><a href="#academic-positions-and-work-experience">Academic Positions and Work Experience</a></li>
-            <li><a href="#qualifications">Qualifications</a></li>
-            <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#grants">Grants</a></li>
-            <li><a href="#service">Service</a></li>
-            <li><a href="#scholarships-and-awards">Scholarships and Awards</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#students">Students</a></li>
-            <li><a href="#short-courses">Short Courses</a></li>
-            <li><a href="#academic-visits">Academic Visits</a></li>
-            <li><a href="#seminars-and-talks">Seminars and Talks</a></li>
-            <li><a href="#software">Software</a></li>
-            <li><a href="#shared-task-organisation">Shared Task Organisation</a></li>
-            <li><a href="#media-outreach">Media Outreach</a></li>
-            <li><a href="#technical-skills">Technical Skills</a></li>
-            <li><a href="#languages">Languages</a></li>
-            <li><a href="#references">References</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#curriculum-vitae" class="nav-link">Curriculum Vitae</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#personal-information" class="nav-link">Personal Information</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#academic-positions-and-work-experience" class="nav-link">Academic Positions and Work Experience</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#qualifications" class="nav-link">Qualifications</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#teaching" class="nav-link">Teaching</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#grants" class="nav-link">Grants</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#service" class="nav-link">Service</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#scholarships-and-awards" class="nav-link">Scholarships and Awards</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#publications" class="nav-link">Publications</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#students" class="nav-link">Students</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#short-courses" class="nav-link">Short Courses</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#academic-visits" class="nav-link">Academic Visits</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#seminars-and-talks" class="nav-link">Seminars and Talks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#software" class="nav-link">Software</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#shared-task-organisation" class="nav-link">Shared Task Organisation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#media-outreach" class="nav-link">Media Outreach</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#technical-skills" class="nav-link">Technical Skills</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#languages" class="nav-link">Languages</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#references" class="nav-link">References</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="curriculum-vitae">Curriculum Vitae</h1>
 <h2 id="personal-information">Personal Information</h2>
@@ -219,7 +274,7 @@
 <ul>
 <li>Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".</li>
 <li>Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017</li>
-<li>Journal Reviewing: ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.</li>
+<li>Journal Reviewing: Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.</li>
 <li>Grant reviewing: Fondecyt de Iniciación en Investigación 2022.</li>
 <li>University Administration: [2020-ongoing] member of the academic committee of the <a href="https://mds.uchile.cl/">Master in Data Science</a> at the University of Chile, [2019-2019] I participated in the elaboration of  the <a href="https://mds.uchile.cl/">Master in Data Science</a> at the University of Chile. </li>
 <li>Technology transfer: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.</li>
@@ -352,7 +407,8 @@
 <li><a href="https://www.saifmohammad.com/">Saif M. Mohammad</a>: Senior Research Scientist, National Research Council Canada (NRC).</li>
 </ul>
 <p>Felipe José Bravo Márquez</p>
-<p>Santiago, Chile November 24, 2021</p></div>
+<p>Santiago, Chile May 11, 2022</p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -366,35 +422,32 @@
         <script src="../js/base.js" defer></script>
         <script src="../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
-                <p>
-                    From here you can search these documents. Enter
-                    your search terms below.
-                </p>
-                <form role="form">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
-                <div id="mkdocs-search-results"></div>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
             </div>
             <div class="modal-footer">
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">
