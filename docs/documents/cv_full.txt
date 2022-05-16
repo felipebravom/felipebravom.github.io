@@ -219,7 +219,7 @@
 
 ### Conference and Workshop Papers 
 
-1. F. D. Zamora-Reina, F. Bravo-Marquez, and D. Schlechtweg   [LSCDiscovery: A shared task on semantic change discovery and detection in Spanish](https://fdzr.github.io/lscdiscovery/). In *Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change (LCHANGE 2022)*, Dublin, Ireland. (to appear) ([pdf](https://felipebravom.com/publications/LChange22.pdf)), ([codalab](https://codalab.lisn.upsaclay.fr/competitions/2243))
+1. F. D. Zamora-Reina, F. Bravo-Marquez, and D. Schlechtweg   [LSCDiscovery: A shared task on semantic change discovery and detection in Spanish](https://aclanthology.org/2022.lchange-1.16/). In *Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change (LCHANGE 2022), co-located with ACL 2022*, Dublin, Ireland. Association for Computational Linguistics. Pages 149–164. ([pdf](https://felipebravom.com/publications/LChange22.pdf)), ([codalab](https://codalab.lisn.upsaclay.fr/competitions/2243))
 
    
 
