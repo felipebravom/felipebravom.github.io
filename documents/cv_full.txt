@@ -219,11 +219,13 @@
 
 ### Conference and Workshop Papers 
 
-1. F. D. Zamora-Reina, F. Bravo-Marquez, and D. Schlechtweg   [LSCDiscovery: A shared task on semantic change discovery and detection in Spanish](https://aclanthology.org/2022.lchange-1.16/). In *Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change (LCHANGE 2022), co-located with ACL 2022*, Dublin, Ireland. Association for Computational Linguistics. Pages 149–164. ([pdf](https://felipebravom.com/publications/LChange22.pdf)), ([codalab](https://codalab.lisn.upsaclay.fr/competitions/2243))
+1. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing New Expressions of Community Framing during Polarization](https://ojs.aaai.org/index.php/ICWSM/article/view/19339). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA. AAAI Press. Pages 841-851. ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
 
    
 
-2. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing new Expressions of Community Framing during Polarization](https://www.icwsm.org/2022/index.html/). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA.  (to appear) ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
+2. F. D. Zamora-Reina, F. Bravo-Marquez, and D. Schlechtweg   [LSCDiscovery: A shared task on semantic change discovery and detection in Spanish](https://aclanthology.org/2022.lchange-1.16/). In *Proceedings of the 3rd International Workshop on Computational Approaches to Historical Language Change (LCHANGE 2022), co-located with ACL 2022*, Dublin, Ireland. Association for Computational Linguistics. Pages 149–164. ([pdf](https://felipebravom.com/publications/LChange22.pdf)), ([codalab](https://codalab.lisn.upsaclay.fr/competitions/2243))
+
+   
 
 3. V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
 
