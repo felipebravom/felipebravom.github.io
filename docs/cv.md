@@ -168,6 +168,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Los buscadores entenderán el contexto de una pregunta y recopilarán la información desde muchas fuentes: El Mercurio, Vida, Ciencia y Tecnología, June 6, 2022](https://digital.elmercurio.com/2022/06/06/A/3R44R8L1) ([pdf](https://felipebravom.com/documents/mercurio2022.pdf))
 * [Beauchef Magazine 2021: Inteligencia artificial para el apoyo de la educación diferencial](http://ingenieria.uchile.cl/noticias/181403/inteligencia-artificial-para-el-apoyo-de-la-educacion-diferencial)
 * [Investigadores del DCC participan en nuevo Centro de Inteligencia Artificial (CenIA)](https://comunicaciones.dcc.uchile.cl/news/520-investigadores-del-dcc-participan-en-nuevo-centro-de-inteligencia-artificial-cenia/)
 * [DCC realizó tradicional ceremonia de reconocimiento a estudiantes y profesores destacados](https://comunicaciones.dcc.uchile.cl/news/505-dcc-realizo-tradicional-ceremonia-de-reconocimiento-a-estudiantes-y-profesores-destacados/)
