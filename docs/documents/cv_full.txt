@@ -227,11 +227,11 @@
 
    
 
-3. V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
+3. V. Araujo, A. Caravallo, S. Kundu, J. Cañete, M. Mendoza, R. E. Mercer, F. Bravo-Marquez, M. Moens, and A. Soto   [Evaluation Benchmarks for Spanish Sentence Representations](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.648.pdf). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France. Pages 6024-6034. ([pdf](https://felipebravom.com/publications/LREC2022a.pdf ))
 
     
 
-4. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](https://lrec2022.lrec-conf.org/en/). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  (to appear) ([pdf](https://felipebravom.com/publications/LREC2022b.pdf ))
+4. J. Cañete, S. Donoso, F. Bravo-Marquez, A. Caravallo, and V. Araujo   [ALBETO and DistilBETO: Lightweight Spanish Language Models](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.457.pdf). In *Proceedings of the 13th Edition of The Language Resources and Evaluation Conference (LREC 2022)* , Marseille, France.  Pages 4291-4298. ([pdf](https://felipebravom.com/publications/LREC2022b.pdf ))
 
 5. A. Ansell, F. Bravo-Marquez, and B. Pfahringer  [PolyLM: Learning about Polysemy through Language Modeling](https://www.aclweb.org/anthology/2021.eacl-main.45/). In *Proceedings of the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)*, Kyiv, Ukraine. Pages 563–574. ([pdf](https://felipebravom.com/publications/eacl2021.pdf)),([code](https://github.com/AlanAnsell/PolyLM)).
 
