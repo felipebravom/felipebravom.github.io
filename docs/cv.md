@@ -92,6 +92,9 @@
 
 ### Postgraduate
 
+* [2022 - ongoing] Ricardo Córdova, PhD, University of Chile.
+* [2022 - ongoing] Fabián Villena, PhD, University of Chile.
+* [2022 - ongoing] Ignacio Núñez, Masters in Computer Science, University of Chile. 
 * [2021 - ongoing] David Rojas, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Humberto Rodrigues, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] José Cañete, Masters in Computer Science, University of Chile.
@@ -100,9 +103,9 @@
 * [2021 - ongoing] Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Jorge Ortiz,  Masters in Computer Science, University of Chile.
 * [2020 - ongoing] Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
-* [2020 - ongoing] Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
+* [2020 - 2022] Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * [2019 - ongoing] Frank Zamora, PhD, University of Chile.
-* [2020 - ongoing] Javier Muñoz, Masters in Computer Science, University of Chile.
+* [2020 - 2022] Javier Muñoz, Masters in Computer Science, University of Chile.
 * [2019-2020] Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
 * [2019-ongoing] Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * [2019-ongoing] Jhonny Cerezo, Co-supervised with Alexandre Bergel, Masters, University of Chile.
@@ -110,8 +113,9 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
 
 ### Undergraduate
+* [2022 - ongoing] Maximiliano Aguilar,  Computer Science Engineering, University of Chile.
 * [2021 - ongoing] María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
-* [2021 - ongoing] Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
+* [2021 - 2022] Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
 * [2019-2020] Cristián Tamblay, Computer Science Engineering, University of Chile.
 *  [2019] David Trye, Co-supervised with Andreea Calude, "Māori Borrowings in Science Digital Media", Summer Research Scholarship, University of Waikato. 
 *  [2018] Nicole Chan, Co-supervised with Andreea Calude, "Social Media Meets Te Reo Māori Loanwords",  Honours Project, University of Waikato. 
