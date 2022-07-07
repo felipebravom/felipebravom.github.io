@@ -136,6 +136,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [July 2022] [Millennium Institute for Foundational Research on Data (IMFD)](https://imfd.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [May 2022] [Data Science Institute (DSI), Imperial College London](https://www.imperial.ac.uk/data-science/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [January 2022] First Friday Meeting at [Facebook (Meta) Research](https://research.facebook.com). Will we ever understand Facebook's influence on elections? A scientists’ perspective.
 * [December 2021] [AI Lab  at PUC](http://ialab.ing.puc.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
