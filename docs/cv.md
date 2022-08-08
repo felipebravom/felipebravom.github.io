@@ -136,6 +136,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [August 2022] Noche Cenia, Máquinas Dialogantes. An informal talk given in a pub in Santiago, Chile as part of the outreach activities of the  National Center of Artificial Intelligence. ([flyer](https://felipebravom.com/img/nochecenia.png))
 * [July 2022] [Millennium Institute for Foundational Research on Data (IMFD)](https://imfd.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [May 2022] [Data Science Institute (DSI), Imperial College London](https://www.imperial.ac.uk/data-science/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 * [January 2022] First Friday Meeting at [Facebook (Meta) Research](https://research.facebook.com). Will we ever understand Facebook's influence on elections? A scientists’ perspective.

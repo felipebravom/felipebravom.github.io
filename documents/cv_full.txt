@@ -445,6 +445,8 @@
 
 ## Seminars and Talks
 
+* [August 2022] Noche Cenia, Máquinas Dialogantes. An informal talk given in a pub in Santiago, Chile as part of the outreach activities of the  National Center of Artificial Intelligence. ([flyer](https://felipebravom.com/img/nochecenia.png))
+
 * [July 2022] [Millennium Institute for Foundational Research on Data (IMFD)](https://imfd.cl/). Tackling Fairness, Change and Polysemy in Word Embeddings.
 
 * [May 2022] [Data Science Institute (DSI), Imperial College London](https://www.imperial.ac.uk/data-science/). Tackling Fairness, Change and Polysemy in Word Embeddings.
