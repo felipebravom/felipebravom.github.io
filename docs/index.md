@@ -25,7 +25,7 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 * [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
-My main research goals are to study society by computationally analysing traces left by humans in the digital space.
+My main research goals are to study society by computationally analyzing traces left by humans in the digital space.
 
 
 
@@ -57,4 +57,4 @@ My main research goals are to study society by computationally analysing traces 
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated November 24th, 2021 
+Last Updated August 16th, 2022 
