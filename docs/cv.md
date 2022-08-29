@@ -73,7 +73,11 @@
 * Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 * Journal Reviewing: Digital Journalism, Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 * Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
-* University Administration: [2020-ongoing] member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile, [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
+* University Administration:
+  * [2022 - ongoing] Elected member of the Departmental Council of the Department of Computer Science at the University of Chile.
+  * [2020-ongoing] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
+  * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
+
 * Technology transfer: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 
 ## Scholarships and Awards
@@ -222,4 +226,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile May 11, 2022
+Santiago, Chile August 29, 2022
