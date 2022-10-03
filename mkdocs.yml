@@ -11,7 +11,7 @@ nav:
         - 'PDF': 'documents/cv_full.pdf'
     - Teaching: 
         - 'Natural Language Processing': 'https://github.com/dccuchile/CC6205/'
-        - 'Data Mining': 'https://github.com/dccuchile/CC5206/'
+        - 'Data Mining': 'https://github.com/dccuchile/CC5205/'
         - 'Statistical Thinking': 'https://github.com/dccuchile/CC6104'
         - 'Misc (in Spanish)': 'teaching/data.md'          
           
