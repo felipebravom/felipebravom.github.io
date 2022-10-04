@@ -13,5 +13,5 @@ Felipe ha co-organizado varias shared tasks (tareas competitivas) en el análisi
 
 Su trabajo ha sido citado más de 2300 veces (Google scholar, octubre 2022). Ha dado charlas invitadas sobre NLP y deep learning en varias universidades chilenas, la Universidad de Melbourne, el National Research Council, Canadá, el Instituto de Lingüística Computacional de la Universidad de Zürich, Facebook, el Imperial College de Londres, entre otros.
 
-También ha contribuido a la difusión de los campos de la minería de datos, el procesamiento del lenguaje natural y la estadística, compartiendo conferencias públicas en vídeo en español en su canal de Youtube, que acumula más de 75.000 visitas. 
+También ha contribuido a la difusión de los campos de la minería de datos, el procesamiento del lenguaje natural y la estadística, compartiendo video clases en español en su canal de Youtube, que acumula más de 75.000 visitas. 
 
