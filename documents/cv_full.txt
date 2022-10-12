@@ -227,7 +227,7 @@
 
 ### Conference and Workshop Papers 
 
-1. M. Rojas, F. Bravo-Marquez, and J. Dunstan [Simple yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition](https://coling2022.org/). In *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*, Gyeongju, Republic of Korea. (to appear). ([pdf](https://felipebravom.com/publications/coling2022.pdf))
+1. M. Rojas, F. Bravo-Marquez, and J. Dunstan [Simple yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition](https://aclanthology.org/2022.coling-1.184/). In *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*, Gyeongju, Republic of Korea. Association for Computational Linguistics. Pages 2108–2117. ([pdf](https://felipebravom.com/publications/coling2022.pdf))
 
    
 
