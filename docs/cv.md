@@ -82,6 +82,7 @@
 
 ## Scholarships and Awards
 
+* [2022] [Recognition for outstanding contribution to the generation of scientific knowledge, University of Chile](https://www.uchile.cl/agenda/192114/ceremonia-reconocimiento-investigacioninnovacion-y-creacion-artistica).
 * [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
 * [2017] University of Waikato Doctoral Publications Scholarship.
 * [2016] IEEE student travel grant to attend the 2016 IEEE/WIC/ACM International Conference on Web Intelligence in Omaha, Nebraska, USA.
