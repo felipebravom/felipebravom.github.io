@@ -180,6 +180,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Comunidad DCC participa en el Aniversario 180 de la Universidad de Chile: Comunicaciones DCC Uchile](https://comunicaciones.dcc.uchile.cl/news/645-comunidad-dcc-participa-en-el-aniversario-180-de-la-universidad-de-chile/)
 * [Profesor Felipe Bravo Márquez y estudiante de doctorado Frank Zamora organizaron competencia de detección de cambio léxico semántico: Comunicaciones DCC Uchile](https://comunicaciones.dcc.uchile.cl/news/594-profesor-felipe-bravo-marquez-y-estudiante-de-doctorado-frank-zamora-organizaron-competencia-de-deteccion-de-cambio-lexico-semantico/)
 * [Investigadores Cenia conversan con diario El Mercurio sobre el futuro de los motores de búsqueda: Cenia 2022](https://www.cenia.cl/post/investigadores-cenia-conversan-con-el-mercurio-sobre-el-futuro-de-los-motores-de-b%C3%BAsqueda)
 * [Los buscadores entenderán el contexto de una pregunta y recopilarán la información desde muchas fuentes: El Mercurio, Vida, Ciencia y Tecnología, June 6, 2022](https://digital.elmercurio.com/2022/06/06/A/3R44R8L1) ([pdf](https://felipebravom.com/documents/mercurio2022.pdf))
