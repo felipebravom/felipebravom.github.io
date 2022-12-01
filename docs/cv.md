@@ -181,6 +181,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Felipe Bravo es distinguido con el Premio TWAS-LACREP Young Scientists Award 2022: CENIA](https://cenia.cl/felipe-bravo-es-distinguido-con-el-premio-twas-lacrep-young-scientists-award-2022/)
 * [Profesor Felipe Bravo Márquez recibe reconocimiento como científico joven destacado: FCFM Uchile](https://ingenieria.uchile.cl/noticias/193397/prof-felipe-bravo-marquez-es-reconocido-como-cientifico-joven-del-ano)
 * [Comunidad DCC participa en el Aniversario 180 de la Universidad de Chile: Comunicaciones DCC Uchile](https://comunicaciones.dcc.uchile.cl/news/645-comunidad-dcc-participa-en-el-aniversario-180-de-la-universidad-de-chile/)
 * [Profesor Felipe Bravo Márquez y estudiante de doctorado Frank Zamora organizaron competencia de detección de cambio léxico semántico: Comunicaciones DCC Uchile](https://comunicaciones.dcc.uchile.cl/news/594-profesor-felipe-bravo-marquez-y-estudiante-de-doctorado-frank-zamora-organizaron-competencia-de-deteccion-de-cambio-lexico-semantico/)
