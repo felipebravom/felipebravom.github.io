@@ -57,4 +57,4 @@ My main research goals are to study society by computationally analyzing traces 
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated September 23rd, 2022 
+Last Updated December 15th, 2022 
