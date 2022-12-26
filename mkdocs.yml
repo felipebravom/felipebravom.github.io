@@ -1,5 +1,5 @@
 site_name: Felipe Bravo-Marquez
-theme: mkdocs  
+theme: material  
 repo_url: https://felipebravom.com
 site_description: Personal Webpage of Felipe Bravo-Marquez
 nav:
