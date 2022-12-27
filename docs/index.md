@@ -52,9 +52,10 @@ My main research goals are to study society by computationally analyzing traces 
 * [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Felipe-Bravo-Marquez/2998375)
-* [Publons](https://publons.com/researcher/AAG-6488-2019/)
+* [Web of Science](https://www.webofscience.com/wos/author/record/1907195)
+* [Orcid](https://orcid.org/0000-0002-2153-4306)
 * [ACL Anthology](https://aclanthology.org/people/f/felipe-bravo-marquez/)
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated December 15th, 2022 
+Last Updated December 27th, 2022 
