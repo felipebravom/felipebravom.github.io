@@ -5,6 +5,8 @@ Felipe has co-organized various shared tasks on the automatic analysis of emotio
 
 He has also contributed to the dissemination of the fields of data mining, natural language processing and statistics, sharing public video lectures in Spanish on his Youtube channel, which accumulates more than 75,000 views. 
 
+In 2022, he was awarded the TWAS-LACREP Young Scientist Award 2022 in Engineering Sciences, recognizing him as the most outstanding scientist under 40 in the field for the Latin American and Caribbean regions.  
+
 ## Spanish 
 
 Felipe Bravo Márquez es profesor asistente en el Departamento de Ciencias de la Computación de la Universidad de Chile, Investigador Asociado del Centro Nacional de Inteligencia Artificial (CENIA)  e Investigador Joven del Instituto Milenio Fundamento de los Datos (IMFD). Realizó su doctorado en el grupo  Machine Learning de la Universidad de Waikato, Nueva Zelanda, donde también trabajó como Research Fellow durante dos años. Actualmente mantiene un puesto de Investigador Asociado Honorífico en este grupo. Anteriormente, recibió dos títulos profesionales en ingeniería en computación  e ingeniería industrial, y un magíster en ciencias de la computación en la Universidad de Chile. Trabajó durante tres años como ingeniero de investigación en Yahoo! Labs Latin America.  Sus intereses de investigación y experiencia se centran en la adquisición de conocimientos e información a partir del lenguaje natural, abarcando las áreas del procesamiento del lenguaje natural (NLP), el aprendizaje automático (ML), la inteligencia artificial (AI) y la recuperación de información (IR). En su investigación, ha desarrollado varios métodos de NLP y ML para el análisis de opiniones y emociones en medios de comunicación social, así como otras aplicaciones centradas en la equidad, la salud y la educación, entre otras. Su trabajo ha sido publicado en conferencias y revistas de IA de primer nivel, por ejemplo, IJCAI, ICWSM, SIGIR, EACL, COLIJNG, ECAI, JMLR, Knowledge-based Systems.  Ha formado parte del comité de programa en conferencias importantes en procesamiento de lenguaje natural e inteligencia artificial, tales como ACL, AAAI, EMNLP, NAACL, IJCAI y ECAI.
@@ -14,4 +16,7 @@ Felipe ha co-organizado varias shared tasks (tareas competitivas) en el análisi
 Su trabajo ha sido citado más de 2300 veces (Google scholar, octubre 2022). Ha dado charlas invitadas sobre NLP y deep learning en varias universidades chilenas, la Universidad de Melbourne, el National Research Council, Canadá, el Instituto de Lingüística Computacional de la Universidad de Zürich, Facebook, el Imperial College de Londres, entre otros.
 
 También ha contribuido a la difusión de los campos de la minería de datos, el procesamiento del lenguaje natural y la estadística, compartiendo video clases en español en su canal de Youtube, que acumula más de 75.000 visitas. 
+
+En 2022, fue galardonado con el premio TWAS-LACREP Young Scientist Award 2022 en Ciencias de la Ingeniería, reconociéndolo como el científico menor de 40 años más destacado en el área para las regiones de América Latina y el Caribe. 
+
 
