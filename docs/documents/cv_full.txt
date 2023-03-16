@@ -539,7 +539,7 @@
 
 ## Media Outreach
 
-* [OpenAI lanzó GPT-4:La inteligencia artificial de ChatGPT mejora con nueva versión: El Mercurio, Vida, Ciencia y Tecnología, March 16, 2023](https://digital.elmercurio.com/Ranking?date=2023/03/16&section=A&publication=mercurio&action=getRanking)  ([pdf](documents/https://felipebravom.com/documents/03-16-2023_ Felipe Bravo_ El Mercurio.pdf))
+* [OpenAI lanzó GPT-4:La inteligencia artificial de ChatGPT mejora con nueva versión: El Mercurio, Vida, Ciencia y Tecnología, March 16, 2023](https://digital.elmercurio.com/Ranking?date=2023/03/16&section=A&publication=mercurio&action=getRanking)  ([pdf](https://felipebravom.com/documents/03-16-2023_ Felipe Bravo_ El Mercurio.pdf))
 
 * [Felipe Bravo es distinguido con el Premio TWAS-LACREP Young Scientists Award 2022: CENIA](https://cenia.cl/felipe-bravo-es-distinguido-con-el-premio-twas-lacrep-young-scientists-award-2022/)
 
