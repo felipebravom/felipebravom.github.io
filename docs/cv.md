@@ -181,6 +181,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [OpenAI lanzó GPT-4:La inteligencia artificial de ChatGPT mejora con nueva versión: El Mercurio, Vida, Ciencia y Tecnología, March 16, 2023](https://digital.elmercurio.com/Ranking?date=2023/03/16&section=A&publication=mercurio&action=getRanking)  ([pdf](documents/https://felipebravom.com/documents/03-16-2023_ Felipe Bravo_ El Mercurio.pdf))
 * [Felipe Bravo es distinguido con el Premio TWAS-LACREP Young Scientists Award 2022: CENIA](https://cenia.cl/felipe-bravo-es-distinguido-con-el-premio-twas-lacrep-young-scientists-award-2022/)
 * [Profesor Felipe Bravo Márquez recibe reconocimiento como científico joven destacado: FCFM Uchile](https://ingenieria.uchile.cl/noticias/193397/prof-felipe-bravo-marquez-es-reconocido-como-cientifico-joven-del-ano)
 * [Comunidad DCC participa en el Aniversario 180 de la Universidad de Chile: Comunicaciones DCC Uchile](https://comunicaciones.dcc.uchile.cl/news/645-comunidad-dcc-participa-en-el-aniversario-180-de-la-universidad-de-chile/)
@@ -232,4 +233,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile December 27, 2022
+Santiago, Chile March 16, 2023
