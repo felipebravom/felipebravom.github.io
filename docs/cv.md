@@ -181,7 +181,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [Discriminación, pérdida de empleos y desinformación son algunos de los temores que conlleva la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 1,2023](https://digital.elmercurio.com/2023/04/01/A/LK48R21U) ([pdf]((https://felipebravom.com/documents/01-04-2023...ElMercurio...Discriminación.pdf)))
+* [Discriminación, pérdida de empleos y desinformación son algunos de los temores que conlleva la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 1,2023](https://digital.elmercurio.com/2023/04/01/A/LK48R21U) ([pdf]((https://felipebravom.com/documents/01-04-2023__Discriminación.pdf)))
 * [Cuatro Cabezas 13c Radio Interview with Kike Mujica on ChatGPT, minute 24](https://13cradio.cl/show/cuatro-cabezas/episode/29-03-vlado-mirosevic-presidente-de-la-camara-de-diputados-y-alejandra-mustakis-empresaria-)
 * [OpenAI lanzó GPT-4:La inteligencia artificial de ChatGPT mejora con nueva versión: El Mercurio, Vida, Ciencia y Tecnología, March 16, 2023](https://digital.elmercurio.com/Ranking?date=2023/03/16&section=A&publication=mercurio&action=getRanking)  ([pdf](https://felipebravom.com/documents/03-16-2023_ Felipe Bravo_ El Mercurio.pdf))
 * [Felipe Bravo es distinguido con el Premio TWAS-LACREP Young Scientists Award 2022: CENIA](https://cenia.cl/felipe-bravo-es-distinguido-con-el-premio-twas-lacrep-young-scientists-award-2022/)
