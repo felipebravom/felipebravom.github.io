@@ -229,7 +229,7 @@
 
 ### Conference and Workshop Papers 
 
-1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://sigir.org/sigir2023/)). In *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*, Taipei, Taiwan. Association for Computational Linguistics.  DOI:10.1145/3539618.3591908 ([pdf](https://felipebravom.com/publications/sigir2023.pdf))
+1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://sigir.org/sigir2023/). In *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*, Taipei, Taiwan. Association for Computational Linguistics.  DOI:10.1145/3539618.3591908 ([pdf](https://felipebravom.com/publications/sigir2023.pdf))
 
 2. M. Rojas, F. Bravo-Marquez, and J. Dunstan [Simple yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition](https://aclanthology.org/2022.coling-1.184/). In *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*, Gyeongju, Republic of Korea. Association for Computational Linguistics. Pages 2108–2117. ([pdf](https://felipebravom.com/publications/coling2022.pdf))
 
