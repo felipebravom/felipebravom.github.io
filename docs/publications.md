@@ -4,7 +4,7 @@
 
 
 
-1. M. Araneda, F. Bravo-Marquez, D. Parra, and R.F Cádiz [MUSIB: Musical Score Inpainting Benchmark](https://asmp-eurasipjournals.springeropen.com/). In EURASIP Journal on Audio, Speech, and Music Processing, 2023. (to appear)
+1. M. Araneda, F. Bravo-Marquez, D. Parra, and R.F Cádiz [MUSIB: Musical Score Inpainting Benchmark](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-023-00279-6). In EURASIP Journal on Audio, Speech, and Music Processing, 2023, 19 (2023). DOI:10.1186/s13636-023-00279-6  ([pdf](https://felipebravom.com/publications/eurasip2023.pdf))
 
 1. P. Baéz, F. Bravo-Marquez, J. Dunstan, M. Rojas, and F. Villena [Automatic Extraction of Nested Entities in Clinical Referrals in Spanish](https://dl.acm.org/doi/10.1145/3498324). In *ACM Transactions on Computing for Healthcare (HEALTH)*, Volume 3, Issue 3, July 2022. Pages 1–22. DOI:10.1145/3498324 ([pdf](https://felipebravom.com/publications/ACMTCH2021.pdf))
 
