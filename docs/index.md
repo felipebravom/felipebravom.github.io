@@ -5,9 +5,10 @@
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 * *Associate Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl) (Funded by Programa Milenio, ANID, Chile). 
+* Member of  the [Data and Artificial Intelligence Initiative (ID&IA)](https://idia.uchile.cl), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile.
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
 * *Founding Member* of the [Representations for Learning and Language (ReLeLa)](https://relela.com) research group at [DCC](http://www.dcc.uchile.cl) Uchile. 
-* *Associate Member* in the [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home)
+* *Associate Member* in the [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato.](https://ai.waikato.ac.nz/home)
 
 
 
@@ -59,4 +60,4 @@ My main research goals are to study society by computationally analyzing traces 
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated March 10th, 2023 
+Last Updated May 11th, 2023 
