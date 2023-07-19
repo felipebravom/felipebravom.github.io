@@ -479,6 +479,8 @@
 
 ## Seminars and Talks
 
+* [July 2023] [Summer Institute in Computational Social Science, Chile 2023](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. ([slides](https://felipebravom.com/documents/LMs.pdf)) 
+
 * [May 2023] A Tour through the Language Models: from Shannon to GPT-4. A talk given as part of the DCC, Uchile [lecture cycle on language models](https://relela.com/ciclos/). ([slides](https://felipebravom.com/documents/LMs.pdf)) 
 
 * [August 2022] Noche Cenia, Máquinas Dialogantes. An informal talk given in a pub in Santiago, Chile as part of the outreach activities of the  National Center of Artificial Intelligence. ([flyer](https://felipebravom.com/img/nochecenia.png))
