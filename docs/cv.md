@@ -83,7 +83,7 @@
 
 ## Scholarships and Awards
 
-* [2022] [TWAS-LACREP Young Scientist Award 2022 in the Engineering Sciences](http://twas-rolac.org/prizes.html). 
+* [2022] [TWAS-LACREP Young Scientist Award 2022 in the Engineering Sciences](https://cenia.cl/felipe-bravo-es-distinguido-con-el-premio-twas-lacrep-young-scientists-award-2022/). 
 * [2022] [Recognition for outstanding contribution to the generation of scientific knowledge, University of Chile](https://www.uchile.cl/agenda/192114/ceremonia-reconocimiento-investigacioninnovacion-y-creacion-artistica).
 * [2021] Best Full-time Teaching Award, Department of Computer Science, University of Chile.
 * [2017] University of Waikato Doctoral Publications Scholarship.
