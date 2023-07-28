@@ -79,7 +79,9 @@
   * [2020-ongoing] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
   * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
-* Technology transfer: [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
+## Technology transfer
+* [2022] I assisted the Chilean food company Agrosuper in its statistical experimentation methodology for production as part of an IMFD agreement.
+* [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 
 ## Scholarships and Awards
 
@@ -100,8 +102,8 @@
 ### PhD
 
 * [2022 - ongoing] Fabián Villena, Co-supervised with Jocelyn Dunstan, PhD, University of Chile.
-* [2020 - ongoing] Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * [2019 - ongoing] Frank Zamora, PhD, University of Chile.
+* [2020 - 2023] Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * [2019- 2023 ] Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 
 ### Master
@@ -116,7 +118,6 @@
 * [2021 - ongoing] José Cañete, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Gabriel Iturra, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
-* [2021 - ongoing] Bastián Matamala, Co-supervised with Andrés Abeliuk, Masters in Computer Science, University of Chile.
 * [2021 - ongoing] Jorge Ortiz,  Masters in Computer Science, University of Chile.
 * [2020 - 2022] Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
 * [2020 - 2022] Javier Muñoz, Masters in Computer Science, University of Chile.
@@ -141,9 +142,8 @@
 
 ## Short Courses
 
-* [Forecasting](http://www.ssc.wisc.edu/~bhansen/cbc/), a short course taught by Bruce E. Hansen at Central Bank of Chile, October 29-31, 2013.
-
 * [MLSS 2015](http://rp-www.cs.usyd.edu.au/~mlss/), Machine Learning Summer School, February 16-25, 2015, Sydney, Australia.
+* [Forecasting](http://www.ssc.wisc.edu/~bhansen/cbc/), a short course taught by Bruce E. Hansen at Central Bank of Chile, October 29-31, 2013.
 
 ##  Academic Visits
 * [July 2018] [Institute of Computational Linguistics, University of Zurich](http://www.cl.uzh.ch/en.html), hosted by Martin Volk.
@@ -151,6 +151,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [July 2023] [Unholster](https://www.unholster.com/), DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Summer Institute in Computational Social Science, Chile 2023](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. ([slides](https://felipebravom.com/documents/LMs.pdf)) 
 * [May 2023] A Tour through the Language Models: from Shannon to GPT-4. A talk given as part of the DCC, Uchile [lecture cycle on language models](https://relela.com/ciclos/). ([slides](https://felipebravom.com/documents/LMs.pdf)) 
 * [August 2022] Noche Cenia, Máquinas Dialogantes. An informal talk given in a pub in Santiago, Chile as part of the outreach activities of the  National Center of Artificial Intelligence. ([flyer](https://felipebravom.com/img/nochecenia.png))
@@ -179,8 +180,9 @@
 
 ## Software
 
-* Contributor to the [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io).
-* Main developer of [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
+* [Dash AI: An Interactive AI Experimentation Tool](https://www.dash-ai.com/)
+* [WEFE: The Word Embeddings Fairness Evaluation Framework](https://wefe.readthedocs.io).
+* [AffectiveTweets](https://affectivetweets.cms.waikato.ac.nz/), a Weka package for analysing emotion and sentiment of tweets.
 * Contributor to the NLP modules of the [WekaDeepLearning4j](https://deeplearning.cms.waikato.ac.nz/) package.
 * Some code for building sentiment lexicons from tweets is [here](http://cs.waikato.ac.nz/ml/sa/lex.html) (the core of this code has been integrated into AffectiveTweets). 
 
@@ -246,4 +248,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile May 25, 2023
+Santiago, Chile July 28, 2023
