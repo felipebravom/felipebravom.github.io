@@ -111,19 +111,19 @@
 
 * [2023 - ongoing] César Véliz, Master in Data Science, University of Chile.
 * [2023 - ongoing] Natalia Abarca, Co-supervised with Andrés Carvallo, Master in Data Science, University of Chile. 
-* [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Masters in Computer Science, University of Chile. 
-* [2022 - ongoing] María José Zambrano, Masters in Computer Science, University of Chile. 
-* [2022 - ongoing] Ignacio Meza, Co-supervised with Edison Marrese and Cristian Rodriguez-Opazo, Masters in Computer Science, University of Chile.
-* [2022 - ongoing] Ignacio Núñez, Masters in Computer Science, University of Chile. 
-* [2021 - ongoing] José Cañete, Masters in Computer Science, University of Chile.
-* [2021 - ongoing] Gabriel Iturra, Masters in Computer Science, University of Chile.
-* [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Masters in Computer Science, University of Chile.
-* [2021 - ongoing] Jorge Ortiz,  Masters in Computer Science, University of Chile.
-* [2020 - 2022] Matías Rojas, Co-supervised with Jocelyn Dunstan, Masters in Computer Science, University of Chile.
-* [2020 - 2022] Javier Muñoz, Masters in Computer Science, University of Chile.
-* [2019-2020] Pablo Badilla, Co-supervised with Jorge Pérez, Masters in Computer Science, University of Chile.
-* [2019] Arun Khanchandani, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
-* [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Masters in Computer Science, University of Waikato.
+* [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Master in Computer Science, University of Chile. 
+* [2022 - ongoing] María José Zambrano, Master in Computer Science, University of Chile. 
+* [2022 - ongoing] Ignacio Meza, Co-supervised with Edison Marrese and Cristian Rodriguez-Opazo, Master in Computer Science, University of Chile.
+* [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
+* [2021 - ongoing] José Cañete, Master in Computer Science, University of Chile.
+* [2021 - ongoing] Gabriel Iturra, Master in Computer Science, University of Chile.
+* [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Master in Computer Science, University of Chile.
+* [2021 - ongoing] Jorge Ortiz,  Master in Computer Science, University of Chile.
+* [2020 - 2022] Matías Rojas, Co-supervised with Jocelyn Dunstan, Master in Computer Science, University of Chile.
+* [2020 - 2022] Javier Muñoz, Master in Computer Science, University of Chile.
+* [2019-2020] Pablo Badilla, Co-supervised with Jorge Pérez, Master in Computer Science, University of Chile.
+* [2019] Arun Khanchandani, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
+* [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
 * [2023 - ongoing] Millaray Valdivia,  Computer Science Engineering, University of Chile.
