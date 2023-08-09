@@ -407,13 +407,13 @@
 
 * [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
 
-* [2021 - ongoing] José Cañete, Master in Computer Science, University of Chile.
-
-* [2021 - ongoing] Gabriel Iturra, Master in Computer Science, University of Chile.
-
-* [2021 - ongoing] Mauricio Araneda, Co-supervised with Denis Parra, Master in Computer Science, University of Chile.
-
 * [2021 - ongoing] Jorge Ortiz,  Master in Computer Science, University of Chile.
+
+* [2021 - 2023] José Cañete, Master in Computer Science, University of Chile.
+
+* [2021 - 2023] Gabriel Iturra, Master in Computer Science, University of Chile.
+
+* [2021 - 2023] Mauricio Araneda, Co-supervised with Denis Parra, Master in Computer Science, University of Chile.
 
 * [2020 - 2022] Matías Rojas, Co-supervised with Jocelyn Dunstan, Master in Computer Science, University of Chile.
 
