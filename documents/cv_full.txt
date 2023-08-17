@@ -479,6 +479,8 @@
 
 ## Seminars and Talks
 
+* [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
+
 * [July 2023] [Unholster](https://www.unholster.com/), DashAI: An Interactive AI Experimentation Tool.
 
 * [July 2023] [Summer Institute in Computational Social Science, Chile 2023](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. ([slides](https://felipebravom.com/documents/LMs.pdf)) 

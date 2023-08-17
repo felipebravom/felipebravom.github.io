@@ -151,6 +151,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Unholster](https://www.unholster.com/), DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Summer Institute in Computational Social Science, Chile 2023](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. ([slides](https://felipebravom.com/documents/LMs.pdf)) 
 * [May 2023] A Tour through the Language Models: from Shannon to GPT-4. A talk given as part of the DCC, Uchile [lecture cycle on language models](https://relela.com/ciclos/). ([slides](https://felipebravom.com/documents/LMs.pdf)) 
