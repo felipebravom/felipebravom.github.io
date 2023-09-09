@@ -567,7 +567,7 @@
 
 ## Media Outreach
 
-* [Dash AI: Plataforma interactiva de código abierto, IMFD](https://imfd.cl/en/dash-ai-plataforma-interactiva-de-codigo-abierto/)
+* [Dash AI: Plataforma interactiva de código abierto, ANID](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
 
 * [Glosario para no perderse por los nuevos caminos de la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 13,2023](https://digital.elmercurio.com/2023/04/13/A/CP4918NQ) ([pdf](https://felipebravom.com/documents/mercurioGlosario.pdf))
 
