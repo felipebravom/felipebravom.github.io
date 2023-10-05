@@ -44,10 +44,10 @@
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
 
 ##  Teaching
-* [CC6104] (Lecturer) Statistical Thinking (spring 2022, spring 2021), Computer Science Department, Universidad de Chile
-* [CC66S] (Lecturer) Machine Learning (spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
-* [CC6205] (Lecturer) Natural Language Processing (fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
-* [CC5206] (Lecturer) Introduction to Data Mining (fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC6104] (Lecturer) Statistical Thinking (spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
+* [CC66S] (Lecturer) Machine Learning (spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
+* [CC6205] (Lecturer) Natural Language Processing (fall 2023, fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2023, fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
 * [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Department of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
@@ -66,6 +66,7 @@
 
 ### As Investigator
 
+* [2023-2024] FONDEF VIU23P 0110. Proyect Title (in Spanish): "DashAI: Una plataforma interactiva de experimentación en Inteligencia Artificial”. In this project, I serve as the supervisor of my master's student, Ignacio Nuñez who acts as PI.
 * [2019-2020] False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
 
 ## Service
