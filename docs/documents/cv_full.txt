@@ -144,6 +144,8 @@
 
 
 
+* Evaluation of a proposed undergraduate program at the University of Monteniveo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
+
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
 * Conference Program Committes: AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
@@ -482,6 +484,8 @@
 
 
 ## Seminars and Talks
+
+* [Octube 2023]  [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
 
 * [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
 
