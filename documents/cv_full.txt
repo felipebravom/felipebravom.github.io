@@ -144,7 +144,7 @@
 
 
 
-* Evaluation of a proposed undergraduate program at the University of Monteniveo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
+* Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
