@@ -169,7 +169,8 @@
 
 ### Non-peer reviewed articles
 
-1. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
+1. F. Bravo-Marquez and J. Dunstan [Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4](https://www.dcc.uchile.cl/media/bits/pdfs/Bitsdeciencia25.pdf), In *Revista Bits de Ciencia* Volume 25 Pages 16-27, October 2023. ([pdf](https://felipebravom.com/publications/bits2023.pdf))
+2. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
 
 ### Theses
 

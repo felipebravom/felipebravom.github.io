@@ -153,6 +153,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [October 2023] [JCC2023, Jornadas Chilenas de Computación, Concepción, Chile](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. Guest Speaker.
 * [Octube 2023]  [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
 * [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Unholster](https://www.unholster.com/), DashAI: An Interactive AI Experimentation Tool.
@@ -253,4 +254,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, September 5, 2023
+Santiago, Chile, October 25, 2023

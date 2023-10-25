@@ -363,7 +363,8 @@
 
 ### Non-peer reviewed articles
 
-1. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
+1. F. Bravo-Marquez and J. Dunstan [Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4](https://www.dcc.uchile.cl/media/bits/pdfs/Bitsdeciencia25.pdf), In *Revista Bits de Ciencia* Volume 25 Pages 16-27, October 2023. ([pdf](https://felipebravom.com/publications/bits2023.pdf))
+2. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
 
 ### Theses
 
@@ -484,6 +485,8 @@
 
 
 ## Seminars and Talks
+
+* [October 2023] [JCC2023, Jornadas Chilenas de Computación, Concepción, Chile](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. Guest Speaker.
 
 * [Octube 2023]  [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
 
@@ -685,5 +688,5 @@ Felipe José Bravo Márquez
 
 
 
-Santiago, Chile, September 5, 2023
+Santiago, Chile, October 25, 2023
 
