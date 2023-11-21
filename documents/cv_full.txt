@@ -247,7 +247,7 @@
 
    
 
-4. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing New Expressions of Community Framing during Polarization](https://ojs.aaai.org/index.php/ICWSM/article/view/19339). In *Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA. AAAI Press. Pages 841-851. ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
+4. H. Sarmiento, F. Bravo-Marquez, E. Graells-Garrido, and B. Poblete  [Identifying and Characterizing New Expressions of Community Framing during Polarization](https://ojs.aaai.org/index.php/ICWSM/article/view/19339). In *Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM 2022)*, Atlanta, Georgia, USA. AAAI Press. Pages 841-851. ([pdf](https://felipebravom.com/publications/ICWSM2022.pdf))
 
    
 
@@ -363,7 +363,7 @@
 
 ### Non-peer reviewed articles
 
-1. F. Bravo-Marquez and J. Dunstan [Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4](https://www.dcc.uchile.cl/media/bits/pdfs/Bitsdeciencia25.pdf), In *Revista Bits de Ciencia* Volume 25 Pages 16-27, October 2023. ([pdf](https://felipebravom.com/publications/bits2023.pdf))
+1. F. Bravo-Marquez [Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4](https://www.dcc.uchile.cl/media/bits/pdfs/Bitsdeciencia25.pdf), In *Revista Bits de Ciencia* Volume 25 Pages 16-27, October 2023. ([pdf](https://felipebravom.com/publications/bits2023.pdf))
 2. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
 
 ### Theses
