@@ -198,7 +198,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [Dash AI: Plataforma interactiva de código abierto, ANID](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
+* [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
+* [Dash AI: Plataforma interactiva de código abierto, ANID, September 2023](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
 * [Glosario para no perderse por los nuevos caminos de la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 13,2023](https://digital.elmercurio.com/2023/04/13/A/CP4918NQ) ([pdf](https://felipebravom.com/documents/mercurioGlosario.pdf))
 * [Discriminación, pérdida de empleos y desinformación son algunos de los temores que conlleva la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 1,2023](https://digital.elmercurio.com/2023/04/01/A/LK48R21U) ([pdf](https://felipebravom.com/documents/01-04-2023__Discriminaci%C3%B3n.pdf))
 * [Cuatro Cabezas 13c Radio Interview with Kike Mujica on ChatGPT, minute 24](https://13cradio.cl/show/cuatro-cabezas/episode/29-03-vlado-mirosevic-presidente-de-la-camara-de-diputados-y-alejandra-mustakis-empresaria-)
@@ -254,4 +255,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, October 25, 2023
+Santiago, Chile, December 12, 2023
