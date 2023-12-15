@@ -576,6 +576,8 @@
 
 ## Media Outreach
 
+* [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile, December 2023](https://youtu.be/l2WpZC4dBAs?feature=shared)
+
 * [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
 
 * [Dash AI: Plataforma interactiva de código abierto, ANID, September 2023](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)

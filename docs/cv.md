@@ -198,6 +198,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile, December 2023](https://youtu.be/l2WpZC4dBAs?feature=shared)
 * [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
 * [Dash AI: Plataforma interactiva de código abierto, ANID, September 2023](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
 * [Glosario para no perderse por los nuevos caminos de la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 13,2023](https://digital.elmercurio.com/2023/04/13/A/CP4918NQ) ([pdf](https://felipebravom.com/documents/mercurioGlosario.pdf))
