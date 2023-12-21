@@ -26,19 +26,13 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 * [Statistics](https://en.wikipedia.org/wiki/Statistics)
 
-My main research goals are to study society by computationally analyzing traces left by humans in the digital space.
-
-
-
 
 
 ## Contact
 
-*  Chile Address: Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
+*  Avenida Beauchef 851, of. 304, Piso 3, Edificio Norte, Santiago, Chile / C.P. 837-0456
 *  Phone number: +56 2 2978 4974
-
-*  New Zealand Address: Department of Computer Science - Tari Rorohiko, The University of Waikato. 
-*  Email : fbravo at dcc.uchile.cl / fbravoma at waikato.ac.nz
+*  Email : fbravo at dcc.uchile.cl
 
 
 ## Other Profiles
@@ -49,7 +43,7 @@ My main research goals are to study society by computationally analyzing traces 
 * [Uchile](http://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=felipebravom)
 * [Google Scholar](https://scholar.google.com/citations?user=q--XWcQAAAAJ&hl)
 * [GitHub](https://github.com/felipebravom)
-* [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bravo=Marquez:Felipe.html)
+* [DBLP](https://dblp.org/pid/04/8612.html)
 * [Linkedin](https://www.linkedin.com/in/felipebravomarquez)
 * [ResearchGate](https://www.researchgate.net/profile/Felipe_Bravo-Marquez/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=36627971200)
@@ -60,4 +54,4 @@ My main research goals are to study society by computationally analyzing traces 
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated May 11th, 2023 
+Last Updated December 20th, 2023 
