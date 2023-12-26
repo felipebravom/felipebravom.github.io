@@ -153,8 +153,9 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [December 2023] [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile](https://youtu.be/l2WpZC4dBAs?feature=shared)
 * [October 2023] [JCC2023, Jornadas Chilenas de Computación, Concepción, Chile](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. Guest Speaker.
-* [Octube 2023]  [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
+* [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
 * [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Unholster](https://www.unholster.com/), DashAI: An Interactive AI Experimentation Tool.
 * [July 2023] [Summer Institute in Computational Social Science, Chile 2023](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. ([slides](https://felipebravom.com/documents/LMs.pdf)) 
@@ -198,7 +199,6 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile, December 2023](https://youtu.be/l2WpZC4dBAs?feature=shared)
 * [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
 * [Dash AI: Plataforma interactiva de código abierto, ANID, September 2023](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
 * [Glosario para no perderse por los nuevos caminos de la inteligencia artificial: El Mercurio, Vida Ciencia y Tecnología, April 13,2023](https://digital.elmercurio.com/2023/04/13/A/CP4918NQ) ([pdf](https://felipebravom.com/documents/mercurioGlosario.pdf))

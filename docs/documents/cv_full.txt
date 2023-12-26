@@ -486,9 +486,11 @@
 
 ## Seminars and Talks
 
+* [December 2023] [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile](https://youtu.be/l2WpZC4dBAs?feature=shared)
+
 * [October 2023] [JCC2023, Jornadas Chilenas de Computación, Concepción, Chile](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. Guest Speaker.
 
-* [Octube 2023]  [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
+* [July 2023] [Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD), Montevideo, Uruguay](https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/) Talk 1: Natural Language Processing in the last decade. Talk 2: Introduction to Bayesian Inference. 
 
 * [Agust 2023] IMFD & CENIA at Centro de Innovación UC, DashAI: An Interactive AI Experimentation Tool.
 
@@ -575,8 +577,6 @@
 
 
 ## Media Outreach
-
-* [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile, December 2023](https://youtu.be/l2WpZC4dBAs?feature=shared)
 
 * [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
 
