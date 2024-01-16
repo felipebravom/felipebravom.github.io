@@ -1,4 +1,4 @@
-<img src="img/felipe2023.png" alt="alt text" width="70%" height="70%"> 
+<img src="img/me2023.png" alt="alt text" width="30%" height="30%"> 
 
 ## Affiliations
 
