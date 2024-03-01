@@ -3,7 +3,7 @@
 ## Affiliations
 
 * *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
-* *Associate Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
+* *Principal Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl) (Funded by Programa Milenio, ANID, Chile). 
 * Member of  the [Data and Artificial Intelligence Initiative (ID&IA)](https://idia.uchile.cl), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile.
 * *Honorary Research Associate* in the [Machine Learning Group](http://www.cs.waikato.ac.nz/ml/) at the [University of Waikato](http://www.waikato.ac.nz/) in New Zealand (Aotearoa). This is the lab were I did my PhD under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Eibe Frank](http://www.cs.waikato.ac.nz/~eibe/). 
@@ -54,4 +54,4 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated December 20th, 2023 
+Last Updated March 1st, 2024 
