@@ -133,9 +133,9 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
-* [2023 - ongoing] Millaray Valdivia,  Computer Science Engineering, University of Chile.
-* [2022 - ongoing] Rodrigo Urrea,  Computer Science Engineering, University of Chile.
-* [2022 - ongoing] Oziel Aguilera,  Computer Science Engineering, University of Chile.
+* [2023 - 2024] Millaray Valdivia,  Computer Science Engineering, University of Chile.
+* [2022 - 2023] Rodrigo Urrea,  Computer Science Engineering, University of Chile.
+* [2022 - 2023] Oziel Aguilera,  Computer Science Engineering, University of Chile.
 * [2022 - 2023] Maximiliano Aguilar, Co-supervised with Claudia López, Computer Science Engineering, University of Chile.
 * [2021 - 2022] María José Zambrano, Co-supervised with Pablo Badilla, Computer Science Engineering, University of Chile.
 * [2021 - 2022] Ignacio Meza, Co-supervised with Amanda Williamson, Electrical Engineering, University of Chile.
