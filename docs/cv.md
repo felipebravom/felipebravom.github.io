@@ -20,7 +20,7 @@
 * [2024 -present] Principal Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 * [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl).
 * [2023 - present] Member,  [Data and Artificial Intelligence Initiative (ID&IA), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile](https://idia.uchile.cl).
-* 2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
+* [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
 * [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
 * [2021 - 2023] Associate Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
