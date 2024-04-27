@@ -45,7 +45,7 @@
 
 ### Conference and Workshop Papers 
 
-1. J. Cañete and F. Bravo-Marquez [Speedy Gonzales: A Collection of Fast Task-Specific Models for Spanish](https://www.aclweb.org/anthology/S17-1007/), In *\*Sem '24: Proceedings of the 13th joint conference on lexical and computational semantics (\*Sem)*, June 2024, Mexico City, Mexico. (to appear)
+1. J. Cañete and F. Bravo-Marquez [Speedy Gonzales: A Collection of Fast Task-Specific Models for Spanish](https://sites.google.com/view/starsem2024/home?authuser=0), In *\*Sem '24: Proceedings of the 13th joint conference on lexical and computational semantics (\*Sem)*, June 2024, Mexico City, Mexico. (to appear)
    
 
 2. M. J. Zambrano and F. Bravo-Marquez [Unpacking Bias: An Empirical Study of Bias Measurement Metrics, Mitigation Algorithms, and their Interactions](https://lrec-coling-2024.org/). In *Proceedings of the 2024 Joint International Conference on Computational Linguistics (COLING 2024)*, Torino, Italy. Association for Computational Linguistics. (to appear)  ([pdf](https://felipebravom.com/publications/coling2024.pdf))
