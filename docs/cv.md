@@ -205,6 +205,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Profesor Felipe Bravo Márquez participó en delegación de la Universidad de Chile que visitó China, Comunicaciones DCC Uchile, May 2024](https://comunicaciones.dcc.uchile.cl/news/849-profesor-felipe-bravo-marquez-participo-en-delegacion-de-la-universidad-de-chile-que-visito-china/)
 * [Profesor Felipe Bravo Márquez asume como investigador principal de CENIA, Comunicaciones DCC Uchile, March 2024](https://comunicaciones.dcc.uchile.cl/news/813-profesor-felipe-bravo-marquez-asume-como-investigador-principal-de-cenia/)
 * [Invited Guest for U-Campus Webinar: Transformación Educativa, Integrando la Inteligencia Artificial, December 2023](https://www.youtube.com/live/WihTEXx_S6I?feature=shared)
 * [Dash AI: Plataforma interactiva de código abierto, ANID, September 2023](https://anid.cl/dash-ai-plataforma-interactiva-de-codigo-abierto/)
