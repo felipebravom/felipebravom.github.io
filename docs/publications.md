@@ -47,7 +47,7 @@
 
 1. J. Cañete and F. Bravo-Marquez [Speedy Gonzales: A Collection of Fast Task-Specific Models for Spanish](https://sites.google.com/view/starsem2024/home?authuser=0), In *\*Sem '24: Proceedings of the 13th joint conference on lexical and computational semantics (\*Sem)*, June 2024, Mexico City, Mexico. ([pdf](https://felipebravom.com/publications/starsem2024.pdf))
    
-2. M. J. Zambrano and F. Bravo-Marquez [Unpacking Bias: An Empirical Study of Bias Measurement Metrics, Mitigation Algorithms, and their Interactions](https://lrec-coling-2024.org/). In *Proceedings of the 2024 Joint International Conference on Computational Linguistics (COLING 2024)*, Torino, Italy. Association for Computational Linguistics. (to appear)  ([pdf](https://felipebravom.com/publications/coling2024.pdf))
+2. M. J. Zambrano and F. Bravo-Marquez [Unpacking Bias: An Empirical Study of Bias Measurement Metrics, Mitigation Algorithms, and their Interactions](https://aclanthology.org/2024.lrec-main.1490/). In *Proceedings of the 2024 Joint International Conference on Computational Linguistics (COLING 2024)*, Torino, Italy. Association for Computational Linguistics. Pages 17154–17164. ([pdf](https://felipebravom.com/publications/coling2024.pdf))
 
 3. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*, Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://felipebravom.com/publications/sigir2023.pdf))
 
