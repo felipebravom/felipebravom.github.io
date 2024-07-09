@@ -164,6 +164,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [Abril 2024] [What are LLMs (large language models) and how do they work?, Department of Linguistics, University of Chile](https://filosofia.uchile.cl/linguistica)
 * [January 2024] [What are LLMs (large language models) and how do they work?, Digital Technologies and Indigenous Languages Workshop at DCC Uchile](https://ws.dcc.uchile.cl)
 * [December 2023] [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile](https://youtu.be/l2WpZC4dBAs?feature=shared)
 * [October 2023] [JCC2023, Jornadas Chilenas de Computación, Concepción, Chile](https://sicss.io/2023/chile/people) A Tour through the Language Models: from Shannon to GPT-4. Guest Speaker.
