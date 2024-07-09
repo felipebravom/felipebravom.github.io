@@ -62,8 +62,8 @@
 ## Grants
 
 ### As Principal Investigator
-* [2020 - ongoing] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach. Code: 11200290 
-* [2020 - ongoing] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter. Code: UI-004/20 
+* [2020 - 2023] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach. Code: 11200290 
+* [2020 - 2022] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter. Code: UI-004/20 
 
 ### As Investigator
 
@@ -72,6 +72,7 @@
 
 ## Service
 
+* [June 2024] Evaluation of a proposal for a degree program at the Catholic University of Uruguay on Engineering and B.Sc. in Artificial Intelligence and Data Science for the Ministry of Education and Culture of Uruguay.
 * [October 2023] Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 * Conference Program Committes: NAACL 2024, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
@@ -87,6 +88,8 @@
 * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
 ## Technology transfer
+* [2024 - ongoing] Consulting project through CENIA to Entel in the development of an internal chatbot for technicians in operation.
+* [2024 - ongoing]  Consulting project through the IMFD to the Inter-American Development Bank on the use of Machine Learning to predict educational alerts.
 * [2022] I assisted the Chilean food company Agrosuper in its statistical experimentation methodology for production as part of an IMFD agreement.
 * [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 

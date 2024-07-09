@@ -126,9 +126,9 @@
 
 ### As Principal Investigator
 
-* [2020 - ongoing] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach. Code: 11200290 
+* [2020 - 2023] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach. Code: 11200290 
 
-* [2020 - ongoing] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter. Code: UI-004/20 
+* [2020 - 2022] U-INICIA (CONCURSO DE REFORZAMIENTO DE INSERCIÓN PRODUCTIVA DE NUEVOS ACADÉMICOS VID UCHILE). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter. Code: UI-004/20 
 
 
 
@@ -145,6 +145,8 @@
 ## Service
 
 
+
+* [June 2024] Evaluation of a proposal for a degree program at the Catholic University of Uruguay on Engineering and B.Sc. in Artificial Intelligence and Data Science for the Ministry of Education and Culture of Uruguay.
 
 * [October 2023] Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 
@@ -175,6 +177,10 @@
 
 
 ## Technology transfer
+
+* [2024 - ongoing] Consulting project through CENIA to Entel in the development of an internal chatbot for technicians in operation.
+
+* [2024 - ongoing]  Consulting project through the IMFD to the Inter-American Development Bank on the use of Machine Learning to predict educational alerts.
 
 * [2022] I assisted the Chilean food company Agrosuper in its statistical experimentation methodology for production as part of an IMFD agreement.
 
