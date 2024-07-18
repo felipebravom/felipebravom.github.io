@@ -2,7 +2,7 @@
 
 ## Affiliations
 
-* *Assistant Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
+* *Associate Professor* in the [Department of Computer Science](http://www.dcc.uchile.cl) at the [University of Chile](http://www.uchile.cl/). 
 * *Principal Researcher* at [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) (Funded by Programa Centros Basales, ANID, Chile). 
 * *Young Researcher* at [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl) (Funded by Programa Milenio, ANID, Chile). 
 * Member of  the [Data and Artificial Intelligence Initiative (ID&IA)](https://idia.uchile.cl), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile.
@@ -54,4 +54,4 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated March 10th, 2024 
+Last Updated July 18th, 2024 

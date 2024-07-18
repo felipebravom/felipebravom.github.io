@@ -16,12 +16,13 @@
 
 ## Academic Positions and Work Experience
 
-* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2024 - present] Associate Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 * [2024 -present] Principal Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 * [2019 - present] Young Researcher,  [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl).
 * [2023 - present] Member,  [Data and Artificial Intelligence Initiative (ID&IA), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile](https://idia.uchile.cl).
 * [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
 * [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+* [2019 - 2024] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 * [2021 - 2023] Associate Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 * [2017-2019] Research Fellow, [Machine Learning Group, University of Waikato](https://www.cs.waikato.ac.nz/ml/).
 * [2011-2013] Research Engineer, [Yahoo! Labs](https://research.yahoo.com/) Latin America. 
@@ -275,4 +276,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, July 9, 2024
+Santiago, Chile, July 18th, 2024

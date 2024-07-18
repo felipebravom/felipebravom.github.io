@@ -34,7 +34,7 @@
 
 
 
-* [2019 - present] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
+* [2024 - present] Associate Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 
 * [2024 -present] Principal Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 
@@ -45,6 +45,8 @@
 * [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
 
 * [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+
+* [2019 - 2024] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 
 * [2021 - 2023] Associate Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 
@@ -734,5 +736,5 @@ Felipe José Bravo Márquez
 
 
 
-Santiago, Chile, July 9, 2024
+Santiago, Chile, July 18th, 2024
 
