@@ -1,4 +1,4 @@
-<img src="img/me2024.png" alt="alt text" width="50%" height="50%"> 
+<img src="img/me2024.png" alt="alt text" width="40%" height="40%"> 
 
 ## Affiliations
 
