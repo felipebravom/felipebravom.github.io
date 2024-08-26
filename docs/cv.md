@@ -215,6 +215,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [OpenAI elige la Facultad de Ciencias Físicas y Matemáticas para su arribo a América Latina, Noticas Uchile, August 2024 ](https://uchile.cl/noticias/219686/equipo-openai-visito-la-facultad-de-ciencias-fisicas-y-matematicas-)
+* [Profesor Felipe Bravo Márquez es ascendido a Profesor Asociado de la Universidad de Chile, Comunicaciones DCC Uchile, August 2024 ](https://comunicaciones.dcc.uchile.cl/news/875-profesor-felipe-bravo-marquez-es-ascendido-a-profesor-asociado-de-la-universidad-de-chile/)
 * [Google y OpenAI están en una dura batalla por dominar la IA: El Mercurio, Vida Ciencia y Tecnología, May 15,2024](https://digital.elmercurio.com/2024/05/15/A/U74E4LEI) ([pdf](https://felipebravom.com/documents/mercurioMayo2024.pdf))
 * [Profesor Felipe Bravo Márquez participó en delegación de la Universidad de Chile que visitó China, Comunicaciones DCC Uchile, May 2024](https://comunicaciones.dcc.uchile.cl/news/849-profesor-felipe-bravo-marquez-participo-en-delegacion-de-la-universidad-de-chile-que-visito-china/)
 * [Profesor Felipe Bravo Márquez asume como investigador principal de CENIA, Comunicaciones DCC Uchile, March 2024](https://comunicaciones.dcc.uchile.cl/news/813-profesor-felipe-bravo-marquez-asume-como-investigador-principal-de-cenia/)
