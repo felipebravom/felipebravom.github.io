@@ -4,7 +4,7 @@
 
 
 
-1. D. Schlechtweg,  F.D Zamora-Reina, F. Bravo-Marquez, and N. Arefyev [Sense Through Time: Diachronic word sense annotations for Word Sense Induction and Lexical Semantic Change Detection](https://link.springer.com/journal/10579). In *Language Resources and Evaluation*, 2024. (to appear)  ([pdf](https://felipebravom.com/publications/LRE2024.pdf))
+1. D. Schlechtweg,  F.D Zamora-Reina, F. Bravo-Marquez, and N. Arefyev [Sense Through Time: Diachronic word sense annotations for Word Sense Induction and Lexical Semantic Change Detection](https://link.springer.com/article/10.1007/s10579-024-09771-7). In *Language Resources and Evaluation*, September 2024. DOI:10.1007/s10579-024-09771-7  ([pdf](https://felipebravom.com/publications/LRE2024.pdf))
 
 1. M. Araneda, F. Bravo-Marquez, D. Parra, and R.F Cádiz [MUSIB: Musical Score Inpainting Benchmark](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-023-00279-6). In EURASIP Journal on Audio, Speech, and Music Processing, 2023, 19 (2023). DOI:10.1186/s13636-023-00279-6  ([pdf](https://felipebravom.com/publications/eurasip2023.pdf))
 
