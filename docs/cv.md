@@ -167,6 +167,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
 * [April 2024] [What are LLMs (large language models) and how do they work?, Department of Linguistics, University of Chile](https://filosofia.uchile.cl/linguistica)
 * [January 2024] [What are LLMs (large language models) and how do they work?, Digital Technologies and Indigenous Languages Workshop at DCC Uchile](https://ws.dcc.uchile.cl)
 * [December 2023] [Large Language Models Usage and Evaluation Patterns, CENIA seminar at DCC Uchile](https://youtu.be/l2WpZC4dBAs?feature=shared)
@@ -215,6 +216,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Interviewed in Tv show Neurópolis Channel NTV Chile Season 2 Chapter 5: “Artificial Intelligence”, October 2024](https://www.tvn.cl/ntv/neuropolis/capitulos/neuropolis-en-ntv-t2-capitulo-5-inteligencia-artificial)
 * [OpenAI elige la Facultad de Ciencias Físicas y Matemáticas para su arribo a América Latina, Noticas Uchile, August 2024 ](https://uchile.cl/noticias/219686/equipo-openai-visito-la-facultad-de-ciencias-fisicas-y-matematicas-)
 * [Profesor Felipe Bravo Márquez es ascendido a Profesor Asociado de la Universidad de Chile, Comunicaciones DCC Uchile, August 2024 ](https://comunicaciones.dcc.uchile.cl/news/875-profesor-felipe-bravo-marquez-es-ascendido-a-profesor-asociado-de-la-universidad-de-chile/)
 * [Google y OpenAI están en una dura batalla por dominar la IA: El Mercurio, Vida Ciencia y Tecnología, May 15,2024](https://digital.elmercurio.com/2024/05/15/A/U74E4LEI) ([pdf](https://felipebravom.com/documents/mercurioMayo2024.pdf))
