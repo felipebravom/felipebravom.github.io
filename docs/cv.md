@@ -216,6 +216,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [El avance del Caso Audio y el último lanzamiento de OpenAI Rat Pack de Mesa Central. Teletrece Radio Program. Quoted in conversation with journalist Paloma Ávila, October 2024](https://tele13radio.cl/show/rat-pack-de-mesa-central/episode/el-avance-del-caso-audio-y-el-ultimo-lanzamiento-de-openai)
 * [Interviewed in Tv show Neurópolis Channel NTV Chile Season 2 Chapter 5: “Artificial Intelligence”, October 2024](https://www.tvn.cl/ntv/neuropolis/capitulos/neuropolis-en-ntv-t2-capitulo-5-inteligencia-artificial)
 * [OpenAI elige la Facultad de Ciencias Físicas y Matemáticas para su arribo a América Latina, Noticas Uchile, August 2024 ](https://uchile.cl/noticias/219686/equipo-openai-visito-la-facultad-de-ciencias-fisicas-y-matematicas-)
 * [Profesor Felipe Bravo Márquez es ascendido a Profesor Asociado de la Universidad de Chile, Comunicaciones DCC Uchile, August 2024 ](https://comunicaciones.dcc.uchile.cl/news/875-profesor-felipe-bravo-marquez-es-ascendido-a-profesor-asociado-de-la-universidad-de-chile/)
