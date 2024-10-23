@@ -54,4 +54,4 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Youtube](https://www.youtube.com/user/felipebravom)
 * [Twitter](https://twitter.com/felipebravom)
 
-Last Updated Octuber th, 2024 
+Last update October 22nd, 2024
