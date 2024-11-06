@@ -526,7 +526,7 @@
 
 ## Seminars and Talks
 
-* [Octobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
+* [Otobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
 
 * [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
 

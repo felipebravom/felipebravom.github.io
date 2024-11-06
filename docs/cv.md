@@ -168,7 +168,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-* [Octobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
+* [Otobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
 * [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
 * [April 2024] [What are LLMs (large language models) and how do they work?, Department of Linguistics, University of Chile](https://filosofia.uchile.cl/linguistica)
 * [January 2024] [What are LLMs (large language models) and how do they work?, Digital Technologies and Indigenous Languages Workshop at DCC Uchile](https://ws.dcc.uchile.cl)
