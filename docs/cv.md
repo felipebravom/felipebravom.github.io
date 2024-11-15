@@ -84,12 +84,13 @@
 
 ## University Administration
 
-* [2022 - ongoing] Elected member of the Departmental Council of the Department of Computer Science at the University of Chile.
+* [2024 - ongoing] Elected member of the Council of the Faculty of Physical and Mathematical Sciences of the University of Chile.
+* [2022 - 2024] Elected member of the Departmental Council of the Department of Computer Science of the University of Chile.
 * [2020-ongoing] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
 * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
 ## Technology transfer
-* [2024 - ongoing] Consulting project through CENIA to Entel in the development of an internal chatbot for technicians in operation.
+* [2024] Consulting project through CENIA to Entel in the development of an internal chatbot for technicians in operation.
 * [2024 - ongoing]  Consulting project through the IMFD to the Inter-American Development Bank on the use of Machine Learning to predict educational alerts.
 * [2022] I assisted the Chilean food company Agrosuper in its statistical experimentation methodology for production as part of an IMFD agreement.
 * [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
@@ -218,6 +219,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Prof. Felipe Bravo asume como director de la Iniciativa de Datos e Inteligencia Artificial FCFM, Comunicaciones, FCFM, Uchile, November 2024](https://ingenieria.uchile.cl/noticias/222454/prof-felipe-bravo-asume-como-director-de-idia)
+* [Investigador en IA y Datos de la Universidad de Chile visitó el Instituto de Informática UACh, Comunicaciones, Instituto de Informática, Universidad Austral, November 2024](https://ingenieria.uach.cl/noticias/investigador-en-ia-y-datos-de-la-universidad-de-chile-visito-el-instituto-de-informatica-uach/)
 * [El avance del Caso Audio y el último lanzamiento de OpenAI Rat Pack de Mesa Central. Teletrece Radio Program. Quoted in conversation with journalist Paloma Ávila, October 2024](https://tele13radio.cl/show/rat-pack-de-mesa-central/episode/el-avance-del-caso-audio-y-el-ultimo-lanzamiento-de-openai)
 * [Interviewed in Tv show Neurópolis Channel NTV Chile Season 2 Chapter 5: “Artificial Intelligence”, October 2024](https://www.tvn.cl/ntv/neuropolis/capitulos/neuropolis-en-ntv-t2-capitulo-5-inteligencia-artificial)
 * [OpenAI elige la Facultad de Ciencias Físicas y Matemáticas para su arribo a América Latina, Noticas Uchile, August 2024 ](https://uchile.cl/noticias/219686/equipo-openai-visito-la-facultad-de-ciencias-fisicas-y-matematicas-)
@@ -282,4 +285,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, October 21st, 2024
+Santiago, Chile, November 15th, 2024
