@@ -46,10 +46,11 @@
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
 
 ##  Teaching
-* [CC6104] (Lecturer) Statistical Thinking (spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
-* [CC66S] (Lecturer) Machine Learning (spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
-* [CC6205] (Lecturer) Natural Language Processing (fall 2023, fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
-* [CC5206] (Lecturer) Introduction to Data Mining (fall 2023, fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC6104] (Lecturer) Statistical Thinking (spring 2024, spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
+* [CC66S] (Lecturer) Machine Learning (spring 2024, spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
+* [CC6205] (Lecturer) Natural Language Processing (fall 2024, fall 2023, fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2024, fall 2023, fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CEDCCPECO2] (Lecturer) Introduction to Machine Learning (Spring 2024), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [CC66E] (Lecturer) Data Mining (fall 2019), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 * [COMP321] (Lecturer) Practical Data Mining (spring 2018), Department of Computer Science, University of Waikato
 * (Lecturer) Deep Learning for Natural Language Processing  (June 2018) [IfI Summer School 2018 on Machine Learning,  Department of Informatics, University of Zurich](http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html). 
@@ -76,7 +77,7 @@
 * [June 2024] Evaluation of a proposal for a degree program at the Catholic University of Uruguay on Engineering and B.Sc. in Artificial Intelligence and Data Science for the Ministry of Education and Culture of Uruguay.
 * [October 2023] Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
-* Conference Program Committes: NAACL 2024, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 * Journal Reviewing: Digital Journalism, Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 * Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
 
@@ -169,6 +170,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [December 2024] [Journées Scientifiques Inria Chile 2024 - part of the panel "The AI <-> HPC infra landscape greedy vs frugal alternatives and experiences"](https://journeesscientifiques2024.inria.cl/)
 * [Otobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
 * [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
 * [April 2024] [What are LLMs (large language models) and how do they work?, Department of Linguistics, University of Chile](https://filosofia.uchile.cl/linguistica)
@@ -285,4 +287,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, November 15th, 2024
+Santiago, Chile, December 6th, 2024
