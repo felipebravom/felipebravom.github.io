@@ -4,7 +4,7 @@
 
 
 
-1. H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/journal/tweb). In *ACM Transactions on the Web (TWEB)*, November 2024.   (to appear)
+1. H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/journal/tweb). In *ACM Transactions on the Web (TWEB)*, November 2024.   (to appear)  ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
 
 1. D. Schlechtweg,  F.D Zamora-Reina, F. Bravo-Marquez, and N. Arefyev [Sense Through Time: Diachronic word sense annotations for Word Sense Induction and Lexical Semantic Change Detection](https://link.springer.com/article/10.1007/s10579-024-09771-7). In *Language Resources and Evaluation*, September 2024. DOI:10.1007/s10579-024-09771-7  ([pdf](https://felipebravom.com/publications/LRE2024.pdf))
 
