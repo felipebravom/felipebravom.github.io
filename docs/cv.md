@@ -171,7 +171,7 @@
 
 ## Seminars and Talks
 * [December 2024] [Journées Scientifiques Inria Chile 2024 - part of the panel "The AI <-> HPC infra landscape greedy vs frugal alternatives and experiences"](https://journeesscientifiques2024.inria.cl/)
-* [Otobber 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
+* [October 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
 * [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
 * [April 2024] [What are LLMs (large language models) and how do they work?, Department of Linguistics, University of Chile](https://filosofia.uchile.cl/linguistica)
 * [January 2024] [What are LLMs (large language models) and how do they work?, Digital Technologies and Indigenous Languages Workshop at DCC Uchile](https://ws.dcc.uchile.cl)
