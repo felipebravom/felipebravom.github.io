@@ -221,6 +221,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Las tecnologías de vanguardia que comenzarán a imponerse desde 2025,  El Mercurio, Chile Tecnológico, December 27 ,2024](https://comentarista.emol.com/2534918/31926092/Chile-Tecnol%C3%B3gico.html) ([pdf](https://felipebravom.com/documents/mercurioDiciembre2024.pdf))
 * [Prof. Felipe Bravo asume como director de la Iniciativa de Datos e Inteligencia Artificial FCFM, Comunicaciones, FCFM, Uchile, November 2024](https://ingenieria.uchile.cl/noticias/222454/prof-felipe-bravo-asume-como-director-de-idia)
 * [Investigador en IA y Datos de la Universidad de Chile visitó el Instituto de Informática UACh, Comunicaciones, Instituto de Informática, Universidad Austral, November 2024](https://ingenieria.uach.cl/noticias/investigador-en-ia-y-datos-de-la-universidad-de-chile-visito-el-instituto-de-informatica-uach/)
 * [El avance del Caso Audio y el último lanzamiento de OpenAI Rat Pack de Mesa Central. Teletrece Radio Program. Quoted in conversation with journalist Paloma Ávila, October 2024](https://tele13radio.cl/show/rat-pack-de-mesa-central/episode/el-avance-del-caso-audio-y-el-ultimo-lanzamiento-de-openai)
