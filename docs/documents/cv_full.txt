@@ -220,7 +220,7 @@
 
 
 
-1. H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/journal/tweb). In *ACM Transactions on the Web (TWEB)*, November 2024.   (to appear)  ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
+1. H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/doi/10.1145/3711912). In *ACM Transactions on the Web (TWEB)*, November 2024.  DOI:10.1145/3711912 ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
 
 1. D. Schlechtweg,  F.D Zamora-Reina, F. Bravo-Marquez, and N. Arefyev [Sense Through Time: Diachronic word sense annotations for Word Sense Induction and Lexical Semantic Change Detection](https://link.springer.com/article/10.1007/s10579-024-09771-7). In *Language Resources and Evaluation*, September 2024. DOI:10.1007/s10579-024-09771-7  ([pdf](https://felipebravom.com/publications/LRE2024.pdf))
 
@@ -444,17 +444,17 @@
 
 * [2024 - ongoing] Nicolás Brandstetter,  Master in Computer Science, University of Chile.
 
-* [2023 - ongoing] César Véliz, Master in Data Science, University of Chile.
-
-* [2023 - ongoing] Natalia Abarca, Co-supervised with Andrés Carvallo, Master in Data Science, University of Chile. 
-
 * [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Master in Computer Science, University of Chile. 
-
-* [2022 - ongoing] María José Zambrano, Master in Computer Science, University of Chile. 
 
 * [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
 
 * [2021 - ongoing] Jorge Ortiz,  Master in Computer Science, University of Chile.
+
+* [2022 - 2025] María José Zambrano, Master in Computer Science, University of Chile. 
+
+* [2023 - 2025] César Véliz, Co-supervised with Claudia López, Master in Data Science, University of Chile.
+
+* [2023 - 2025] Natalia Abarca, Co-supervised with Claudia López, Master in Data Science, University of Chile. 
 
 * [2022 - 2024] Ignacio Meza, Co-supervised with Edison Marrese and Cristian Rodriguez-Opazo, Master in Computer Science, University of Chile.
 
@@ -768,5 +768,5 @@ Felipe José Bravo Márquez
 
 
 
-Santiago, Chile, December 6th, 2024
+Santiago, Chile, January 16th, 2025
 

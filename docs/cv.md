@@ -126,12 +126,12 @@
 * [2024 - ongoing] Valentina Castro, Master in Data Science, University of Chile.
 * [2024 - ongoing] Benjamín Farías, Master in Data Science, University of Chile.
 * [2024 - ongoing] Nicolás Brandstetter,  Master in Computer Science, University of Chile.
-* [2023 - ongoing] César Véliz, Master in Data Science, University of Chile.
-* [2023 - ongoing] Natalia Abarca, Co-supervised with Andrés Carvallo, Master in Data Science, University of Chile. 
 * [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Master in Computer Science, University of Chile. 
-* [2022 - ongoing] María José Zambrano, Master in Computer Science, University of Chile. 
 * [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
 * [2021 - ongoing] Jorge Ortiz,  Master in Computer Science, University of Chile.
+* [2022 - 2025] María José Zambrano, Master in Computer Science, University of Chile. 
+* [2023 - 2025] César Véliz, Co-supervised with Claudia López, Master in Data Science, University of Chile.
+* [2023 - 2025] Natalia Abarca, Co-supervised with Claudia López, Master in Data Science, University of Chile. 
 * [2022 - 2024] Ignacio Meza, Co-supervised with Edison Marrese and Cristian Rodriguez-Opazo, Master in Computer Science, University of Chile.
 * [2021 - 2023] José Cañete, Master in Computer Science, University of Chile.
 * [2021 - 2023] Gabriel Iturra, Master in Computer Science, University of Chile.
@@ -288,4 +288,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, December 6th, 2024
+Santiago, Chile, January 16th, 2025
