@@ -128,7 +128,7 @@
 * [2024 - ongoing] Nicolás Brandstetter,  Master in Computer Science, University of Chile.
 * [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Master in Computer Science, University of Chile. 
 * [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
-* [2021 - ongoing] Jorge Ortiz,  Master in Computer Science, University of Chile.
+* [2021 - 2025] Jorge Ortiz, Co-supervised with Beatriz Quiroz,  Master in Computer Science, University of Chile.
 * [2022 - 2025] María José Zambrano, Master in Computer Science, University of Chile. 
 * [2023 - 2025] César Véliz, Co-supervised with Claudia López, Master in Data Science, University of Chile.
 * [2023 - 2025] Natalia Abarca, Co-supervised with Claudia López, Master in Data Science, University of Chile. 
