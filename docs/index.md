@@ -52,6 +52,6 @@ My research interests and expertise lie in the acquisition of knowledge and info
 * [Orcid](https://orcid.org/0000-0002-2153-4306)
 * [ACL Anthology](https://aclanthology.org/people/f/felipe-bravo-marquez/)
 * [Youtube](https://www.youtube.com/user/felipebravom)
-* [Twitter](https://twitter.com/felipebravom)
+* [BlueSky](https://bsky.app/profile/felipebravom.bsky.social)
 
-Last update October 22nd, 2024
+Last update January 28th, 2025
