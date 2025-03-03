@@ -51,9 +51,9 @@
 
 ### Conference and Workshop Papers 
 
-1. M. J. Zambrano and F. Bravo-Marquez [Optimization of Bias Mitigation in Word Embeddings: a Methodological Approach](https://www.wi-iat.com/wi-iat2024/index.html), In *Proceedings of the 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2024)*, Bangkok, Thailand 2024. (to appear) ([pdf](https://felipebravom.com/publications/wi2024b.pdf))
+1. M. J. Zambrano and F. Bravo-Marquez [Optimization of Bias Mitigation in Word Embeddings: a Methodological Approach](https://www.wi-iat.com/wi-iat2024/index.html), In *Proceedings of the 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2024)*, Bangkok, Thailand 2024.   IEEE Xplore. Pages 478-484. DOI:10.1109/WI-IAT62293.2024.00077 ([pdf](https://felipebravom.com/publications/wi2024b.pdf))
 
-2. H. Sarmiento, J. Ortiz, F. Bravo-Marquez, M. Santos, and S. Valenzuela  [A Comparative Analysis of Offensive Discourse in the 2021 Chilean Presidential Campaign on Twitter and WhatsApp](https://www.wi-iat.com/wi-iat2024/index.html), In *Proceedings of the 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2024)*, Bangkok, Thailand 2024. (to appear)  ([pdf](https://felipebravom.com/publications/wi2024a.pdf))
+2. H. Sarmiento, J. Ortiz, F. Bravo-Marquez, M. Santos, and S. Valenzuela  [A Comparative Analysis of Offensive Discourse in the 2021 Chilean Presidential Campaign on Twitter and WhatsApp](https://www.wi-iat.com/wi-iat2024/index.html), In *Proceedings of the 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2024)*, Bangkok, Thailand 2024.  IEEE Xplore. Pages 478-484. DOI:10.1109/WI-IAT62293.2024.00017  ([pdf](https://felipebravom.com/publications/wi2024a.pdf))
 
 3. J. Cañete and F. Bravo-Marquez [Speedy Gonzales: A Collection of Fast Task-Specific Models for Spanish](https://aclanthology.org/2024.starsem-1.14/), In *\*Sem '24: Proceedings of the 13th joint conference on lexical and computational semantics (\*Sem)*, June 2024, Mexico City, Mexico. Association for Computational Linguistics. Pages 176–189. ([pdf](https://felipebravom.com/publications/starsem2024.pdf))
 
