@@ -4,7 +4,7 @@
 
 
 
-1.  F. Villena, F. Bravo-Marquez, and J. Dunstan [NLP modeling recommendations for restricted data availability in clinical settings](https://bmcmedinformdecismak.biomedcentral.com/). In *BMC Medical Informatics and Decision Making*   (to appear)
+1.  F. Villena, F. Bravo-Marquez, and J. Dunstan [NLP modeling recommendations for restricted data availability in clinical settings](https://link.springer.com/article/10.1186/s12911-025-02948-2). In *BMC Medical Informatics and Decision Making*, Volume 25, Article Number 116, March 2025. DOI:10.1186/s12911-025-02948-2   ([pdf](https://felipebravom.com/publications/BMC2025.pdf))
 
 1. H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/doi/10.1145/3711912). In *ACM Transactions on the Web (TWEB)*, November 2024.  DOI:10.1145/3711912 ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
 
