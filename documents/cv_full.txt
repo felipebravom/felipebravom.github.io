@@ -438,17 +438,19 @@
 
 
 
+* [2025 - ongoing] Sofía Chávez, Master in Data Science, University of Chile.
+
 * [2024 - ongoing] Tomás Guzmán, Master in Data Science, University of Chile.
 
 * [2024 - ongoing] Valentina Castro, Master in Data Science, University of Chile.
-
-* [2024 - ongoing] Benjamín Farías, Master in Data Science, University of Chile.
 
 * [2024 - ongoing] Nicolás Brandstetter,  Master in Computer Science, University of Chile.
 
 * [2023 - ongoing] Victor Faraggi, Co-supervised with Jorge Silva, Master in Computer Science, University of Chile. 
 
 * [2022 - ongoing] Ignacio Núñez, Master in Computer Science, University of Chile. 
+
+* [2024 - 2025] Benjamín Farías, Master in Data Science, University of Chile.
 
 * [2021 - 2025] Jorge Ortiz, Co-supervised with Beatriz Quiroz,  Master in Computer Science, University of Chile.
 
@@ -480,9 +482,15 @@
 
 ### Undergraduate
 
-* [2024 - ongoing] Nicolás Olguín,  Computer Science Engineering, University of Chile.
+* [2024 - ongoing] Emilio Díaz, Computer Science Engineering, University of Chile.
+
+* [2024 - ongoing] Carla Hayler, Computer Science Engineering, University of Chile.
+
+* [2024 - ongoing] Camila Reyes Laytte, Computer Science Engineering, University of Chile.
 
 * [2024 - ongoing] Isaías Venegas,  Computer Science Engineering, University of Chile.
+
+* [2024 - 2025] Nicolás Olguín,  Computer Science Engineering, University of Chile.
 
 * [2023 - 2024] Millaray Valdivia,  Computer Science Engineering, University of Chile.
 
