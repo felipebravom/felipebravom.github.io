@@ -140,6 +140,8 @@
 
 
 
+* [2025-2029] FONDECYT Regular 1250098.  Proyect Title: Mutual Information for Representation Learning and Model Drift Detection: Theory, Methods and Applications. PI: Jorge Silva, other Co-PI: Marcos Orchard.
+
 * [2023-2024] FONDEF VIU23P 0110. Proyect Title (in Spanish): "DashAI: Una plataforma interactiva de experimentación en Inteligencia Artificial”. In this project, I serve as the supervisor of my master's student, Ignacio Nuñez who acts as PI.
 
 * [2019-2020] False News on Facebook during the 2017 Chilean Elections: Analyzing Its Content, Diffusion, and Audience Characteristic, The Social Science Research Council.
