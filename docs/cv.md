@@ -177,6 +177,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [May 2025] [AI and its impact on engineering: role, present, and future, member of the discussion panel at the Chilean Academy of Engineering Symposium](https://eventos.cmm.uchile.cl/acading/2025/05/ia-y-su-impacto-en-la-ingenieria/) [flyer](https://felipebravom.com/img/academiaIng.jpeg)
 * [December 2024] [Journées Scientifiques Inria Chile 2024 - part of the panel "The AI <-> HPC infra landscape greedy vs frugal alternatives and experiences"](https://journeesscientifiques2024.inria.cl/)
 * [October 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at the Institute of Informatics, Austral University, Valdivia](https://felipebravom.com/img/talkUACH.jpeg)
 * [September 2024] [A Tour through the Language Models: from Shannon to GPT-4. Invited Talk at CMM Pucón Symposium 2024](https://eventos.cmm.uchile.cl/pucon2024/)
