@@ -86,10 +86,10 @@
 
 
 ## University Administration
-
+* [2024 - ongoing] Director,  [Data and Artificial Intelligence Initiative (ID&IA), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile](https://idia.uchile.cl).
 * [2024 - ongoing] Elected member of the Council of the Faculty of Physical and Mathematical Sciences of the University of Chile.
 * [2022 - 2024] Elected member of the Departmental Council of the Department of Computer Science of the University of Chile.
-* [2020-ongoing] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
+* [2020-2024] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
 * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
 ## Technology transfer
