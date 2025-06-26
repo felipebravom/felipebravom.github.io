@@ -229,6 +229,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [El despegue de DashAI: Plataforma de IA de código abierto recibe el FONDEF IDeA I+D 2025, Comunicaciones, IMFD, June 2025](https://imfd.cl/el-despegue-de-dashai-plataforma-de-ia-de-codigo-abierto-recibe-el-fondef-idea-id-2025/)
+* [FCFM se adjudica proyectos Fondef IDeA I+D 2025 que abordan desafíos clave para el país, Comunicaciones, FCFM, Uchile, June 2025](https://ingenieria.uchile.cl/noticias/229322/fcfm-adjudica-cinco-fondef-idea-id-2025-claves-para-el-pais)
 * [Tercera ola de la IA acelera innovación, pero aumenta inquietud por potenciales riesgos,  El Mercurio, Chile Tecnológico, Abril 30 ,2025](https://comentarista.emol.com/2534918/33260557/Chile-Tecnol%C3%B3gico.html) ([pdf](https://felipebravom.com/documents/mercurioAbril2025.pdf))
 * [Las tecnologías de vanguardia que comenzarán a imponerse desde 2025,  El Mercurio, Chile Tecnológico, December 27 ,2024](https://comentarista.emol.com/2534918/31926092/Chile-Tecnol%C3%B3gico.html) ([pdf](https://felipebravom.com/documents/mercurioDiciembre2024.pdf))
 * [Prof. Felipe Bravo asume como director de la Iniciativa de Datos e Inteligencia Artificial FCFM, Comunicaciones, FCFM, Uchile, November 2024](https://ingenieria.uchile.cl/noticias/222454/prof-felipe-bravo-asume-como-director-de-idia)
