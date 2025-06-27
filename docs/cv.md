@@ -64,6 +64,7 @@
 ## Grants
 
 ### As Principal Investigator
+* [2025 - present] FONDEF  IDeA I+D 2025. Proyect Title:  "DashAI: Plataforma No-code de Aprendizaje Automático". Code:I D25I10330
 * [2024 - present] Principal Researcher, National Center for Artificial Intelligence Research (CENIA), Basal Fund FB210017.
 * [2020 - 2023] FONDECYT de Iniciación. Proyect Title: Tracking social public opinion: a stream-mining based approach. Code: 11200290 
 * [2020 - 2022] U-INICIA (Concurso de reforzamiento de inserción productiva de nuevos académicos VID Uchile). Proyect Title (in Spanish): Inducción Incremental de Léxicos Afectivos desde Twitter. Code: UI-004/20 
