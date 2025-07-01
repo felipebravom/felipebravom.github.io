@@ -650,6 +650,8 @@
 
 ## Media Outreach
 
+* [CENIA se adjudica dos proyectos FONDEF IDeA I+D 2025 para avanzar en IA aplicada a la robótica y el aprendizaje automático, Comunicaciones, CENIA, June 2025](https://cenia.cl/2025/06/28/cenia-se-adjudica-dos-proyectos-fondef-idea-id-2025-para-avanzar-en-ia-aplicada-a-la-robotica-y-el-aprendizaje-automatico/)
+
 * [El despegue de DashAI: Plataforma de IA de código abierto recibe el FONDEF IDeA I+D 2025, Comunicaciones, IMFD, June 2025](https://imfd.cl/el-despegue-de-dashai-plataforma-de-ia-de-codigo-abierto-recibe-el-fondef-idea-id-2025/)
 
 * [FCFM se adjudica proyectos Fondef IDeA I+D 2025 que abordan desafíos clave para el país, Comunicaciones, FCFM, Uchile, June 2025](https://ingenieria.uchile.cl/noticias/229322/fcfm-adjudica-cinco-fondef-idea-id-2025-claves-para-el-pais)
