@@ -80,7 +80,7 @@
 * [June 2024] Evaluation of a proposal for a degree program at the Catholic University of Uruguay on Engineering and B.Sc. in Artificial Intelligence and Data Science for the Ministry of Education and Culture of Uruguay.
 * [October 2023] Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
-* Conference Program Committes: EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: PRICAI 2025, EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 * Journal Reviewing: Digital Journalism, Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 * Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
 
@@ -95,7 +95,7 @@
 
 ## Technology transfer
 * [2024] Consulting project through CENIA to Entel in the development of an internal chatbot for technicians in operation.
-* [2024 - ongoing]  Consulting project through the IMFD to the Inter-American Development Bank on the use of Machine Learning to predict educational alerts.
+* [2024]  Consulting project through the IMFD to the Inter-American Development Bank on the use of Machine Learning to predict educational alerts.
 * [2022] I assisted the Chilean food company Agrosuper in its statistical experimentation methodology for production as part of an IMFD agreement.
 * [2020-2021] As part of an IMFD agreement, I assisted the Supreme Court of Chile in the development of an automatic classifier of court rulings.
 
@@ -230,6 +230,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [DashAI, la plataforma liderada por el profesor Felipe Bravo Márquez, se adjudica proyecto Fondef IDeA I+D 2025, Comunicaciones, DCC, Uchile, July 2025](https://comunicaciones.dcc.uchile.cl/news/1023-dashai-la-plataforma-liderada-por-el-profesor-felipe-bravo-marquez-se-adjudica-proyecto-fondef-idea-id-2025/)
 * [CENIA se adjudica dos proyectos FONDEF IDeA I+D 2025 para avanzar en IA aplicada a la robótica y el aprendizaje automático, Comunicaciones, CENIA, June 2025](https://cenia.cl/2025/06/28/cenia-se-adjudica-dos-proyectos-fondef-idea-id-2025-para-avanzar-en-ia-aplicada-a-la-robotica-y-el-aprendizaje-automatico/)
 * [El despegue de DashAI: Plataforma de IA de código abierto recibe el FONDEF IDeA I+D 2025, Comunicaciones, IMFD, June 2025](https://imfd.cl/el-despegue-de-dashai-plataforma-de-ia-de-codigo-abierto-recibe-el-fondef-idea-id-2025/)
 * [FCFM se adjudica proyectos Fondef IDeA I+D 2025 que abordan desafíos clave para el país, Comunicaciones, FCFM, Uchile, June 2025](https://ingenieria.uchile.cl/noticias/229322/fcfm-adjudica-cinco-fondef-idea-id-2025-claves-para-el-pais)
