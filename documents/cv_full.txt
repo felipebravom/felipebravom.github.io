@@ -652,6 +652,8 @@
 
 ## Media Outreach
 
+* [Deuda cognitiva: Los costos invisibles de dejar que la IA haga las tareas, El Mercurio, Chile Tecnológico, July  30 ,2025]([pdf](https://felipebravom.com/documents/mercurioJulio2025.pdf))
+
 * [DashAI, la plataforma liderada por el profesor Felipe Bravo Márquez, se adjudica proyecto Fondef IDeA I+D 2025, Comunicaciones, DCC, Uchile, July 2025](https://comunicaciones.dcc.uchile.cl/news/1023-dashai-la-plataforma-liderada-por-el-profesor-felipe-bravo-marquez-se-adjudica-proyecto-fondef-idea-id-2025/)
 
 * [CENIA se adjudica dos proyectos FONDEF IDeA I+D 2025 para avanzar en IA aplicada a la robótica y el aprendizaje automático, Comunicaciones, CENIA, June 2025](https://cenia.cl/2025/06/28/cenia-se-adjudica-dos-proyectos-fondef-idea-id-2025-para-avanzar-en-ia-aplicada-a-la-robotica-y-el-aprendizaje-automatico/)
