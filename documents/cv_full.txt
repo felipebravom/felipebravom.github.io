@@ -38,11 +38,11 @@
 
 * [2024 -present] Principal Researcher, [National Center for Artificial Intelligence Research (CENIA)](https://www.cenia.cl) .
 
-* [2024 - present] Associate Researcher,  [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl).
+* [2024 - present]  Researcher,  [Millennium Institute for Foundational Research on Data (IMFD)](http://www.imfd.cl).
 
 * [2020 - present] Associate Member, [Te Ipu o te Mahara, The Artificial Intelligence Institute at the University of Waikato](https://ai.waikato.ac.nz/home).
 
-* [2019 - present] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
+* [2019 - 2023] Honorary Research Associate,  [Machine Learning Group, University of Waikato](http://www.cs.waikato.ac.nz/ml/).
 
 * [2019 - 2024] Assistant Professor, [Department of Computer Science, University of Chile](https://www.dcc.uchile.cl/). 
 
@@ -94,13 +94,13 @@
 
 ##  Teaching
 
-* [CC6104] (Lecturer) Statistical Thinking (spring 2024, spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
+* [CC6104] (Lecturer) Statistical Thinking (spring 2025, spring 2024, spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
 
-* [CC66S] (Lecturer) Machine Learning (spring 2024, spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
+* [CC66S] (Lecturer) Machine Learning (spring 2025, spring 2024, spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
 
 * [CC6205] (Lecturer) Natural Language Processing (fall 2024, fall 2023, fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
 
-* [CC5206] (Lecturer) Introduction to Data Mining (fall 2024, fall 2023, fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
+* [CC5206] (Lecturer) Introduction to Data Mining (fall 2025, fall 2024, fall 2023, fall 2022, fall 2021, spring 2020, fall 2020, spring 2019, fall 2019), Computer Science Department, Universidad de Chile
 
 * [CEDCCPECO2] (Lecturer) Introduction to Machine Learning (Spring 2024), Computer Science Department, Universidad de Chile (Professional Diploma in Data Science)
 
@@ -802,5 +802,5 @@ Felipe José Bravo Márquez
 
 
 
-Santiago, Chile, May 20th, 2025
+Santiago, Chile, August 1st, 2025
 
