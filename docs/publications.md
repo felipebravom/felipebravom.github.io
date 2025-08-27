@@ -47,7 +47,7 @@
 
 1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Adapting Bias Evaluation to Domain Contexts using Generative Models](https://2025.emnlp.org/), In *EMNLP 2025: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*.  Suzhou, China 2025. (to appear)   
 
-2. F.D Zamora-Reina, F. Bravo-Marquez, N. Arefyev, and D. Schlechtweg  [Can Large Language Models compete with specialized models in Lexical Semantic Change Detection?](https://ecai2025.org/), In *ECAI '2025: Proceedings of the 28th European Conference on Artificial Intelligence*. Bologna, Italy  2025.  (to appear)
+2. F.D Zamora-Reina, F. Bravo-Marquez, N. Arefyev, and D. Schlechtweg  [Can Large Language Models compete with specialized models in Lexical Semantic Change Detection?](https://ecai2025.org/), In *ECAI '2025: Proceedings of the 28th European Conference on Artificial Intelligence*. Bologna, Italy  2025.  ([pdf](https://felipebravom.com/publications/ECAI2025.pdf))
 
 3. N. Brandstetter, F. Bravo-Marquez, and F. Olmedo [FALAA: Framework for the Abstraction of Language Agent Architectures](https://emas.in.tu-clausthal.de/2025/assets/pdfs/emas2025-2.pdf), In *Proceedings of the 13th International Workshop on Engineering Multi-Agent Systems (EMAS)*, co-located with AAMAS 2025, Detroit, Michigan, USA. ([pdf](https://felipebravom.com/publications/emas2025.pdf))
 
