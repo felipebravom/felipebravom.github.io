@@ -4,7 +4,7 @@
 
 
 
-1.  P. Badilla, F. Bravo-Marquez,  M.J. Zamrbano, and J. Pérez [WEFE: A Python Library for Measuring and Mitigating Bias in Word Embeddings](http://jmlr.org/papers/v26/22-1133.html). In *Journal of Machine Learning Research*: Pages 1−6, 2019. ([pdf](https://felipebravom.com/publications/JMLR2025.pdf))
+1.  P. Badilla, F. Bravo-Marquez,  M.J. Zamrbano, and J. Pérez [WEFE: A Python Library for Measuring and Mitigating Bias in Word Embeddings](http://jmlr.org/papers/v26/22-1133.html). In *Journal of Machine Learning Research*: Pages 1−6, 2025. ([pdf](https://felipebravom.com/publications/JMLR2025.pdf))
 1.  D. Schlechtweg,  F.D Zamora-Reina, F. Bravo-Marquez, and N. Arefyev [Sense Through Time: Diachronic word sense annotations for Word Sense Induction and Lexical Semantic Change Detection](https://link.springer.com/article/10.1007/s10579-024-09771-7). In *Language Resources and Evaluation*,  Volume 59, 2025. Pages 1431-1465. DOI:10.1007/s10579-024-09771-7  ([pdf](https://felipebravom.com/publications/LRE2024.pdf))
 1.  F. Villena, F. Bravo-Marquez, and J. Dunstan [NLP modeling recommendations for restricted data availability in clinical settings](https://link.springer.com/article/10.1186/s12911-025-02948-2). In *BMC Medical Informatics and Decision Making*, Volume 25, Article Number 116, March 2025. DOI:10.1186/s12911-025-02948-2   ([pdf](https://felipebravom.com/publications/BMC2025.pdf))
 1.  H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/doi/10.1145/3711912). In *ACM Transactions on the Web (TWEB)*, November 2024.  DOI:10.1145/3711912 ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
