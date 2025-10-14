@@ -117,6 +117,7 @@
 
 ### PhD
 
+* [2025 - ongoing] Benjamín Farías, Co-supervised with Valentin Barriere, PhD, University of Chile.
 * [2024 - ongoing] Juan José Alegria, Co-supervised with Cristian Buc, PhD, University of Chile.
 * [2022 - ongoing] Fabián Villena, Co-supervised with Jocelyn Dunstan, PhD, University of Chile.
 * [2019 - ongoing] Frank Zamora, PhD, University of Chile.
@@ -148,9 +149,10 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
-* [2024 - ongoing] Emilio Díaz, Computer Science Engineering, University of Chile.
-* [2024 - ongoing] Carla Hayler, Computer Science Engineering, University of Chile.
-* [2024 - ongoing] Camila Reyes Laytte, Computer Science Engineering, University of Chile.
+* [2024 - 2025] Diego Faúndez, Computer Science Engineering, University of Chile.
+* [2024 - 2025] Emilio Díaz, Computer Science Engineering, University of Chile.
+* [2024 - 2025] Carla Hayler, Computer Science Engineering, University of Chile.
+* [2024 - 2025] Camila Reyes Laytte, Computer Science Engineering, University of Chile.
 * [2024 - 2025] Isaías Venegas,  Computer Science Engineering, University of Chile.
 * [2024 - 2025] Nicolás Olguín,  Computer Science Engineering, University of Chile.
 * [2023 - 2024] Millaray Valdivia,  Computer Science Engineering, University of Chile.
