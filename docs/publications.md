@@ -45,7 +45,7 @@
 
 1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Adapting Bias Evaluation to Domain Contexts using Generative Models](https://2025.emnlp.org/), In *EMNLP 2025: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*.  Suzhou, China 2025.  ([pdf](https://felipebravom.com/publications/emnlp2025.pdf)) 
 
-2. F.D Zamora-Reina, F. Bravo-Marquez, N. Arefyev, and D. Schlechtweg  [Can Large Language Models compete with specialized models in Lexical Semantic Change Detection?](https://ecai2025.org/), In *ECAI '2025: Proceedings of the 28th European Conference on Artificial Intelligence*. Bologna, Italy  2025.  ([pdf](https://felipebravom.com/publications/ECAI2025.pdf))
+2. F.D Zamora-Reina, F. Bravo-Marquez, N. Arefyev, and D. Schlechtweg  [Can Large Language Models compete with specialized models in Lexical Semantic Change Detection?](https://ebooks.iospress.nl/doi/10.3233/FAIA251313), In *ECAI '2025: Proceedings of the 28th European Conference on Artificial Intelligence*. Bologna, Italy  2025. Pages 4201-4208. DOI: 10.3233/FAIA251313  ([pdf](https://felipebravom.com/publications/ECAI2025.pdf))
 
 3. N. Abarca, A. Carvallo, C. López, and  F. Bravo-Marquez [Explaining AI Without Code: A User Study on Explainable AI](https://www.latinxinai.org/neurips-2025), In  *LatinX in AI  Research Workshop at  NeurIPS 2025*. San Diego, California, USA. (to appear)
 
