@@ -43,7 +43,7 @@
 
 ### Conference and Workshop Papers 
 
-1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Adapting Bias Evaluation to Domain Contexts using Generative Models](https://2025.emnlp.org/), In *EMNLP 2025: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*.  Suzhou, China 2025.  ([pdf](https://felipebravom.com/publications/emnlp2025.pdf)) 
+1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Adapting Bias Evaluation to Domain Contexts using Generative Models](https://aclanthology.org/2025.emnlp-main.1424/), In *EMNLP 2025: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*.  Suzhou, China 2025. Association for Computational Linguistics. Pages 28043–28.0  ([pdf](https://felipebravom.com/publications/emnlp2025.pdf)) 
 
 2. F.D Zamora-Reina, F. Bravo-Marquez, N. Arefyev, and D. Schlechtweg  [Can Large Language Models compete with specialized models in Lexical Semantic Change Detection?](https://ebooks.iospress.nl/doi/10.3233/FAIA251313), In *ECAI '2025: Proceedings of the 28th European Conference on Artificial Intelligence*. Bologna, Italy  2025. Pages 4201-4208. DOI: 10.3233/FAIA251313  ([pdf](https://felipebravom.com/publications/ECAI2025.pdf))
 
