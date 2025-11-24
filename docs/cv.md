@@ -234,6 +234,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Extracto de la entrevista a los  invitados internacionales de la Misión inversa organizada por CONETIC e  ICEX en el marco del #OktoberTech2025, November 2025](https://conetic.info/extracto-de-la-entrevista-a-los-invitados-internacionales-de-la-mision-inversa-organizada-por-conetic-e-icex-en-el-marco-del-oktobertech2025/)
 * [Envejecimiento cerebral, la evolución de ChatGPT y los beneficios de la vitamina D | Futuro 360, CNN Chile, July 29, 2025, minute 3:32](https://www.youtube.com/watch?v=xslIwJ3pXz0)
 * [Deuda cognitiva: Los costos invisibles de dejar que la IA haga las tareas, El Mercurio, Chile Tecnológico, July  30 ,2025](https://felipebravom.com/documents/mercurioJulio2025.pdf)
 * [DashAI, la plataforma liderada por el profesor Felipe Bravo Márquez, se adjudica proyecto Fondef IDeA I+D 2025, Comunicaciones, DCC, Uchile, July 2025](https://comunicaciones.dcc.uchile.cl/news/1023-dashai-la-plataforma-liderada-por-el-profesor-felipe-bravo-marquez-se-adjudica-proyecto-fondef-idea-id-2025/)
