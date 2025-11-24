@@ -309,4 +309,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, August 1st, 2025
+Santiago, Chile, November 24th, 2025
