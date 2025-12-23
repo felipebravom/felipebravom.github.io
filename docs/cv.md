@@ -234,6 +234,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [El uso de ChatGPT no está revirtiendo siglos de cambio climático y no ha bajado el nivel del mar, MalaEspina Check, December 23, 2025](https://www.malaespinacheck.cl/ciencia-y-salud/2025/12/23/el-uso-de-chatgpt-no-esta-revirtiendo-siglos-de-cambio-climatico-y-no-ha-bajado-el-nivel-del-mar/)
 * [Extracto de la entrevista a los  invitados internacionales de la Misión inversa organizada por CONETIC e  ICEX en el marco del #OktoberTech2025, November 2025](https://conetic.info/extracto-de-la-entrevista-a-los-invitados-internacionales-de-la-mision-inversa-organizada-por-conetic-e-icex-en-el-marco-del-oktobertech2025/)
 * [Envejecimiento cerebral, la evolución de ChatGPT y los beneficios de la vitamina D | Futuro 360, CNN Chile, July 29, 2025, minute 3:32](https://www.youtube.com/watch?v=xslIwJ3pXz0)
 * [Deuda cognitiva: Los costos invisibles de dejar que la IA haga las tareas, El Mercurio, Chile Tecnológico, July  30 ,2025](https://felipebravom.com/documents/mercurioJulio2025.pdf)
@@ -309,4 +310,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, November 24th, 2025
+Santiago, Chile, December 23rd, 2025
