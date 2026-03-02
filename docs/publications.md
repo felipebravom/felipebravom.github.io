@@ -49,7 +49,7 @@
 
 3. N. Abarca, A. Carvallo, C. López, and  F. Bravo-Marquez [Explaining AI Without Code: A User Study on Explainable AI](https://www.latinxinai.org/neurips-2025), In  *LatinX in AI  Research Workshop at  NeurIPS 2025*. San Diego, California, USA. (to appear)
 
-4. N. Brandstetter, F. Bravo-Marquez, and F. Olmedo [FALAA: Framework for the Abstraction of Language Agent Architectures](https://emas.in.tu-clausthal.de/2025/assets/pdfs/emas2025-2.pdf), In *Proceedings of the 13th International Workshop on Engineering Multi-Agent Systems (EMAS)*, co-located with AAMAS 2025, Detroit, Michigan, USA. ([pdf](https://felipebravom.com/publications/emas2025.pdf))
+4. N. Brandstetter, F. Bravo-Marquez, and F. Olmedo [FALAA: Framework for the Abstraction of Language Agent Architectures](https://link.springer.com/book/10.1007/978-3-032-18011-7), In *Proceedings of the 13th International Workshop on Engineering Multi-Agent Systems (EMAS)*, co-located with AAMAS 2025, Detroit, Michigan, USA.  Springer Nature. Pages 45-61.  DOI: 10.1007/978-3-032-18011-7_4 ([pdf](https://felipebravom.com/publications/emas2025.pdf))
 
 5. M. J. Zambrano and F. Bravo-Marquez [Optimization of Bias Mitigation in Word Embeddings: a Methodological Approach](https://ieeexplore.ieee.org/document/10973443), In *Proceedings of the 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2024)*, Bangkok, Thailand 2024.   IEEE Xplore. Pages 478-484. DOI:10.1109/WI-IAT62293.2024.00077 ([pdf](https://felipebravom.com/publications/wi2024b.pdf))
 
