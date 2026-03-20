@@ -62,6 +62,8 @@
 
 * [2005-2006] Internship, Vitanet, Software Developer.
 
+  
+
 
 
 ## Qualifications
@@ -93,6 +95,8 @@
 
 
 ##  Teaching
+
+* [CC5218] (Lecturer) Perspectives and Paradigms in Artificial Intelligence (fall 2026), Computer Science Department, Universidad de Chile
 
 * [CC6104] (Lecturer) Statistical Thinking (spring 2025, spring 2024, spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
 
@@ -815,5 +819,5 @@ Felipe José Bravo Márquez
 
 
 
-Santiago, Chile, February 2nd, 2026
+Santiago, Chile, March 20th, 2026
 

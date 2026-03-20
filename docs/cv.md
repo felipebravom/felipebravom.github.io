@@ -30,6 +30,7 @@
 * [2009] Internship, Simple, Software Developer.
 * [2009] Internship, [Previred](http://www.previred.com), Business Process Management Area.
 * [2005-2006] Internship, Vitanet, Software Developer.
+  
 
 ## Qualifications
 
@@ -46,6 +47,7 @@
 * BSc. Computer Science, Universidad de Chile (Jan. 2009)
 
 ##  Teaching
+* [CC5218] (Lecturer) Perspectives and Paradigms in Artificial Intelligence (fall 2026), Computer Science Department, Universidad de Chile
 * [CC6104] (Lecturer) Statistical Thinking (spring 2025, spring 2024, spring 2023, spring 2022, spring 2021), Computer Science Department, Universidad de Chile
 * [CC66S] (Lecturer) Machine Learning (spring 2025, spring 2024, spring 2023, spring 2022, spring 2020), Computer Science Department, Universidad de Chile (Professional Diploma in Artificial Intelligence)
 * [CC6205] (Lecturer) Natural Language Processing (fall 2024, fall 2023, fall 2022, fall 2021, fall 2020, spring 2019), Computer Science Department, Universidad de Chile
@@ -310,4 +312,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, February 2nd, 2026
+Santiago, Chile, March 20th, 2026
