@@ -182,10 +182,11 @@
 
 
 ### Non-peer reviewed articles
-
+1. F- Bravo-Marquez [Guido Imbens, Premio Nobel de Economía en Chile: ¿qué es la inferencia causal?](https://fintualist.com/chile/ciencia/guido-imbens-premio-nobel-de-economia-en-chile-que-es-la-inferencia-causal/), In *Fintualist*, March 2026 ([pdf](https://felipebravom.com/publications/Fintualist2026.pdf))
 1. F- Bravo-Marquez [Preguntas - Comité Asesor de niños, niñas y jóvenes](https://cambalache.usach.cl/), In *Revista Cambalache, Usach* Volume 10, October 2025. ([pdf](https://felipebravom.com/publications/Cambalache2025.pdf))
 2. F. Bravo-Marquez [Un recorrido por los modelos de lenguaje: Desde Shannon a GPT-4](https://www.dcc.uchile.cl/media/bits/pdfs/Bitsdeciencia25.pdf), In *Revista Bits de Ciencia* Volume 25 Pages 16-27, October 2023. ([pdf](https://felipebravom.com/publications/bits2023.pdf))
 3. F. Bravo-Marquez and J. Dunstan [Procesamiento de Lenguaje Natural: dónde estamos y qué estamos haciendo](https://www.dcc.uchile.cl/Bitsdeciencia21.pdf), In *Revista Bits de Ciencia* Volume 21 Pages 45-47, July 2021. ([pdf](https://felipebravom.com/publications/bits2021.pdf))
+4. P. Badilla and F. Bravo-Marquez [Word Embedding Fairness Evaluation](https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html), In *KDnuggets*, invited blog post, August, 2020. ([pdf](https://felipebravom.com/publications/KDnuggets2020.pdf))
 
 ### Theses
 

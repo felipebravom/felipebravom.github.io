@@ -151,6 +151,7 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
+* [2025 - 2026] Iván Salas, Computer Science Engineering, University of Chile.
 * [2024 - 2025] Diego Faúndez, Computer Science Engineering, University of Chile.
 * [2024 - 2025] Emilio Díaz, Computer Science Engineering, University of Chile.
 * [2024 - 2025] Carla Hayler, Computer Science Engineering, University of Chile.
