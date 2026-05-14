@@ -237,7 +237,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [Guido Imbens, Premio Nobel de Economía en Chile: ¿qué es la inferencia causal?, Fintualist, March, 2026](https://fintualist.com/chile/ciencia/guido-imbens-premio-nobel-de-economia-en-chile-que-es-la-inferencia-causal/)
+* [Hosted the “AI as a Strategic Dimension at the University of Chile” rectoral candidates forum, bringing together candidates for the leadership of University of Chile to discuss the institutional future of artificial intelligence, April 2026.](https://uchile.cl/agenda/238742/conversatorio-rectoria-la-ia-como-eje-estrategico-en-la-u-de-chile) ([video](https://www.youtube.com/live/OJ18OJ4UL-0?si=tylLe7GhLww0Hffb))
 * [El uso de ChatGPT no está revirtiendo siglos de cambio climático y no ha bajado el nivel del mar, MalaEspina Check, December 23, 2025](https://www.malaespinacheck.cl/ciencia-y-salud/2025/12/23/el-uso-de-chatgpt-no-esta-revirtiendo-siglos-de-cambio-climatico-y-no-ha-bajado-el-nivel-del-mar/)
 * [Extracto de la entrevista a los  invitados internacionales de la Misión inversa organizada por CONETIC e  ICEX en el marco del #OktoberTech2025, November 2025](https://conetic.info/extracto-de-la-entrevista-a-los-invitados-internacionales-de-la-mision-inversa-organizada-por-conetic-e-icex-en-el-marco-del-oktobertech2025/)
 * [Envejecimiento cerebral, la evolución de ChatGPT y los beneficios de la vitamina D | Futuro 360, CNN Chile, July 29, 2025, minute 3:32](https://www.youtube.com/watch?v=xslIwJ3pXz0)
