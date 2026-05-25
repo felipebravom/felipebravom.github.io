@@ -184,6 +184,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [May 2026] [III Congreso Internacional de Machine Learning, Lógica Difusa y sus Aplicaciones Prácticas,  Universidad Nacional Santiago Antúnez de Mayolo (UNASAM), Huaraz, Peru. Talk title: DashAI- La plataforma de código abierto para experimentación con IA](https://felipebravom.com/img/unasam.jpeg)
 * [October 2025] [Oktobertech 2025, member of the Debate Panel on Interoperability and Data Governance in Federated Spaces, in Las Palmas de Gran Canaria (Spain)](https://www.canariasexcelenciatecnologica.com/oktobertech2025/)
 * [July 2025] [Meeting on Artificial Intelligence for the Transformation of the State: People, Trust, and the Future. An activity held by the Ministry of Finance of Chile at the University of Chile. Talk title: "Workshop on Large Language Models (LLMs) and Machine Learning Models."](https://uchile.cl/noticias/230598/ia-agrega-transparencia-al-estado)
 * [May 2025] [AI and its impact on engineering: role, present, and future, member of the discussion panel at the Chilean Academy of Engineering Symposium](https://eventos.cmm.uchile.cl/acading/2025/05/ia-y-su-impacto-en-la-ingenieria/) [flyer](https://felipebravom.com/img/academiaIng.jpeg)
