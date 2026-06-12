@@ -185,8 +185,6 @@
 
 ## Seminars and Talks
 
-
-
 * [June 2026] [Invited panelist at the University of Chile seminar "University Education with Institutional Identity: New Approaches to Address Contemporary Challenges". Discussed the impact of generative AI on higher education, knowledge production, and institutional educational identity alongside Deputy Minister of Higher Education Fernanda Valdés and Professor Carla Hermann.](https://uchile.cl/noticias/241249/ia-y-competencias-sello-marcan-jornada-inaugural-de-seminario-docente-uch) ([news](https://uchile.cl/i241243)) 
 * [May 2026] [III Congreso Internacional de Machine Learning, Lógica Difusa y sus Aplicaciones Prácticas,  Universidad Nacional Santiago Antúnez de Mayolo (UNASAM), Huaraz, Peru. Talk title: DashAI- La plataforma de código abierto para experimentación con IA](https://felipebravom.com/img/unasam.jpeg)
 * [October 2025] [Oktobertech 2025, member of the Debate Panel on Interoperability and Data Governance in Federated Spaces, in Las Palmas de Gran Canaria (Spain)](https://www.canariasexcelenciatecnologica.com/oktobertech2025/)
