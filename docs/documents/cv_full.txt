@@ -166,7 +166,7 @@
 
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
 
-* Conference Program Committes: ACL 2026, PRICAI 2025, EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: EMNLP 2026, ACL 2026, PRICAI 2025, EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 
 * Journal Reviewing: Digital Journalism, Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 
@@ -182,11 +182,13 @@
 
 * [2024 - ongoing] Director,  [Data and Artificial Intelligence Initiative (ID&IA), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile](https://idia.uchile.cl).
 
+* [2026 - ongoing] Member of the academic committee of the [PhD in Computer Science Program](https://dcc.uchile.cl/postgrado/doctorado/) at the University of Chile.
+
 * [2024 - ongoing] Elected member of the Council of the Faculty of Physical and Mathematical Sciences of the University of Chile.
 
 * [2022 - 2024] Elected member of the Departmental Council of the Department of Computer Science of the University of Chile.
 
-* [2020-2024] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
+* [2020-2024] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile.
 
 * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
@@ -677,6 +679,8 @@
 
 
 ## Media Outreach
+
+* [Interviewed on Uchile Radio program Rocadictos: Modelos de Inteligencia Artificia, June 18, 2026](https://open.spotify.com/episode/0kBCOgoO71zmAVURw2sHDZ?si=2cmjE812Q0ePs_vnW-6sxg)
 
 * [De ChatGPT al super­cóm­puto: la segunda ola de la IA en uni­ver­si­da­des e IP, La Tercera,  May 24, 2026](https://kiosco.latercera.com/reader/domingo-24-05-26-suplemento-educa?location=2) ([pdf](https://felipebravom.com/documents/terceraMayo2026.pdf))
 

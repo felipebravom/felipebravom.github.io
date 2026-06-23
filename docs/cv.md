@@ -82,7 +82,7 @@
 * [June 2024] Evaluation of a proposal for a degree program at the Catholic University of Uruguay on Engineering and B.Sc. in Artificial Intelligence and Data Science for the Ministry of Education and Culture of Uruguay.
 * [October 2023] Evaluation of a proposed undergraduate program at the University of Montevideo on Engineering in Data Science and Artificial Intelligence for the Ministry of Education and Culture of Uruguay.
 * Area Chair: EMNLP 2020 track "Sentiment Analysis, Stylistic Analysis, and Argument Mining".
-* Conference Program Committes: ACL 2026, PRICAI 2025, EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
+* Conference Program Committes: EMNLP 2026, ACL 2026, PRICAI 2025, EMNLP 2025, CoMeDi-COLING 2025, NAACL 2024, LivingNER-IberLEF 2022, AAAI 2021, ACL 2021, TheWebConf 2021, ACL 2020, WISDOM 2020, NAACL 2019, LA-WEB 2019, WASSA 2018, WISDOM 2018, SEM-EVAL 2018, IJCAI-ECAI 2018, EMNLP 2017, WASSA 2017
 * Journal Reviewing: Digital Journalism, Plos One, ACM Transactions on the Web (TWEB), The Visual Computer (TVCJ), PeerJ Computer Science, Journal of Machine Learning Research, Natural Language Engineering, IEEE Transactions on Knowledge and Data Engineering, Knowledge-based Systems, ACM Transactions on Intelligent Systems and Technology (TIST), IEEE Computational Intelligence Magazine special issue on Computational Intelligence for Natural Language Processing.
 * Grant reviewing: Fondecyt de Iniciación en Investigación 2022.
 
@@ -90,9 +90,10 @@
 
 ## University Administration
 * [2024 - ongoing] Director,  [Data and Artificial Intelligence Initiative (ID&IA), Faculty of Physical and Mathematical Sciences (FCFM), University of Chile](https://idia.uchile.cl).
+* [2026 - ongoing] Member of the academic committee of the [PhD in Computer Science Program](https://dcc.uchile.cl/postgrado/doctorado/) at the University of Chile.
 * [2024 - ongoing] Elected member of the Council of the Faculty of Physical and Mathematical Sciences of the University of Chile.
 * [2022 - 2024] Elected member of the Departmental Council of the Department of Computer Science of the University of Chile.
-* [2020-2024] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile,.
+* [2020-2024] Member of the academic committee of the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile.
 * [2019-2019] I participated in the elaboration of  the [Master in Data Science](https://mds.uchile.cl/) at the University of Chile. 
 
 ## Technology transfer
@@ -241,6 +242,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Interviewed on Uchile Radio program Rocadictos: Modelos de Inteligencia Artificia, June 18, 2026](https://open.spotify.com/episode/0kBCOgoO71zmAVURw2sHDZ?si=2cmjE812Q0ePs_vnW-6sxg)
 * [De ChatGPT al super­cóm­puto: la segunda ola de la IA en uni­ver­si­da­des e IP, La Tercera,  May 24, 2026](https://kiosco.latercera.com/reader/domingo-24-05-26-suplemento-educa?location=2) ([pdf](https://felipebravom.com/documents/terceraMayo2026.pdf))
 * [Hosted the “AI as a Strategic Dimension at the University of Chile” rectoral candidates forum, bringing together candidates for the leadership of University of Chile to discuss the institutional future of artificial intelligence, April 2026.](https://uchile.cl/agenda/238742/conversatorio-rectoria-la-ia-como-eje-estrategico-en-la-u-de-chile) ([video](https://www.youtube.com/live/OJ18OJ4UL-0?si=tylLe7GhLww0Hffb))
 * [El uso de ChatGPT no está revirtiendo siglos de cambio climático y no ha bajado el nivel del mar, MalaEspina Check, December 23, 2025](https://www.malaespinacheck.cl/ciencia-y-salud/2025/12/23/el-uso-de-chatgpt-no-esta-revirtiendo-siglos-de-cambio-climatico-y-no-ha-bajado-el-nivel-del-mar/)
