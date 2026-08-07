@@ -242,6 +242,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [U. de Chile presentó dashAI: plataforma chilena que permite trabajar sin entregar datos, University of Chile, August 2026](https://uchile.cl/noticias/243234/u-de-chile-presento-dashai-plataforma-chilena-de-inteligencia-artificial)
 * [Interviewed on Uchile Radio program Rocadictos: Modelos de Inteligencia Artificia, June 18, 2026](https://open.spotify.com/episode/0kBCOgoO71zmAVURw2sHDZ?si=2cmjE812Q0ePs_vnW-6sxg)
 * [De ChatGPT al super­cóm­puto: la segunda ola de la IA en uni­ver­si­da­des e IP, La Tercera,  May 24, 2026](https://kiosco.latercera.com/reader/domingo-24-05-26-suplemento-educa?location=2) ([pdf](https://felipebravom.com/documents/terceraMayo2026.pdf))
 * [Hosted the “AI as a Strategic Dimension at the University of Chile” rectoral candidates forum, bringing together candidates for the leadership of University of Chile to discuss the institutional future of artificial intelligence, April 2026.](https://uchile.cl/agenda/238742/conversatorio-rectoria-la-ia-como-eje-estrategico-en-la-u-de-chile) ([video](https://www.youtube.com/live/OJ18OJ4UL-0?si=tylLe7GhLww0Hffb))
