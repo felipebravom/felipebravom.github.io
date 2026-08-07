@@ -1,7 +1,7 @@
 ## Publications
 
 ### Journal Papers
-1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Quantifying Social Biases in Language Model Classifiers is Domain-Dependent](https://dl.acm.org/journal/tist), In *ACM Transactions on Intelligent Systems and Technology*, June 2026. (to appear)
+1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Quantifying Social Biases in Language Model Classifiers is Domain-Dependent](https://dl.acm.org/doi/pdf/10.1145/3834859), In *ACM Transactions on Intelligent Systems and Technology*, June 2026. DOI:10.1145/3834859  ([pdf](https://felipebravom.com/publications/TIST2026.pdf)) 
 1.  F. Villena, F. Bravo-Marquez, and J. Dunstan [Clinical-ShiftEval: a framework for simulating and evaluating model adaptation in dynamic clinical NLP tasks](https://link.springer.com/article/10.1186/s12911-026-03538-6). In *BMC Medical Informatics and Decision Making*, Volume 26, article number 240, May 2026. DOI:10.1186/s12911-026-03538-6 ([pdf](https://felipebravom.com/publications/BMC2026.pdf))   
 1.  P. Badilla, F. Bravo-Marquez,  M.J. Zambrano, and J. Pérez [WEFE: A Python Library for Measuring and Mitigating Bias in Word Embeddings](http://jmlr.org/papers/v26/22-1133.html). In *Journal of Machine Learning Research* 26(156): Pages 1−6, 2025. ([pdf](https://felipebravom.com/publications/JMLR2025.pdf))
 1.  H. Sarmiento, R. Córdova, J. Ortiz, F. Bravo-Marquez, M. Santos and S. Valenzuela [Unsupervised Framing Analysis for Social Media Discourse in Polarizing Events](https://dl.acm.org/doi/10.1145/3711912). In *ACM Transactions on the Web (TWEB)*, Volume 19, Number 4, Article 44, November 2025. Pages 1-42.  DOI:10.1145/3711912 ([pdf](https://felipebravom.com/publications/TOTW2024.pdf))
