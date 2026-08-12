@@ -241,7 +241,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [Lanzan software para entrenar modelos de machine learning sin depender de nubes , Diario Financiero](https://www.df.cl/df-lab/tech-empresas/lanzan-software-para-entrenar-modelos-de-machine-learning-sin-depender-de) (https://felipebravom.com/documents/dfAgosto2026.pdf)
+* [Lanzan software para entrenar modelos de machine learning sin depender de nubes , Diario Financiero](https://www.df.cl/df-lab/tech-empresas/lanzan-software-para-entrenar-modelos-de-machine-learning-sin-depender-de) ([pdf](https://felipebravom.com/documents/dfAgosto2026.pdf))
 * [U. de Chile celebra el lanzamiento de dashAI: su nueva IA, TVN Exponencial, August 2026](https://www.tvn.cl/exponencial/noticias/u-de-chile-celebra-el-lanzamiento-de-dashai-su-nueva-plataforma-de-ia)
 * [U. de Chile presentó dashAI: plataforma chilena que permite trabajar sin entregar datos, University of Chile, August 2026](https://uchile.cl/noticias/243234/u-de-chile-presento-dashai-plataforma-chilena-de-inteligencia-artificial)
 * [Interviewed on Uchile Radio program Rocadictos: Modelos de Inteligencia Artificia, June 18, 2026](https://open.spotify.com/episode/0kBCOgoO71zmAVURw2sHDZ?si=2cmjE812Q0ePs_vnW-6sxg)
