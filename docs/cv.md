@@ -120,9 +120,8 @@
 
 ### PhD
 
-* [2025 - ongoing] Benjamín Farías, Co-supervised with Valentin Barriere, PhD, University of Chile.
 * [2024 - ongoing] Juan José Alegria, Co-supervised with Cristian Buc, PhD, University of Chile.
-* [2022 - ongoing] Fabián Villena, Co-supervised with Jocelyn Dunstan, PhD, University of Chile.
+* [2022 - 2026] Fabián Villena, Co-supervised with Jocelyn Dunstan, PhD, University of Chile.
 * [2019 - ongoing] Frank Zamora, PhD, University of Chile.
 * [2020 - 2023] Hernán Sarmiento, Co-supervised with Bárbara Poblete, PhD, University of Chile.
 * [2019- 2023 ] Juglar Díaz, Co-supervised with Bárbara Poblete, PhD, University of Chile.
