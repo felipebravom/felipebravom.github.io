@@ -241,6 +241,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
+* [DashAI: inteligencia artificial desarrollada en Chile supera las 20.000 descargas y espera apoyar a pymes en el manejo de datos, La Tercera, August 2026](https://www.latercera.com/pulso/noticia/dashai-inteligencia-artificial-desarrollada-en-chile-supera-las-20000-descargas-y-espera-apoyar-a-pymes-en-el-manejo-de-datos/)
 * [Lanzan software para entrenar modelos de machine learning sin depender de nubes , Diario Financiero](https://www.df.cl/df-lab/tech-empresas/lanzan-software-para-entrenar-modelos-de-machine-learning-sin-depender-de) ([pdf](https://felipebravom.com/documents/dfAgosto2026.pdf))
 * [U. de Chile celebra el lanzamiento de dashAI: su nueva IA, TVN Exponencial, August 2026](https://www.tvn.cl/exponencial/noticias/u-de-chile-celebra-el-lanzamiento-de-dashai-su-nueva-plataforma-de-ia)
 * [U. de Chile presentó dashAI: plataforma chilena que permite trabajar sin entregar datos, University of Chile, August 2026](https://uchile.cl/noticias/243234/u-de-chile-presento-dashai-plataforma-chilena-de-inteligencia-artificial)
@@ -323,4 +325,4 @@
 
 Felipe José Bravo Márquez
 
-Santiago, Chile, March 20th, 2026
+Santiago, Chile, August 14th, 2026
