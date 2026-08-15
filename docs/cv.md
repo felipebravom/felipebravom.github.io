@@ -292,7 +292,7 @@
 * [Word Embedding Fairness Evaluation - an invited blog post about WEFE published in KDnuggets](https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html)
 * [FCFM Uchile - Investigadores DCC publican trabajo que aborda problema de sesgo algorítmico](http://ingenieria.uchile.cl/noticias/163436/investigadores-dcc-abordan-problema-de-sesgo-algoritmico)
 * [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
-* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
+* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://comunicaciones.dcc.uchile.cl/news/224-dcc-integra-a-dos-nuevos-academicos-a-su-planta-de-jornada-completa/)
 * [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
 * [RadioNZ - NZ's unique te reo tweets](https://www.radionz.co.nz/news/te-manu-korihi/382254/nz-s-unique-te-reo-tweets)
 

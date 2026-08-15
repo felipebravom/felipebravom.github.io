@@ -781,7 +781,7 @@
 
 * [FCFM Uchile - Prof. Felipe Bravo publica investigaciones sobre dos desarrollos de software de código abierto](http://ingenieria.uchile.cl/noticias/155190/dcc-publica-investigaciones-de-software-de-codigo-abierto)
 
-* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://www.dcc.uchile.cl/DCC-integra-a-dos-nuevos-acad%C3%A9micos)
+* [DCC Uchile - DCC integra a dos nuevos académicos de jornada completa](https://comunicaciones.dcc.uchile.cl/news/224-dcc-integra-a-dos-nuevos-academicos-a-su-planta-de-jornada-completa/)
 
 * [University of Waikato - When machine learning, Twitter and te reo Māori merge](https://www.waikato.ac.nz/news-opinion/media/2019/when-machine-learning-twitter-and-te-reo-maori-merge)
 
