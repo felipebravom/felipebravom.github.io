@@ -241,6 +241,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [dashAI, la inteligencia artificial de la Universidad de Chile para los que no son "computines", Las Últimas Noticias, August, 2026](https://www.lun.com/Pages/NewsDetail.aspx?dt=2026-08-16&NewsID=565916&BodyID=0&PaginaId=3)  ([pdf](https://felipebravom.com/documents/LunAgosto2026.pdf))
+* [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
 * [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
 * [DashAI: inteligencia artificial desarrollada en Chile supera las 20.000 descargas y espera apoyar a pymes en el manejo de datos, La Tercera, August 2026](https://www.latercera.com/pulso/noticia/dashai-inteligencia-artificial-desarrollada-en-chile-supera-las-20000-descargas-y-espera-apoyar-a-pymes-en-el-manejo-de-datos/)
 * [Lanzan software para entrenar modelos de machine learning sin depender de nubes , Diario Financiero](https://www.df.cl/df-lab/tech-empresas/lanzan-software-para-entrenar-modelos-de-machine-learning-sin-depender-de) ([pdf](https://felipebravom.com/documents/dfAgosto2026.pdf))
