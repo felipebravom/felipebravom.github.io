@@ -241,7 +241,7 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
-* [El uso de ChatGPT no está revirtiendo siglos de cambio climático y no ha bajado el nivel del mar, MalaEspina Check, December 23, 2025](https://www.malaespinacheck.cl/ciencia-y-salud/2025/12/23/el-uso-de-chatgpt-no-esta-revirtiendo-siglos-de-cambio-climatico-y-no-ha-bajado-el-nivel-del-mar/)
+* [“Existe una sensación muy transversal de desconcierto”: las dudas de cómo integrar la inteligencia artificial en las universidades, La Tercera, August, 2026](https://www.latercera.com/educacion/noticia/existe-una-sensacion-muy-transversal-de-desconcierto-las-dudas-de-como-integrar-la-inteligencia-artificial-en-las-universidades/)
 * [dashAI, la inteligencia artificial de la Universidad de Chile para los que no son "computines", Las Últimas Noticias, August, 2026](https://www.lun.com/Pages/NewsDetail.aspx?dt=2026-08-16&NewsID=565916&BodyID=0&PaginaId=3)  ([pdf](https://felipebravom.com/documents/LunAgosto2026.pdf))
 * [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
 * [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
