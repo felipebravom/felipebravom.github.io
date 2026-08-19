@@ -679,7 +679,7 @@
 
 ## Media Outreach
 
-* [Radio13c Después de Todo: interviewed by Soledad Onetto on dashAI](https://radio13c.cl/show/despues-de-todo/episode/despues-de-todo-26190011) ([mp3]((https://felipebravom.com/documents/DespuesdetodoAgosto2026.mp3))
+* [Radio13c Después de Todo: interviewed by Soledad Onetto on dashAI](https://radio13c.cl/show/despues-de-todo/episode/despues-de-todo-26190011) ([mp3](https://felipebravom.com/documents/DespuesdetodoAgosto2026.mp3))
 
 * [U. de Chile lanza plataforma gratuita para crear IA sin saber programar y con total privacidad, Cooperativa, August, 2016](https://www.cooperativaciencia.cl/tecnologia/2026/08/18/u-de-chile-lanza-plataforma-gratuita-para-crear-ia-sin-saber-programar-y-con-total-privacidad/)
 
