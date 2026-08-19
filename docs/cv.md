@@ -241,6 +241,8 @@
 * Co-organizer of WASSA-2017 [Emotion Intensity Detection](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) Task.
 
 ## Media Outreach
+* [Radio13c Después de Todo: interviewed by Soledad Onetto on dashAI](https://radio13c.cl/show/despues-de-todo/episode/despues-de-todo-26190011) ([mp3]((https://felipebravom.com/documents/DespuesdetodoAgosto2026.mp3))
+* [U. de Chile lanza plataforma gratuita para crear IA sin saber programar y con total privacidad, Cooperativa, August, 2016](https://www.cooperativaciencia.cl/tecnologia/2026/08/18/u-de-chile-lanza-plataforma-gratuita-para-crear-ia-sin-saber-programar-y-con-total-privacidad/)
 * [“Existe una sensación muy transversal de desconcierto”: las dudas de cómo integrar la inteligencia artificial en las universidades, La Tercera, August, 2026](https://www.latercera.com/educacion/noticia/existe-una-sensacion-muy-transversal-de-desconcierto-las-dudas-de-como-integrar-la-inteligencia-artificial-en-las-universidades/)
 * [dashAI, la inteligencia artificial de la Universidad de Chile para los que no son "computines", Las Últimas Noticias, August, 2026](https://www.lun.com/Pages/NewsDetail.aspx?dt=2026-08-16&NewsID=565916&BodyID=0&PaginaId=3)  ([pdf](https://felipebravom.com/documents/LunAgosto2026.pdf))
 * [U. de Chile lanza dashAI, plataforma gratuita de inteligencia artificial que ya suma más de 20 mil descargas, La Voz de Maipú, August 2026](https://lavozdemaipu.cl/dashai-plataforma-ia-chilena-pymes)
