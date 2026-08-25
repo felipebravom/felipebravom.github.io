@@ -43,6 +43,8 @@
 1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](https://felipebravom.com/publications/KBS2014.pdf))
 
 ### Conference and Workshop Papers 
+1. J. Ortiz-Fuentes, F. Bravo-Marquez, and B. Quiroz [Attitude Analysis in Systemic Functional Linguistics: A New Corpus and Benchmark Task](https://2026.emnlp.org/), In *Findings of the Association for Computational Linguistics: EMNLP 2025*.  Budapest, Hungary 2026. Association for Computational Linguistics.
+
 
 1. T. Quiroga, F. Bravo-Marquez, and V. Barriere [Adapting Bias Evaluation to Domain Contexts using Generative Models](https://aclanthology.org/2025.emnlp-main.1424/), In *EMNLP 2025: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*.  Suzhou, China 2025. Association for Computational Linguistics. Pages 28043–28054  ([pdf](https://felipebravom.com/publications/emnlp2025.pdf)) 
 
