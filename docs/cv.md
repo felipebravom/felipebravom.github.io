@@ -154,6 +154,7 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
+* [2025 - 2026] Andrés Salazar, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Felipe Alfaro, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Constanza Ramírez, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Iván Salas, Computer Science Engineering, University of Chile.
@@ -189,6 +190,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
+* [October 2026] Invited Panelist, “¿Qué lugar ocupará Chile en la era de la IA?”, Exponencial UDD, Santiago, Chile. Participated in a panel moderated by Loreto Bravo (Universidad del Desarrollo), alongside Cuky Pérez (Director of Companies) and Sergio Rademacher (Director of Companies), discussing Chile’s opportunities and challenges in the age of artificial intelligence. [Event program](https://exponencial.udd.cl/programa-santiago/) · [News article](https://www.udd.cl/noticias/2026/10/16/exponencial-udd-reunio-a-expertos-para-analizar-el-impacto-de-la-ia-en-el-futuro-de-la-humanidad/)
 * [September 2026] DashAI a no-code machine learning plattform, ChileTec, Santiago, Chile.
 * [June 2026] [Invited panelist at the University of Chile seminar "University Education with Institutional Identity: New Approaches to Address Contemporary Challenges". Discussed the impact of generative AI on higher education, knowledge production, and institutional educational identity alongside Deputy Minister of Higher Education Fernanda Valdés and Professor Carla Hermann.](https://uchile.cl/noticias/241249/ia-y-competencias-sello-marcan-jornada-inaugural-de-seminario-docente-uch) ([news](https://uchile.cl/i241243)) 
 * [May 2026] [III Congreso Internacional de Machine Learning, Lógica Difusa y sus Aplicaciones Prácticas,  Universidad Nacional Santiago Antúnez de Mayolo (UNASAM), Huaraz, Peru. Talk title: DashAI- La plataforma de código abierto para experimentación con IA](https://felipebravom.com/img/unasam.jpeg)
