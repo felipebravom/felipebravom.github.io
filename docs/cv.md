@@ -154,6 +154,7 @@
 * [2019-2020] Alan Ansell, Co-supervised with Bernhard Pharinger, Master in Computer Science, University of Waikato.
 
 ### Undergraduate
+* [2025 - 2026] Franco Navarro, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Andrés Salazar, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Felipe Alfaro, Computer Science Engineering, University of Chile.
 * [2025 - 2026] Constanza Ramírez, Computer Science Engineering, University of Chile.
