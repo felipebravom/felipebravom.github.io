@@ -43,6 +43,9 @@
 1. F. Bravo-Marquez, M. Mendoza and B. Poblete [Meta-Level Sentiment Models for Big Social Data Analysis](http://www.sciencedirect.com/science/article/pii/S0950705114002068). In *Knowledge-Based Systems* Volume 69, October 2014, Pages 86–99. DOI:10.1016/j.knosys.2014.05.016 ([pdf](https://felipebravom.com/publications/KBS2014.pdf))
 
 ### Conference and Workshop Papers 
+
+2. M. Godoy, F. Bravo-Marquez, and M. Toro [DPSuiteRAG: A Benchmarking Abstraction for Differentially Private Retrieval-Augmented Generation](https://amw2026.github.io), In *WSDM 2027 Proceedings of  The 20th ACM International Conference on Web Search and Data Mining*.  Hong Kong, China 2027. (to appear) 
+
 1. J. Ortiz-Fuentes, F. Bravo-Marquez, and B. Quiroz [Attitude Analysis in Systemic Functional Linguistics: A New Corpus and Benchmark Task](https://aclanthology.org/2026.findings-emnlp.1321/), In *Findings of the Association for Computational Linguistics: EMNLP 2026*.  Budapest, Hungary 2026. Association for Computational Linguistics. Pages 28000–28023 ([pdf](https://felipebravom.com/publications/emnlp2026.pdf)) 
 
 2. B. Farías, F. Bravo-Marquez, and V. Barriere [Reverse Soft Counterfactuals for Bias Exploratory Analysis in Language Models](https://amw2026.github.io), In *AMW 2026 Proceedings of  17th Alberto Mendelzon Workshop*.  Arequipa, Perú 2026. ([pdf](https://felipebravom.com/publications/amw2026.pdf)) 
