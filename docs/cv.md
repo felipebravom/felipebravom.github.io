@@ -191,7 +191,7 @@
 * [October 2016] [National Research Council Canada (NRC)](http://www.nrc-cnrc.gc.ca/eng/index.html), hosted by [Saif Mohammad](http://saifmohammad.com/).
 
 ## Seminars and Talks
-* [November 2026] Invited Speaker, “Multi-Agents, Embodiment, and Chips,” Reflexionar la IA: Formación, Investigación y Autoría, Marco Normativo, Conference Series organized by CMM, SK Godelius, and IDIA, Santiago, Chile. Event
+* [November 2026] Invited Speaker, “Multi-Agents, Embodiment, and Chips,” Reflexionar la IA: Formación, Investigación y Autoría, Marco Normativo, Conference Series organized by CMM, SK Godelius, and IDIA, Santiago, Chile. [Event]((https://www.cmm.uchile.cl/events/reflexionar-la-ia/))
 * [November 2026] Invited Speaker, “DashAI: Machine Learning Without Coding,” Semana de Ingeniería, Faculty of Engineering Sciences, Universidad Católica del Maule, Talca, Chile.
 * [October 2026] Invited Panelist, “¿Qué lugar ocupará Chile en la era de la IA?”, Exponencial UDD, Santiago, Chile. Participated in a panel moderated by Loreto Bravo (Universidad del Desarrollo), alongside Cuky Pérez (Director of Companies) and Sergio Rademacher (Director of Companies), discussing Chile’s opportunities and challenges in the age of artificial intelligence. [Event program](https://exponencial.udd.cl/programa-santiago/) · [News article](https://www.udd.cl/noticias/2026/10/16/exponencial-udd-reunio-a-expertos-para-analizar-el-impacto-de-la-ia-en-el-futuro-de-la-humanidad/)
 * [September 2026] DashAI a no-code machine learning plattform, ChileTec, Santiago, Chile.

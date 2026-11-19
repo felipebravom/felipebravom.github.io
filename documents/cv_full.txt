@@ -589,7 +589,7 @@
 
 ## Seminars and Talks
 
-* [November 2026] Invited Speaker, “Multi-Agents, Embodiment, and Chips,” Reflexionar la IA: Formación, Investigación y Autoría, Marco Normativo, Conference Series organized by CMM, SK Godelius, and IDIA, Santiago, Chile. Event
+* [November 2026] Invited Speaker, “Multi-Agents, Embodiment, and Chips,” Reflexionar la IA: Formación, Investigación y Autoría, Marco Normativo, Conference Series organized by CMM, SK Godelius, and IDIA, Santiago, Chile. [Event]((https://www.cmm.uchile.cl/events/reflexionar-la-ia/))
 
 * [November 2026] Invited Speaker, “DashAI: Machine Learning Without Coding,” Semana de Ingeniería, Faculty of Engineering Sciences, Universidad Católica del Maule, Talca, Chile.
 
